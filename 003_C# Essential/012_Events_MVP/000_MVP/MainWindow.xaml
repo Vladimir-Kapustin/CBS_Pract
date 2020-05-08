@@ -1,0 +1,11 @@
+﻿<!--Это собственно Вид (view) (в данном контексте MVP) - интерфейс, который отображает данные (модель) и маршрутизирует пользовательские команды (или события) Prestnter-у, чтобы тот действовал над этими данными.-->
+    <Window x:Class="_000_MVP.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="210" Width="525">
+    <Grid>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="209,124,0,0" Name="button1" VerticalAlignment="Top" Width="75" Click="button1_Click"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="43,63,0,0" Name="textBox1" TextWrapping="Wrap" VerticalAlignment="Top" Width="429"/>
+
+    </Grid>
+</Window>

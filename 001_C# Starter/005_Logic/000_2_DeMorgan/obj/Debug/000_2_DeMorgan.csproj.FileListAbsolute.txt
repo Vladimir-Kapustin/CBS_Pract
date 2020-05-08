@@ -1,0 +1,15 @@
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\005_Logic\Logic\000_2_DeMorgan\bin\Debug\000_2_DeMorgan.exe.config
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\005_Logic\Logic\000_2_DeMorgan\bin\Debug\000_2_DeMorgan.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\005_Logic\Logic\000_2_DeMorgan\bin\Debug\000_2_DeMorgan.pdb
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\005_Logic\Logic\000_2_DeMorgan\obj\Debug\000_2_DeMorgan.csprojResolveAssemblyReference.cache
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\005_Logic\Logic\000_2_DeMorgan\obj\Debug\000_2_DeMorgan.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\005_Logic\Logic\000_2_DeMorgan\obj\Debug\000_2_DeMorgan.pdb
+d:\.NET Pract\001_C# Starter\005_Logic\000_2_DeMorgan\bin\Debug\000_2_DeMorgan.exe.config
+d:\.NET Pract\001_C# Starter\005_Logic\000_2_DeMorgan\obj\Debug\000_2_DeMorgan.exe
+d:\.NET Pract\001_C# Starter\005_Logic\000_2_DeMorgan\obj\Debug\000_2_DeMorgan.pdb
+d:\.NET Pract\001_C# Starter\005_Logic\000_2_DeMorgan\bin\Debug\000_2_DeMorgan.exe
+d:\.NET Pract\001_C# Starter\005_Logic\000_2_DeMorgan\bin\Debug\000_2_DeMorgan.pdb
+d:\.NET Pract\001_C# Starter\005_Logic\000_2_DeMorgan\obj\Debug\000_2_DeMorgan.csprojResolveAssemblyReference.cache
+d:\CBS_Pract\001_C# Starter\005_Logic\000_2_DeMorgan\bin\Debug\000_2_DeMorgan.exe.config
+d:\CBS_Pract\001_C# Starter\005_Logic\000_2_DeMorgan\obj\Debug\000_2_DeMorgan.exe
+d:\CBS_Pract\001_C# Starter\005_Logic\000_2_DeMorgan\obj\Debug\000_2_DeMorgan.pdb

@@ -1,0 +1,12 @@
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\007_Methods\002_ArithmeticalOperations\bin\Debug\002_ArithmeticalOperations.exe.config
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\007_Methods\002_ArithmeticalOperations\bin\Debug\002_ArithmeticalOperations.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\007_Methods\002_ArithmeticalOperations\bin\Debug\002_ArithmeticalOperations.pdb
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\007_Methods\002_ArithmeticalOperations\obj\Debug\002_ArithmeticalOperations.csprojResolveAssemblyReference.cache
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\007_Methods\002_ArithmeticalOperations\obj\Debug\002_ArithmeticalOperations.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\007_Methods\002_ArithmeticalOperations\obj\Debug\002_ArithmeticalOperations.pdb
+d:\.NET Pract\001_C# Starter\007_Methods\002_ArithmeticalOperations\bin\Debug\002_ArithmeticalOperations.exe.config
+d:\.NET Pract\001_C# Starter\007_Methods\002_ArithmeticalOperations\obj\Debug\002_ArithmeticalOperations.exe
+d:\.NET Pract\001_C# Starter\007_Methods\002_ArithmeticalOperations\obj\Debug\002_ArithmeticalOperations.pdb
+d:\.NET Pract\001_C# Starter\007_Methods\002_ArithmeticalOperations\bin\Debug\002_ArithmeticalOperations.exe
+d:\.NET Pract\001_C# Starter\007_Methods\002_ArithmeticalOperations\bin\Debug\002_ArithmeticalOperations.pdb
+d:\.NET Pract\001_C# Starter\007_Methods\002_ArithmeticalOperations\obj\Debug\002_ArithmeticalOperations.csprojResolveAssemblyReference.cache

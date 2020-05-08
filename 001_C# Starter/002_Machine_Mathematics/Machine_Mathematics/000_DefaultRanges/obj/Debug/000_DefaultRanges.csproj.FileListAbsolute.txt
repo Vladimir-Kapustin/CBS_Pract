@@ -1,0 +1,11 @@
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\002_Machine_Mathematics\Machine_Mathematics\000_DefaultRanges\bin\Debug\000_DefaultRanges.exe.config
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\002_Machine_Mathematics\Machine_Mathematics\000_DefaultRanges\bin\Debug\000_DefaultRanges.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\002_Machine_Mathematics\Machine_Mathematics\000_DefaultRanges\bin\Debug\000_DefaultRanges.pdb
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\002_Machine_Mathematics\Machine_Mathematics\000_DefaultRanges\obj\Debug\_000_DefaultRanges.Form1.resources
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\002_Machine_Mathematics\Machine_Mathematics\000_DefaultRanges\obj\Debug\_000_DefaultRanges.Properties.Resources.resources
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\002_Machine_Mathematics\Machine_Mathematics\000_DefaultRanges\obj\Debug\000_DefaultRanges.csproj.GenerateResource.Cache
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\002_Machine_Mathematics\Machine_Mathematics\000_DefaultRanges\obj\Debug\000_DefaultRanges.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\002_Machine_Mathematics\Machine_Mathematics\000_DefaultRanges\obj\Debug\000_DefaultRanges.pdb
+d:\.NET Pract\001_C# Starter\002_Machine_Mathematics\Machine_Mathematics\000_DefaultRanges\bin\Debug\000_DefaultRanges.exe.config
+d:\.NET Pract\001_C# Starter\002_Machine_Mathematics\Machine_Mathematics\000_DefaultRanges\obj\Debug\000_DefaultRanges.exe
+d:\.NET Pract\001_C# Starter\002_Machine_Mathematics\Machine_Mathematics\000_DefaultRanges\obj\Debug\000_DefaultRanges.pdb

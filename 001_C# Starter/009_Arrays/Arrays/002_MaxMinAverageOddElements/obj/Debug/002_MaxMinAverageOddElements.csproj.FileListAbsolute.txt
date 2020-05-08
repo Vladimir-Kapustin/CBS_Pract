@@ -1,0 +1,12 @@
+F:\Courses .NET\CBS\Fourth - Online\C# Starter\Practice\008_Arrays\Arrays\002_MaxMinAverageOddElements\bin\Debug\002_MaxMinAverageOddElements.exe.config
+F:\Courses .NET\CBS\Fourth - Online\C# Starter\Practice\008_Arrays\Arrays\002_MaxMinAverageOddElements\bin\Debug\002_MaxMinAverageOddElements.exe
+F:\Courses .NET\CBS\Fourth - Online\C# Starter\Practice\008_Arrays\Arrays\002_MaxMinAverageOddElements\bin\Debug\002_MaxMinAverageOddElements.pdb
+F:\Courses .NET\CBS\Fourth - Online\C# Starter\Practice\008_Arrays\Arrays\002_MaxMinAverageOddElements\obj\Debug\002_MaxMinAverageOddElements.exe
+F:\Courses .NET\CBS\Fourth - Online\C# Starter\Practice\008_Arrays\Arrays\002_MaxMinAverageOddElements\obj\Debug\002_MaxMinAverageOddElements.pdb
+F:\Courses .NET\CBS\Fourth - Online\C# Starter\Practice\008_Arrays\Arrays\002_MaxMinAverageOddElements\obj\Debug\002_MaxMinAverageOddElements.csprojResolveAssemblyReference.cache
+d:\.NET Pract\001_C# Starter\009_Arrays\Arrays\002_MaxMinAverageOddElements\bin\Debug\002_MaxMinAverageOddElements.exe.config
+d:\.NET Pract\001_C# Starter\009_Arrays\Arrays\002_MaxMinAverageOddElements\obj\Debug\002_MaxMinAverageOddElements.exe
+d:\.NET Pract\001_C# Starter\009_Arrays\Arrays\002_MaxMinAverageOddElements\obj\Debug\002_MaxMinAverageOddElements.pdb
+d:\.NET Pract\001_C# Starter\009_Arrays\Arrays\002_MaxMinAverageOddElements\bin\Debug\002_MaxMinAverageOddElements.exe
+d:\.NET Pract\001_C# Starter\009_Arrays\Arrays\002_MaxMinAverageOddElements\bin\Debug\002_MaxMinAverageOddElements.pdb
+d:\.NET Pract\001_C# Starter\009_Arrays\Arrays\002_MaxMinAverageOddElements\obj\Debug\002_MaxMinAverageOddElements.csprojResolveAssemblyReference.cache

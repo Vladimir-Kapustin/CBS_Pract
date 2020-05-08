@@ -1,0 +1,2 @@
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\002_Machine_Mathematics\Machine_Mathematics\002_VariablesNaming\bin\Debug\002_VariablesNaming.exe.config
+d:\.NET Pract\001_C# Starter\002_Machine_Mathematics\Machine_Mathematics\002_VariablesNaming\bin\Debug\002_VariablesNaming.exe.config

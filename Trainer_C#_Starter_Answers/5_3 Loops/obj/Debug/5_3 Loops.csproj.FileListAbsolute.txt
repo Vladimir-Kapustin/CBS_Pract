@@ -1,0 +1,5 @@
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Trainer Csharp Starter\5_3 Loops\bin\Debug\5_3 Loops.exe.config
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Trainer Csharp Starter\5_3 Loops\bin\Debug\5_3 Loops.exe
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Trainer Csharp Starter\5_3 Loops\bin\Debug\5_3 Loops.pdb
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Trainer Csharp Starter\5_3 Loops\obj\Debug\5_3 Loops.exe
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Trainer Csharp Starter\5_3 Loops\obj\Debug\5_3 Loops.pdb

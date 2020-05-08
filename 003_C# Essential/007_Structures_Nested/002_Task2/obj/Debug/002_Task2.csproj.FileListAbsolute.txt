@@ -1,0 +1,5 @@
+D:\.NET Pract\003_C# Essential\007_Structures\002_Task2\bin\Debug\002_Task2.exe.config
+D:\.NET Pract\003_C# Essential\007_Structures\002_Task2\bin\Debug\002_Task2.exe
+D:\.NET Pract\003_C# Essential\007_Structures\002_Task2\bin\Debug\002_Task2.pdb
+D:\.NET Pract\003_C# Essential\007_Structures\002_Task2\obj\Debug\002_Task2.exe
+D:\.NET Pract\003_C# Essential\007_Structures\002_Task2\obj\Debug\002_Task2.pdb

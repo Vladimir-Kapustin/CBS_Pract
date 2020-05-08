@@ -1,0 +1,12 @@
+D:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\002_Classes_Partial_UML\000_Readonly\bin\Debug\000_Readonly.exe.config
+D:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\002_Classes_Partial_UML\000_Readonly\bin\Debug\000_Readonly.exe
+D:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\002_Classes_Partial_UML\000_Readonly\bin\Debug\000_Readonly.pdb
+D:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\002_Classes_Partial_UML\000_Readonly\obj\Debug\000_Readonly.csprojResolveAssemblyReference.cache
+D:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\002_Classes_Partial_UML\000_Readonly\obj\Debug\000_Readonly.exe
+D:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\002_Classes_Partial_UML\000_Readonly\obj\Debug\000_Readonly.pdb
+d:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\000_Readonly\bin\Debug\000_Readonly.exe.config
+d:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\000_Readonly\obj\Debug\000_Readonly.exe
+d:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\000_Readonly\obj\Debug\000_Readonly.pdb
+d:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\000_Readonly\bin\Debug\000_Readonly.exe
+d:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\000_Readonly\bin\Debug\000_Readonly.pdb
+d:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\000_Readonly\obj\Debug\000_Readonly.csprojResolveAssemblyReference.cache

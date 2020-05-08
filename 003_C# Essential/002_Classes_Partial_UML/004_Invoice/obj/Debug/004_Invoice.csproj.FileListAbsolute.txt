@@ -1,0 +1,12 @@
+D:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\002_Classes_Partial_UML\004_Invoice\bin\Debug\004_Invoice.exe.config
+D:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\002_Classes_Partial_UML\004_Invoice\bin\Debug\004_Invoice.exe
+D:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\002_Classes_Partial_UML\004_Invoice\bin\Debug\004_Invoice.pdb
+D:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\002_Classes_Partial_UML\004_Invoice\obj\Debug\004_Invoice.csprojResolveAssemblyReference.cache
+D:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\002_Classes_Partial_UML\004_Invoice\obj\Debug\004_Invoice.exe
+D:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\002_Classes_Partial_UML\004_Invoice\obj\Debug\004_Invoice.pdb
+d:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\004_Invoice\bin\Debug\004_Invoice.exe.config
+d:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\004_Invoice\obj\Debug\004_Invoice.exe
+d:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\004_Invoice\obj\Debug\004_Invoice.pdb
+d:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\004_Invoice\bin\Debug\004_Invoice.exe
+d:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\004_Invoice\bin\Debug\004_Invoice.pdb
+d:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\004_Invoice\obj\Debug\004_Invoice.csprojResolveAssemblyReference.cache

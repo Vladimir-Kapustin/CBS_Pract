@@ -1,0 +1,6 @@
+d:\.NET Pract\003_C# Essential\014_Collections_Enumerator_yield\002_IEnumerable_IEnumerator\bin\Debug\002_IEnumerable_IEnumerator.exe.config
+d:\.NET Pract\003_C# Essential\014_Collections_Enumerator_yield\002_IEnumerable_IEnumerator\obj\Debug\002_IEnumerable_IEnumerator.csprojResolveAssemblyReference.cache
+d:\.NET Pract\003_C# Essential\014_Collections_Enumerator_yield\002_IEnumerable_IEnumerator\bin\Debug\002_IEnumerable_IEnumerator.exe
+d:\.NET Pract\003_C# Essential\014_Collections_Enumerator_yield\002_IEnumerable_IEnumerator\bin\Debug\002_IEnumerable_IEnumerator.pdb
+d:\.NET Pract\003_C# Essential\014_Collections_Enumerator_yield\002_IEnumerable_IEnumerator\obj\Debug\002_IEnumerable_IEnumerator.exe
+d:\.NET Pract\003_C# Essential\014_Collections_Enumerator_yield\002_IEnumerable_IEnumerator\obj\Debug\002_IEnumerable_IEnumerator.pdb

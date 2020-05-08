@@ -1,0 +1,11 @@
+F:\Courses .NET\CBS\Fourth - Online\C# Starter\Practice\008_Arrays\Arrays\001_ReversedPrintOfArray\bin\Debug\001_ReversedPrintOfArray.exe.config
+F:\Courses .NET\CBS\Fourth - Online\C# Starter\Practice\008_Arrays\Arrays\001_ReversedPrintOfArray\bin\Debug\001_ReversedPrintOfArray.exe
+F:\Courses .NET\CBS\Fourth - Online\C# Starter\Practice\008_Arrays\Arrays\001_ReversedPrintOfArray\bin\Debug\001_ReversedPrintOfArray.pdb
+F:\Courses .NET\CBS\Fourth - Online\C# Starter\Practice\008_Arrays\Arrays\001_ReversedPrintOfArray\obj\Debug\001_ReversedPrintOfArray.exe
+F:\Courses .NET\CBS\Fourth - Online\C# Starter\Practice\008_Arrays\Arrays\001_ReversedPrintOfArray\obj\Debug\001_ReversedPrintOfArray.pdb
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\008_Arrays\Arrays\001_ReversedPrintOfArray\bin\Debug\001_ReversedPrintOfArray.exe.config
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\008_Arrays\Arrays\001_ReversedPrintOfArray\obj\Debug\001_ReversedPrintOfArray.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\008_Arrays\Arrays\001_ReversedPrintOfArray\obj\Debug\001_ReversedPrintOfArray.pdb
+d:\.NET Pract\001_C# Starter\009_Arrays\Arrays\001_ReversedPrintOfArray\bin\Debug\001_ReversedPrintOfArray.exe.config
+d:\.NET Pract\001_C# Starter\009_Arrays\Arrays\001_ReversedPrintOfArray\obj\Debug\001_ReversedPrintOfArray.exe
+d:\.NET Pract\001_C# Starter\009_Arrays\Arrays\001_ReversedPrintOfArray\obj\Debug\001_ReversedPrintOfArray.pdb

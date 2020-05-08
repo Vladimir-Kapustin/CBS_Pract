@@ -1,0 +1,6 @@
+D:\.NET Pract\003_C# Essential\003_Inheritance_Polymorphism_Encapsulation_Cast\002_Inherit_Polymor_Aggreg\bin\Debug\002_Inherit_Polymor_Aggreg.exe.config
+D:\.NET Pract\003_C# Essential\003_Inheritance_Polymorphism_Encapsulation_Cast\002_Inherit_Polymor_Aggreg\bin\Debug\002_Inherit_Polymor_Aggreg.exe
+D:\.NET Pract\003_C# Essential\003_Inheritance_Polymorphism_Encapsulation_Cast\002_Inherit_Polymor_Aggreg\bin\Debug\002_Inherit_Polymor_Aggreg.pdb
+D:\.NET Pract\003_C# Essential\003_Inheritance_Polymorphism_Encapsulation_Cast\002_Inherit_Polymor_Aggreg\obj\Debug\002_Inherit_Polymor_Aggreg.csprojResolveAssemblyReference.cache
+D:\.NET Pract\003_C# Essential\003_Inheritance_Polymorphism_Encapsulation_Cast\002_Inherit_Polymor_Aggreg\obj\Debug\002_Inherit_Polymor_Aggreg.exe
+D:\.NET Pract\003_C# Essential\003_Inheritance_Polymorphism_Encapsulation_Cast\002_Inherit_Polymor_Aggreg\obj\Debug\002_Inherit_Polymor_Aggreg.pdb

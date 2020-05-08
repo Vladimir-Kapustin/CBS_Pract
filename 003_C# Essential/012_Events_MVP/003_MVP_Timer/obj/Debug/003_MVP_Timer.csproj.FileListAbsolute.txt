@@ -1,0 +1,9 @@
+D:\.NET Pract\003_C# Essential\012_Events_MVP\003_MVP_Timer\bin\Debug\003_MVP_Timer.exe.config
+D:\.NET Pract\003_C# Essential\012_Events_MVP\003_MVP_Timer\bin\Debug\003_MVP_Timer.exe
+D:\.NET Pract\003_C# Essential\012_Events_MVP\003_MVP_Timer\bin\Debug\003_MVP_Timer.pdb
+D:\.NET Pract\003_C# Essential\012_Events_MVP\003_MVP_Timer\obj\Debug\003_MVP_Timer.csprojResolveAssemblyReference.cache
+D:\.NET Pract\003_C# Essential\012_Events_MVP\003_MVP_Timer\obj\Debug\_003_MVP_Timer.Form1.resources
+D:\.NET Pract\003_C# Essential\012_Events_MVP\003_MVP_Timer\obj\Debug\_003_MVP_Timer.Properties.Resources.resources
+D:\.NET Pract\003_C# Essential\012_Events_MVP\003_MVP_Timer\obj\Debug\003_MVP_Timer.csproj.GenerateResource.Cache
+D:\.NET Pract\003_C# Essential\012_Events_MVP\003_MVP_Timer\obj\Debug\003_MVP_Timer.exe
+D:\.NET Pract\003_C# Essential\012_Events_MVP\003_MVP_Timer\obj\Debug\003_MVP_Timer.pdb

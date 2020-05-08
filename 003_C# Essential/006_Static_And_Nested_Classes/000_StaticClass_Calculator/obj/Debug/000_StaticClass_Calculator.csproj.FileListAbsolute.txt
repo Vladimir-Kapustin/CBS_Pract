@@ -1,0 +1,15 @@
+D:\.NET Pract\003_C# Essential\006_StaticClasses\000_StaticClass_Calculator\bin\Debug\000_StaticClass_Calculator.exe.config
+D:\.NET Pract\003_C# Essential\006_StaticClasses\000_StaticClass_Calculator\bin\Debug\000_StaticClass_Calculator.exe
+D:\.NET Pract\003_C# Essential\006_StaticClasses\000_StaticClass_Calculator\bin\Debug\000_StaticClass_Calculator.pdb
+D:\.NET Pract\003_C# Essential\006_StaticClasses\000_StaticClass_Calculator\obj\Debug\000_StaticClass_Calculator.csprojResolveAssemblyReference.cache
+D:\.NET Pract\003_C# Essential\006_StaticClasses\000_StaticClass_Calculator\obj\Debug\000_StaticClass_Calculator.exe
+D:\.NET Pract\003_C# Essential\006_StaticClasses\000_StaticClass_Calculator\obj\Debug\000_StaticClass_Calculator.pdb
+D:\.NET Pract\003_C# Essential\006_Static_And_Nested_Classes\000_StaticClass_Calculator\bin\Debug\000_StaticClass_Calculator.exe.config
+D:\.NET Pract\003_C# Essential\006_Static_And_Nested_Classes\000_StaticClass_Calculator\obj\Debug\000_StaticClass_Calculator.exe
+D:\.NET Pract\003_C# Essential\006_Static_And_Nested_Classes\000_StaticClass_Calculator\obj\Debug\000_StaticClass_Calculator.pdb
+d:\Repos\CBS_Pract\003_C# Essential\006_Static_And_Nested_Classes\000_StaticClass_Calculator\bin\Debug\000_StaticClass_Calculator.exe.config
+d:\Repos\CBS_Pract\003_C# Essential\006_Static_And_Nested_Classes\000_StaticClass_Calculator\obj\Debug\000_StaticClass_Calculator.exe
+d:\Repos\CBS_Pract\003_C# Essential\006_Static_And_Nested_Classes\000_StaticClass_Calculator\obj\Debug\000_StaticClass_Calculator.pdb
+d:\CBS_Pract\003_C# Essential\006_Static_And_Nested_Classes\000_StaticClass_Calculator\bin\Debug\000_StaticClass_Calculator.exe.config
+d:\CBS_Pract\003_C# Essential\006_Static_And_Nested_Classes\000_StaticClass_Calculator\obj\Debug\000_StaticClass_Calculator.exe
+d:\CBS_Pract\003_C# Essential\006_Static_And_Nested_Classes\000_StaticClass_Calculator\obj\Debug\000_StaticClass_Calculator.pdb

@@ -1,0 +1,12 @@
+D:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\002_Classes_Partial_UML\002_Converter\bin\Debug\002_Converter.exe.config
+D:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\002_Classes_Partial_UML\002_Converter\bin\Debug\002_Converter.exe
+D:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\002_Classes_Partial_UML\002_Converter\bin\Debug\002_Converter.pdb
+D:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\002_Classes_Partial_UML\002_Converter\obj\Debug\002_Converter.csprojResolveAssemblyReference.cache
+D:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\002_Classes_Partial_UML\002_Converter\obj\Debug\002_Converter.exe
+D:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\002_Classes_Partial_UML\002_Converter\obj\Debug\002_Converter.pdb
+d:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\002_Converter\bin\Debug\002_Converter.exe.config
+d:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\002_Converter\obj\Debug\002_Converter.exe
+d:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\002_Converter\obj\Debug\002_Converter.pdb
+d:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\002_Converter\bin\Debug\002_Converter.exe
+d:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\002_Converter\bin\Debug\002_Converter.pdb
+d:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\002_Converter\obj\Debug\002_Converter.csprojResolveAssemblyReference.cache

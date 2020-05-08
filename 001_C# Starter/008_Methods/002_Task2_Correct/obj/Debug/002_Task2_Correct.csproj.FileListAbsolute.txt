@@ -1,0 +1,6 @@
+D:\.NET Pract\001_C# Starter\008_Methods\002_Task2_Correct\bin\Debug\002_Task2_Correct.exe.config
+D:\.NET Pract\001_C# Starter\008_Methods\002_Task2_Correct\bin\Debug\002_Task2_Correct.exe
+D:\.NET Pract\001_C# Starter\008_Methods\002_Task2_Correct\bin\Debug\002_Task2_Correct.pdb
+D:\.NET Pract\001_C# Starter\008_Methods\002_Task2_Correct\obj\Debug\002_Task2_Correct.csprojResolveAssemblyReference.cache
+D:\.NET Pract\001_C# Starter\008_Methods\002_Task2_Correct\obj\Debug\002_Task2_Correct.exe
+D:\.NET Pract\001_C# Starter\008_Methods\002_Task2_Correct\obj\Debug\002_Task2_Correct.pdb

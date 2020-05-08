@@ -1,0 +1,42 @@
+C:\Users\Vladimir\Desktop\C# Starter (HomeWork)\001_Intro\WpfApplication\WpfApplication\bin\Debug\WpfApplication.exe.config
+C:\Users\Vladimir\Desktop\C# Starter (HomeWork)\001_Intro\WpfApplication\WpfApplication\obj\Debug\WpfApplication.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Desktop\C# Starter (HomeWork)\001_Intro\WpfApplication\WpfApplication\obj\Debug\MainWindow.baml
+C:\Users\Vladimir\Desktop\C# Starter (HomeWork)\001_Intro\WpfApplication\WpfApplication\obj\Debug\MainWindow.g.cs
+C:\Users\Vladimir\Desktop\C# Starter (HomeWork)\001_Intro\WpfApplication\WpfApplication\obj\Debug\App.g.cs
+C:\Users\Vladimir\Desktop\C# Starter (HomeWork)\001_Intro\WpfApplication\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.cache
+C:\Users\Vladimir\Desktop\C# Starter (HomeWork)\001_Intro\WpfApplication\WpfApplication\obj\Debug\WpfApplication.g.resources
+C:\Users\Vladimir\Desktop\C# Starter (HomeWork)\001_Intro\WpfApplication\WpfApplication\obj\Debug\WpfApplication.Properties.Resources.resources
+C:\Users\Vladimir\Desktop\C# Starter (HomeWork)\001_Intro\WpfApplication\WpfApplication\obj\Debug\WpfApplication.csproj.GenerateResource.Cache
+C:\Users\Vladimir\Desktop\C# Starter (HomeWork)\001_Intro\WpfApplication\WpfApplication\bin\Debug\WpfApplication.exe
+C:\Users\Vladimir\Desktop\C# Starter (HomeWork)\001_Intro\WpfApplication\WpfApplication\bin\Debug\WpfApplication.pdb
+C:\Users\Vladimir\Desktop\C# Starter (HomeWork)\001_Intro\WpfApplication\WpfApplication\obj\Debug\WpfApplication.exe
+C:\Users\Vladimir\Desktop\C# Starter (HomeWork)\001_Intro\WpfApplication\WpfApplication\obj\Debug\WpfApplication.pdb
+C:\Users\Vladimir\Desktop\C# Starter (Practice)\001_Intro\WpfApplication\WpfApplication\bin\Debug\WpfApplication.exe.config
+C:\Users\Vladimir\Desktop\C# Starter (Practice)\001_Intro\WpfApplication\WpfApplication\obj\Debug\WpfApplication.exe
+C:\Users\Vladimir\Desktop\C# Starter (Practice)\001_Intro\WpfApplication\WpfApplication\obj\Debug\WpfApplication.pdb
+C:\Users\Vladimir\Desktop\C# Starter (Practice)\001_Intro\WpfApplication\WpfApplication\bin\Debug\WpfApplication.exe
+C:\Users\Vladimir\Desktop\C# Starter (Practice)\001_Intro\WpfApplication\WpfApplication\bin\Debug\WpfApplication.pdb
+C:\Users\Vladimir\Desktop\C# Starter (Practice)\001_Intro\WpfApplication\WpfApplication\obj\Debug\WpfApplication.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Desktop\C# Starter (Practice)\001_Intro\WpfApplication\WpfApplication\obj\Debug\MainWindow.baml
+C:\Users\Vladimir\Desktop\C# Starter (Practice)\001_Intro\WpfApplication\WpfApplication\obj\Debug\MainWindow.g.cs
+C:\Users\Vladimir\Desktop\C# Starter (Practice)\001_Intro\WpfApplication\WpfApplication\obj\Debug\App.g.cs
+C:\Users\Vladimir\Desktop\C# Starter (Practice)\001_Intro\WpfApplication\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.cache
+C:\Users\Vladimir\Desktop\C# Starter (Practice)\001_Intro\WpfApplication\WpfApplication\obj\Debug\WpfApplication.g.resources
+C:\Users\Vladimir\Desktop\C# Starter (Practice)\001_Intro\WpfApplication\WpfApplication\obj\Debug\WpfApplication.Properties.Resources.resources
+C:\Users\Vladimir\Desktop\C# Starter (Practice)\001_Intro\WpfApplication\WpfApplication\obj\Debug\WpfApplication.csproj.GenerateResource.Cache
+F:\Courses .NET\CBS\C# Starter - CBS\Fourth - Online\C# Starter\Practice\001_Intro\WpfApplication\WpfApplication\bin\Debug\WpfApplication.exe.config
+F:\Courses .NET\CBS\C# Starter - CBS\Fourth - Online\C# Starter\Practice\001_Intro\WpfApplication\WpfApplication\obj\Debug\WpfApplication.exe
+F:\Courses .NET\CBS\C# Starter - CBS\Fourth - Online\C# Starter\Practice\001_Intro\WpfApplication\WpfApplication\obj\Debug\WpfApplication.pdb
+d:\.NET Pract\001_C# Starter\001_Intro\WpfApplication\WpfApplication\bin\Debug\WpfApplication.exe.config
+d:\.NET Pract\001_C# Starter\001_Intro\WpfApplication\WpfApplication\obj\Debug\WpfApplication.exe
+d:\.NET Pract\001_C# Starter\001_Intro\WpfApplication\WpfApplication\obj\Debug\WpfApplication.pdb
+d:\.NET Pract\001_C# Starter\001_Intro\WpfApplication\WpfApplication\bin\Debug\WpfApplication.exe
+d:\.NET Pract\001_C# Starter\001_Intro\WpfApplication\WpfApplication\bin\Debug\WpfApplication.pdb
+d:\.NET Pract\001_C# Starter\001_Intro\WpfApplication\WpfApplication\obj\Debug\WpfApplication.csprojResolveAssemblyReference.cache
+d:\.NET Pract\001_C# Starter\001_Intro\WpfApplication\WpfApplication\obj\Debug\MainWindow.baml
+d:\.NET Pract\001_C# Starter\001_Intro\WpfApplication\WpfApplication\obj\Debug\MainWindow.g.cs
+d:\.NET Pract\001_C# Starter\001_Intro\WpfApplication\WpfApplication\obj\Debug\App.g.cs
+d:\.NET Pract\001_C# Starter\001_Intro\WpfApplication\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.cache
+d:\.NET Pract\001_C# Starter\001_Intro\WpfApplication\WpfApplication\obj\Debug\WpfApplication.g.resources
+d:\.NET Pract\001_C# Starter\001_Intro\WpfApplication\WpfApplication\obj\Debug\WpfApplication.Properties.Resources.resources
+d:\.NET Pract\001_C# Starter\001_Intro\WpfApplication\WpfApplication\obj\Debug\WpfApplication.csproj.GenerateResource.Cache

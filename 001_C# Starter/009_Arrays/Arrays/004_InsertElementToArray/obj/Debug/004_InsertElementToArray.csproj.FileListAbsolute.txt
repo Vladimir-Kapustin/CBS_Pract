@@ -1,0 +1,12 @@
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\008_Arrays\Arrays\004_InsertElementToArray\bin\Debug\004_InsertElementToArray.exe.config
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\008_Arrays\Arrays\004_InsertElementToArray\bin\Debug\004_InsertElementToArray.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\008_Arrays\Arrays\004_InsertElementToArray\bin\Debug\004_InsertElementToArray.pdb
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\008_Arrays\Arrays\004_InsertElementToArray\obj\Debug\004_InsertElementToArray.csprojResolveAssemblyReference.cache
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\008_Arrays\Arrays\004_InsertElementToArray\obj\Debug\004_InsertElementToArray.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\008_Arrays\Arrays\004_InsertElementToArray\obj\Debug\004_InsertElementToArray.pdb
+d:\.NET Pract\001_C# Starter\009_Arrays\Arrays\004_InsertElementToArray\bin\Debug\004_InsertElementToArray.exe.config
+d:\.NET Pract\001_C# Starter\009_Arrays\Arrays\004_InsertElementToArray\obj\Debug\004_InsertElementToArray.exe
+d:\.NET Pract\001_C# Starter\009_Arrays\Arrays\004_InsertElementToArray\obj\Debug\004_InsertElementToArray.pdb
+d:\.NET Pract\001_C# Starter\009_Arrays\Arrays\004_InsertElementToArray\bin\Debug\004_InsertElementToArray.exe
+d:\.NET Pract\001_C# Starter\009_Arrays\Arrays\004_InsertElementToArray\bin\Debug\004_InsertElementToArray.pdb
+d:\.NET Pract\001_C# Starter\009_Arrays\Arrays\004_InsertElementToArray\obj\Debug\004_InsertElementToArray.csprojResolveAssemblyReference.cache

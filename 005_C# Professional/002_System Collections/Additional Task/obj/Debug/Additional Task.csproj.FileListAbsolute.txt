@@ -1,0 +1,6 @@
+D:\.NET Pract\005_C# Professional\002_System Collections\Additional Task\bin\Debug\Additional Task.exe.config
+D:\.NET Pract\005_C# Professional\002_System Collections\Additional Task\bin\Debug\Additional Task.exe
+D:\.NET Pract\005_C# Professional\002_System Collections\Additional Task\bin\Debug\Additional Task.pdb
+D:\.NET Pract\005_C# Professional\002_System Collections\Additional Task\obj\Debug\Additional Task.csprojResolveAssemblyReference.cache
+D:\.NET Pract\005_C# Professional\002_System Collections\Additional Task\obj\Debug\Additional Task.exe
+D:\.NET Pract\005_C# Professional\002_System Collections\Additional Task\obj\Debug\Additional Task.pdb

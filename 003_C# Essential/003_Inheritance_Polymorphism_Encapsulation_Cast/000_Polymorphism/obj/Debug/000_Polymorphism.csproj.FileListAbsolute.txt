@@ -1,0 +1,6 @@
+D:\.NET Pract\003_C# Essential\003_Inheritance_Polymorphism_Encapsulation_Cast\000_Polymorphism\bin\Debug\000_Polymorphism.exe.config
+D:\.NET Pract\003_C# Essential\003_Inheritance_Polymorphism_Encapsulation_Cast\000_Polymorphism\obj\Debug\000_Polymorphism.csprojResolveAssemblyReference.cache
+D:\.NET Pract\003_C# Essential\003_Inheritance_Polymorphism_Encapsulation_Cast\000_Polymorphism\bin\Debug\000_Polymorphism.exe
+D:\.NET Pract\003_C# Essential\003_Inheritance_Polymorphism_Encapsulation_Cast\000_Polymorphism\bin\Debug\000_Polymorphism.pdb
+D:\.NET Pract\003_C# Essential\003_Inheritance_Polymorphism_Encapsulation_Cast\000_Polymorphism\obj\Debug\000_Polymorphism.exe
+D:\.NET Pract\003_C# Essential\003_Inheritance_Polymorphism_Encapsulation_Cast\000_Polymorphism\obj\Debug\000_Polymorphism.pdb

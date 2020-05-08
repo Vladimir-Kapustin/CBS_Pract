@@ -1,0 +1,1 @@
+D:\.NET Pract\003_C# Essential\013_Threads\Test_Verification\bin\Debug\Test_Verification.exe.config

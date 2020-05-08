@@ -1,0 +1,5 @@
+D:\.NET Pract\005_C# Professional\002_System Collections\Task4\bin\Debug\Task4.exe.config
+D:\.NET Pract\005_C# Professional\002_System Collections\Task4\bin\Debug\Task4.exe
+D:\.NET Pract\005_C# Professional\002_System Collections\Task4\bin\Debug\Task4.pdb
+D:\.NET Pract\005_C# Professional\002_System Collections\Task4\obj\Debug\Task4.exe
+D:\.NET Pract\005_C# Professional\002_System Collections\Task4\obj\Debug\Task4.pdb

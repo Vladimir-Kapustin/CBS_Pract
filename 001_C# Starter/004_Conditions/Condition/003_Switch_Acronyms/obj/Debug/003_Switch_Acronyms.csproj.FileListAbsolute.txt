@@ -1,0 +1,12 @@
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\004_Conditions\Condition\003_Switch_Acronyms\bin\Debug\003_Switch_Acronyms.exe.config
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\004_Conditions\Condition\003_Switch_Acronyms\obj\Debug\003_Switch_Acronyms.csprojResolveAssemblyReference.cache
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\004_Conditions\Condition\003_Switch_Acronyms\bin\Debug\003_Switch_Acronyms.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\004_Conditions\Condition\003_Switch_Acronyms\bin\Debug\003_Switch_Acronyms.pdb
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\004_Conditions\Condition\003_Switch_Acronyms\obj\Debug\003_Switch_Acronyms.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\004_Conditions\Condition\003_Switch_Acronyms\obj\Debug\003_Switch_Acronyms.pdb
+d:\.NET Pract\001_C# Starter\004_Conditions\Condition\003_Switch_Acronyms\bin\Debug\003_Switch_Acronyms.exe.config
+d:\.NET Pract\001_C# Starter\004_Conditions\Condition\003_Switch_Acronyms\bin\Debug\003_Switch_Acronyms.exe
+d:\.NET Pract\001_C# Starter\004_Conditions\Condition\003_Switch_Acronyms\bin\Debug\003_Switch_Acronyms.pdb
+d:\.NET Pract\001_C# Starter\004_Conditions\Condition\003_Switch_Acronyms\obj\Debug\003_Switch_Acronyms.csprojResolveAssemblyReference.cache
+d:\.NET Pract\001_C# Starter\004_Conditions\Condition\003_Switch_Acronyms\obj\Debug\003_Switch_Acronyms.exe
+d:\.NET Pract\001_C# Starter\004_Conditions\Condition\003_Switch_Acronyms\obj\Debug\003_Switch_Acronyms.pdb

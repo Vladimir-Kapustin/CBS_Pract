@@ -1,0 +1,6 @@
+D:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VarioustTasks\Task6_4\bin\Debug\Task6_4.exe.config
+D:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VarioustTasks\Task6_4\bin\Debug\Task6_4.exe
+D:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VarioustTasks\Task6_4\bin\Debug\Task6_4.pdb
+D:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VarioustTasks\Task6_4\obj\Debug\Task6_4.csprojResolveAssemblyReference.cache
+D:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VarioustTasks\Task6_4\obj\Debug\Task6_4.exe
+D:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VarioustTasks\Task6_4\obj\Debug\Task6_4.pdb

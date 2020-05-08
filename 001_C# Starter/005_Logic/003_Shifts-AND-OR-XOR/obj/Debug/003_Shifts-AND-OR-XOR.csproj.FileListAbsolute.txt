@@ -1,0 +1,15 @@
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\005_Logic\Logic\003_Shifts-AND-OR-XOR\bin\Debug\003_Shifts-AND-OR-XOR.exe.config
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\005_Logic\Logic\003_Shifts-AND-OR-XOR\bin\Debug\003_Shifts-AND-OR-XOR.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\005_Logic\Logic\003_Shifts-AND-OR-XOR\bin\Debug\003_Shifts-AND-OR-XOR.pdb
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\005_Logic\Logic\003_Shifts-AND-OR-XOR\obj\Debug\003_Shifts-AND-OR-XOR.csprojResolveAssemblyReference.cache
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\005_Logic\Logic\003_Shifts-AND-OR-XOR\obj\Debug\003_Shifts-AND-OR-XOR.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\005_Logic\Logic\003_Shifts-AND-OR-XOR\obj\Debug\003_Shifts-AND-OR-XOR.pdb
+d:\.NET Pract\001_C# Starter\005_Logic\003_Shifts-AND-OR-XOR\bin\Debug\003_Shifts-AND-OR-XOR.exe.config
+d:\.NET Pract\001_C# Starter\005_Logic\003_Shifts-AND-OR-XOR\obj\Debug\003_Shifts-AND-OR-XOR.exe
+d:\.NET Pract\001_C# Starter\005_Logic\003_Shifts-AND-OR-XOR\obj\Debug\003_Shifts-AND-OR-XOR.pdb
+d:\.NET Pract\001_C# Starter\005_Logic\003_Shifts-AND-OR-XOR\bin\Debug\003_Shifts-AND-OR-XOR.exe
+d:\.NET Pract\001_C# Starter\005_Logic\003_Shifts-AND-OR-XOR\bin\Debug\003_Shifts-AND-OR-XOR.pdb
+d:\.NET Pract\001_C# Starter\005_Logic\003_Shifts-AND-OR-XOR\obj\Debug\003_Shifts-AND-OR-XOR.csprojResolveAssemblyReference.cache
+d:\CBS_Pract\001_C# Starter\005_Logic\003_Shifts-AND-OR-XOR\bin\Debug\003_Shifts-AND-OR-XOR.exe.config
+d:\CBS_Pract\001_C# Starter\005_Logic\003_Shifts-AND-OR-XOR\obj\Debug\003_Shifts-AND-OR-XOR.exe
+d:\CBS_Pract\001_C# Starter\005_Logic\003_Shifts-AND-OR-XOR\obj\Debug\003_Shifts-AND-OR-XOR.pdb

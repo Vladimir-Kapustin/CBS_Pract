@@ -1,0 +1,5 @@
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Trainer Csharp Starter\4_2 Logic\bin\Debug\4_2 Logic.exe.config
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Trainer Csharp Starter\4_2 Logic\bin\Debug\4_2 Logic.exe
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Trainer Csharp Starter\4_2 Logic\bin\Debug\4_2 Logic.pdb
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Trainer Csharp Starter\4_2 Logic\obj\Debug\4_2 Logic.exe
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Trainer Csharp Starter\4_2 Logic\obj\Debug\4_2 Logic.pdb

@@ -1,0 +1,6 @@
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\002_Machine_Mathematics\Machine_Mathematics\003_FormattingStringValues\bin\Debug\003_FormattingStringValues.exe.config
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\002_Machine_Mathematics\Machine_Mathematics\003_FormattingStringValues\bin\Debug\003_FormattingStringValues.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\002_Machine_Mathematics\Machine_Mathematics\003_FormattingStringValues\bin\Debug\003_FormattingStringValues.pdb
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\002_Machine_Mathematics\Machine_Mathematics\003_FormattingStringValues\obj\Debug\003_FormattingStringValues.csprojResolveAssemblyReference.cache
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\002_Machine_Mathematics\Machine_Mathematics\003_FormattingStringValues\obj\Debug\003_FormattingStringValues.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\002_Machine_Mathematics\Machine_Mathematics\003_FormattingStringValues\obj\Debug\003_FormattingStringValues.pdb

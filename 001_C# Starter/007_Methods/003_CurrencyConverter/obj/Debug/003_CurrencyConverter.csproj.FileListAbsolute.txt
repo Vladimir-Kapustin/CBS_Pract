@@ -1,0 +1,15 @@
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\007_Methods\003_CurrencyConverter\bin\Debug\003_CurrencyConverter.exe.config
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\007_Methods\003_CurrencyConverter\bin\Debug\003_CurrencyConverter.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\007_Methods\003_CurrencyConverter\bin\Debug\003_CurrencyConverter.pdb
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\007_Methods\003_CurrencyConverter\obj\Debug\003_CurrencyConverter.csprojResolveAssemblyReference.cache
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\007_Methods\003_CurrencyConverter\obj\Debug\003_CurrencyConverter.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\007_Methods\003_CurrencyConverter\obj\Debug\003_CurrencyConverter.pdb
+d:\.NET Pract\001_C# Starter\007_Methods\003_CurrencyConverter\bin\Debug\003_CurrencyConverter.exe.config
+d:\.NET Pract\001_C# Starter\007_Methods\003_CurrencyConverter\obj\Debug\003_CurrencyConverter.exe
+d:\.NET Pract\001_C# Starter\007_Methods\003_CurrencyConverter\obj\Debug\003_CurrencyConverter.pdb
+d:\.NET Pract\001_C# Starter\007_Methods\003_CurrencyConverter\bin\Debug\003_CurrencyConverter.exe
+d:\.NET Pract\001_C# Starter\007_Methods\003_CurrencyConverter\bin\Debug\003_CurrencyConverter.pdb
+d:\.NET Pract\001_C# Starter\007_Methods\003_CurrencyConverter\obj\Debug\003_CurrencyConverter.csprojResolveAssemblyReference.cache
+d:\CBS_Pract\001_C# Starter\007_Methods\003_CurrencyConverter\bin\Debug\003_CurrencyConverter.exe.config
+d:\CBS_Pract\001_C# Starter\007_Methods\003_CurrencyConverter\obj\Debug\003_CurrencyConverter.exe
+d:\CBS_Pract\001_C# Starter\007_Methods\003_CurrencyConverter\obj\Debug\003_CurrencyConverter.pdb

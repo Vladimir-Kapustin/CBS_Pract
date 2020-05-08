@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "000_AVL-Tree_And_Balancing", "000_AVL-Tree_And_Balancing\000_AVL-Tree_And_Balancing.csproj", "{5AD2CAC3-A17A-4F00-BB40-6F2C86EBBD07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Set_AVL_Based_Symmetric_Difference", "001_Set_AVL_Based_\001_Set_AVL_Based_Symmetric_Difference.csproj", "{62FB268C-66C9-41BF-93D8-428DB7A7E4DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AD2CAC3-A17A-4F00-BB40-6F2C86EBBD07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AD2CAC3-A17A-4F00-BB40-6F2C86EBBD07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AD2CAC3-A17A-4F00-BB40-6F2C86EBBD07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AD2CAC3-A17A-4F00-BB40-6F2C86EBBD07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62FB268C-66C9-41BF-93D8-428DB7A7E4DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62FB268C-66C9-41BF-93D8-428DB7A7E4DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62FB268C-66C9-41BF-93D8-428DB7A7E4DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62FB268C-66C9-41BF-93D8-428DB7A7E4DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

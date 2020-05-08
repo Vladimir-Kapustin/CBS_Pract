@@ -1,0 +1,9 @@
+D:\.NET Pract\003_C# Essential\006_StaticClasses\003_Task3\bin\Debug\003_Task3.exe.config
+D:\.NET Pract\003_C# Essential\006_StaticClasses\003_Task3\bin\Debug\003_Task3.exe
+D:\.NET Pract\003_C# Essential\006_StaticClasses\003_Task3\bin\Debug\003_Task3.pdb
+D:\.NET Pract\003_C# Essential\006_StaticClasses\003_Task3\obj\Debug\003_Task3.csprojResolveAssemblyReference.cache
+D:\.NET Pract\003_C# Essential\006_StaticClasses\003_Task3\obj\Debug\003_Task3.exe
+D:\.NET Pract\003_C# Essential\006_StaticClasses\003_Task3\obj\Debug\003_Task3.pdb
+d:\Repos\CBS_Pract\003_C# Essential\006_Static_And_Nested_Classes\003_Task3\bin\Debug\003_Task3.exe.config
+d:\Repos\CBS_Pract\003_C# Essential\006_Static_And_Nested_Classes\003_Task3\obj\Debug\003_Task3.exe
+d:\Repos\CBS_Pract\003_C# Essential\006_Static_And_Nested_Classes\003_Task3\obj\Debug\003_Task3.pdb

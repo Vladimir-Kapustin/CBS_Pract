@@ -1,0 +1,6 @@
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\005_Logic\Logic\002_Negation-OR(XOR)_PowerOfTwo\bin\Debug\002_Negation-OR(XOR)_PowerOfTwo.exe.config
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\005_Logic\Logic\002_Negation-OR(XOR)_PowerOfTwo\bin\Debug\002_Negation-OR(XOR)_PowerOfTwo.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\005_Logic\Logic\002_Negation-OR(XOR)_PowerOfTwo\bin\Debug\002_Negation-OR(XOR)_PowerOfTwo.pdb
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\005_Logic\Logic\002_Negation-OR(XOR)_PowerOfTwo\obj\Debug\002_Negation-OR(XOR)_PowerOfTwo.csprojResolveAssemblyReference.cache
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\005_Logic\Logic\002_Negation-OR(XOR)_PowerOfTwo\obj\Debug\002_Negation-OR(XOR)_PowerOfTwo.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\005_Logic\Logic\002_Negation-OR(XOR)_PowerOfTwo\obj\Debug\002_Negation-OR(XOR)_PowerOfTwo.pdb

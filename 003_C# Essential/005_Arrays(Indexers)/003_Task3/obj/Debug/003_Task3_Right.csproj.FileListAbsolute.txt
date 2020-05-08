@@ -1,0 +1,6 @@
+D:\Repos\CBS_Pract\003_C# Essential\005_Arrays(Indexers)\003_Task3\bin\Debug\003_Task3.exe.config
+D:\Repos\CBS_Pract\003_C# Essential\005_Arrays(Indexers)\003_Task3\bin\Debug\003_Task3.exe
+D:\Repos\CBS_Pract\003_C# Essential\005_Arrays(Indexers)\003_Task3\bin\Debug\003_Task3.pdb
+D:\Repos\CBS_Pract\003_C# Essential\005_Arrays(Indexers)\003_Task3\obj\Debug\003_Task3_Right.csprojResolveAssemblyReference.cache
+D:\Repos\CBS_Pract\003_C# Essential\005_Arrays(Indexers)\003_Task3\obj\Debug\003_Task3.exe
+D:\Repos\CBS_Pract\003_C# Essential\005_Arrays(Indexers)\003_Task3\obj\Debug\003_Task3.pdb

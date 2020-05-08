@@ -1,0 +1,12 @@
+D:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\002_Classes_Partial_UML\003_Employee\bin\Debug\003_Employee.exe.config
+D:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\002_Classes_Partial_UML\003_Employee\bin\Debug\003_Employee.exe
+D:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\002_Classes_Partial_UML\003_Employee\bin\Debug\003_Employee.pdb
+D:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\002_Classes_Partial_UML\003_Employee\obj\Debug\003_Employee.csprojResolveAssemblyReference.cache
+D:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\002_Classes_Partial_UML\003_Employee\obj\Debug\003_Employee.exe
+D:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\002_Classes_Partial_UML\003_Employee\obj\Debug\003_Employee.pdb
+d:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\003_Employee\bin\Debug\003_Employee.exe.config
+d:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\003_Employee\obj\Debug\003_Employee.exe
+d:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\003_Employee\obj\Debug\003_Employee.pdb
+d:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\003_Employee\bin\Debug\003_Employee.exe
+d:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\003_Employee\bin\Debug\003_Employee.pdb
+d:\.NET Pract\003_C# Essential\002_Classes_Partial_UML\003_Employee\obj\Debug\003_Employee.csprojResolveAssemblyReference.cache

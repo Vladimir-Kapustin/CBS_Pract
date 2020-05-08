@@ -1,0 +1,17 @@
+D:\Courses .NET\CBS\Fourth - Online\003_C# Essential\Practice\001_Classes_Properties_Ctors_Incapsulation\002_ClassCtorProperty\002_ClassCtorProperty\bin\Debug\002_ClassCtorProperty.exe.config
+D:\Courses .NET\CBS\Fourth - Online\003_C# Essential\Practice\001_Classes_Properties_Ctors_Incapsulation\002_ClassCtorProperty\002_ClassCtorProperty\bin\Debug\002_ClassCtorProperty.exe
+D:\Courses .NET\CBS\Fourth - Online\003_C# Essential\Practice\001_Classes_Properties_Ctors_Incapsulation\002_ClassCtorProperty\002_ClassCtorProperty\bin\Debug\002_ClassCtorProperty.pdb
+D:\Courses .NET\CBS\Fourth - Online\003_C# Essential\Practice\001_Classes_Properties_Ctors_Incapsulation\002_ClassCtorProperty\002_ClassCtorProperty\obj\Debug\002_ClassCtorProperty.exe
+D:\Courses .NET\CBS\Fourth - Online\003_C# Essential\Practice\001_Classes_Properties_Ctors_Incapsulation\002_ClassCtorProperty\002_ClassCtorProperty\obj\Debug\002_ClassCtorProperty.pdb
+d:\.NET Pract\003_C# Essential\001_Classes_Properties_Ctors_Encapsulation\002_ClassCtorProperty\002_ClassCtorProperty\bin\Debug\002_ClassCtorProperty.exe.config
+d:\.NET Pract\003_C# Essential\001_Classes_Properties_Ctors_Encapsulation\002_ClassCtorProperty\002_ClassCtorProperty\obj\Debug\002_ClassCtorProperty.exe
+d:\.NET Pract\003_C# Essential\001_Classes_Properties_Ctors_Encapsulation\002_ClassCtorProperty\002_ClassCtorProperty\obj\Debug\002_ClassCtorProperty.pdb
+d:\.NET Pract\003_C# Essential\001_Classes_Properties_Ctors_Encapsulation\002_ClassCtorProperty\002_ClassCtorProperty\bin\Debug\002_ClassCtorProperty.exe
+d:\.NET Pract\003_C# Essential\001_Classes_Properties_Ctors_Encapsulation\002_ClassCtorProperty\002_ClassCtorProperty\bin\Debug\002_ClassCtorProperty.pdb
+d:\.NET Pract\003_C# Essential\001_Classes_Properties_Ctors_Encapsulation\002_ClassCtorProperty\002_ClassCtorProperty\obj\Debug\002_ClassCtorProperty.csprojResolveAssemblyReference.cache
+d:\.NET Pract\003_C# Essential\001_Classes_Properties_Ctors_Encapsulation\Old\002_ClassCtorProperty\002_ClassCtorProperty\bin\Debug\002_ClassCtorProperty.exe.config
+d:\.NET Pract\003_C# Essential\001_Classes_Properties_Ctors_Encapsulation\Old\002_ClassCtorProperty\002_ClassCtorProperty\obj\Debug\002_ClassCtorProperty.exe
+d:\.NET Pract\003_C# Essential\001_Classes_Properties_Ctors_Encapsulation\Old\002_ClassCtorProperty\002_ClassCtorProperty\obj\Debug\002_ClassCtorProperty.pdb
+d:\CBS_Pract\003_C# Essential\001_Classes_Properties_Ctors_Encapsulation\Old\002_ClassCtorProperty\002_ClassCtorProperty\bin\Debug\002_ClassCtorProperty.exe.config
+d:\CBS_Pract\003_C# Essential\001_Classes_Properties_Ctors_Encapsulation\Old\002_ClassCtorProperty\002_ClassCtorProperty\obj\Debug\002_ClassCtorProperty.exe
+d:\CBS_Pract\003_C# Essential\001_Classes_Properties_Ctors_Encapsulation\Old\002_ClassCtorProperty\002_ClassCtorProperty\obj\Debug\002_ClassCtorProperty.pdb

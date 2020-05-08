@@ -1,0 +1,6 @@
+D:\.NET Pract\005_C# Professional\001_User Collections\Task2_Alternative\bin\Debug\Task2_Alternative.exe.config
+D:\.NET Pract\005_C# Professional\001_User Collections\Task2_Alternative\bin\Debug\Task2_Alternative.exe
+D:\.NET Pract\005_C# Professional\001_User Collections\Task2_Alternative\bin\Debug\Task2_Alternative.pdb
+D:\.NET Pract\005_C# Professional\001_User Collections\Task2_Alternative\obj\Debug\Task2_Alternative.csprojResolveAssemblyReference.cache
+D:\.NET Pract\005_C# Professional\001_User Collections\Task2_Alternative\obj\Debug\Task2_Alternative.exe
+D:\.NET Pract\005_C# Professional\001_User Collections\Task2_Alternative\obj\Debug\Task2_Alternative.pdb

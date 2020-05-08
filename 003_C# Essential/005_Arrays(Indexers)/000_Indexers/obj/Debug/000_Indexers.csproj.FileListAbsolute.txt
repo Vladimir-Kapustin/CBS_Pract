@@ -1,0 +1,9 @@
+D:\.NET Pract\003_C# Essential\005_Arrays(Indexers)\000_Indexers\bin\Debug\000_Indexers.exe.config
+D:\.NET Pract\003_C# Essential\005_Arrays(Indexers)\000_Indexers\bin\Debug\000_Indexers.exe
+D:\.NET Pract\003_C# Essential\005_Arrays(Indexers)\000_Indexers\bin\Debug\000_Indexers.pdb
+D:\.NET Pract\003_C# Essential\005_Arrays(Indexers)\000_Indexers\obj\Debug\000_Indexers.csprojResolveAssemblyReference.cache
+D:\.NET Pract\003_C# Essential\005_Arrays(Indexers)\000_Indexers\obj\Debug\000_Indexers.exe
+D:\.NET Pract\003_C# Essential\005_Arrays(Indexers)\000_Indexers\obj\Debug\000_Indexers.pdb
+d:\Repos\CBS_Pract\003_C# Essential\005_Arrays(Indexers)\000_Indexers\bin\Debug\000_Indexers.exe.config
+d:\Repos\CBS_Pract\003_C# Essential\005_Arrays(Indexers)\000_Indexers\obj\Debug\000_Indexers.exe
+d:\Repos\CBS_Pract\003_C# Essential\005_Arrays(Indexers)\000_Indexers\obj\Debug\000_Indexers.pdb

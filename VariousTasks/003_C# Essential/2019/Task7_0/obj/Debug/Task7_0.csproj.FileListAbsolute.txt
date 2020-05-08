@@ -1,0 +1,12 @@
+D:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VarioustTasks\Task7_0\bin\Debug\Task7_0.exe.config
+D:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VarioustTasks\Task7_0\bin\Debug\Task7_0.exe
+D:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VarioustTasks\Task7_0\bin\Debug\Task7_0.pdb
+D:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VarioustTasks\Task7_0\obj\Debug\Task7_0.csprojResolveAssemblyReference.cache
+D:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VarioustTasks\Task7_0\obj\Debug\Task7_0.exe
+D:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VarioustTasks\Task7_0\obj\Debug\Task7_0.pdb
+d:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VariousTasks\Task7_0\bin\Debug\Task7_0.exe.config
+d:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VariousTasks\Task7_0\bin\Debug\Task7_0.exe
+d:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VariousTasks\Task7_0\bin\Debug\Task7_0.pdb
+d:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VariousTasks\Task7_0\obj\Debug\Task7_0.csprojResolveAssemblyReference.cache
+d:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VariousTasks\Task7_0\obj\Debug\Task7_0.exe
+d:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VariousTasks\Task7_0\obj\Debug\Task7_0.pdb

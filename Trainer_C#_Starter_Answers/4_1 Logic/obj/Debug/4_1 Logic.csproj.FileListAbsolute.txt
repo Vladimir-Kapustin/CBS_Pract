@@ -1,0 +1,6 @@
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Trainer Csharp Starter\4_1 Logic\bin\Debug\4_1 Logic.exe.config
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Trainer Csharp Starter\4_1 Logic\bin\Debug\4_1 Logic.exe
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Trainer Csharp Starter\4_1 Logic\bin\Debug\4_1 Logic.pdb
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Trainer Csharp Starter\4_1 Logic\obj\Debug\4_1 Logic.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Trainer Csharp Starter\4_1 Logic\obj\Debug\4_1 Logic.exe
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Trainer Csharp Starter\4_1 Logic\obj\Debug\4_1 Logic.pdb

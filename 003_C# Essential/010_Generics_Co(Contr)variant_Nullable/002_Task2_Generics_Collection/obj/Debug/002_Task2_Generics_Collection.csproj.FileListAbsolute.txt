@@ -1,0 +1,6 @@
+D:\.NET Pract\003_C# Essential\010_Generics_Co(Contr)variant_Nullable\002_Task2_Generics_Collection\bin\Debug\002_Task2_Generics_Collection.exe.config
+D:\.NET Pract\003_C# Essential\010_Generics_Co(Contr)variant_Nullable\002_Task2_Generics_Collection\bin\Debug\002_Task2_Generics_Collection.exe
+D:\.NET Pract\003_C# Essential\010_Generics_Co(Contr)variant_Nullable\002_Task2_Generics_Collection\bin\Debug\002_Task2_Generics_Collection.pdb
+D:\.NET Pract\003_C# Essential\010_Generics_Co(Contr)variant_Nullable\002_Task2_Generics_Collection\obj\Debug\002_Task2_Generics_Collection.csprojResolveAssemblyReference.cache
+D:\.NET Pract\003_C# Essential\010_Generics_Co(Contr)variant_Nullable\002_Task2_Generics_Collection\obj\Debug\002_Task2_Generics_Collection.exe
+D:\.NET Pract\003_C# Essential\010_Generics_Co(Contr)variant_Nullable\002_Task2_Generics_Collection\obj\Debug\002_Task2_Generics_Collection.pdb

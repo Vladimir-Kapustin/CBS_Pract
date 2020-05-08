@@ -1,0 +1,6 @@
+D:\.NET Pract\003_C# Essential\008_Structures_Boxing_Enums_Covariant_DateTime\000_DateTime_TimeSpan\bin\Debug\000_DateTime_TimeSpan.exe.config
+D:\.NET Pract\003_C# Essential\008_Structures_Boxing_Enums_Covariant_DateTime\000_DateTime_TimeSpan\bin\Debug\000_DateTime_TimeSpan.exe
+D:\.NET Pract\003_C# Essential\008_Structures_Boxing_Enums_Covariant_DateTime\000_DateTime_TimeSpan\bin\Debug\000_DateTime_TimeSpan.pdb
+D:\.NET Pract\003_C# Essential\008_Structures_Boxing_Enums_Covariant_DateTime\000_DateTime_TimeSpan\obj\Debug\000_DateTime_TimeSpan.csprojResolveAssemblyReference.cache
+D:\.NET Pract\003_C# Essential\008_Structures_Boxing_Enums_Covariant_DateTime\000_DateTime_TimeSpan\obj\Debug\000_DateTime_TimeSpan.exe
+D:\.NET Pract\003_C# Essential\008_Structures_Boxing_Enums_Covariant_DateTime\000_DateTime_TimeSpan\obj\Debug\000_DateTime_TimeSpan.pdb

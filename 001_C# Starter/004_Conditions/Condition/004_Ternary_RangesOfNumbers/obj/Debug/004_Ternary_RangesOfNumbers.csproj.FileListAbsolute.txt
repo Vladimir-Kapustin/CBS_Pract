@@ -1,0 +1,12 @@
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\004_Conditions\Condition\004_Ternary_RangesOfNumbers\bin\Debug\004_Ternary_RangesOfNumbers.exe.config
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\004_Conditions\Condition\004_Ternary_RangesOfNumbers\bin\Debug\004_Ternary_RangesOfNumbers.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\004_Conditions\Condition\004_Ternary_RangesOfNumbers\bin\Debug\004_Ternary_RangesOfNumbers.pdb
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\004_Conditions\Condition\004_Ternary_RangesOfNumbers\obj\Debug\004_Ternary_RangesOfNumbers.csprojResolveAssemblyReference.cache
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\004_Conditions\Condition\004_Ternary_RangesOfNumbers\obj\Debug\004_Ternary_RangesOfNumbers.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\004_Conditions\Condition\004_Ternary_RangesOfNumbers\obj\Debug\004_Ternary_RangesOfNumbers.pdb
+d:\.NET Pract\001_C# Starter\004_Conditions\Condition\004_Ternary_RangesOfNumbers\bin\Debug\004_Ternary_RangesOfNumbers.exe.config
+d:\.NET Pract\001_C# Starter\004_Conditions\Condition\004_Ternary_RangesOfNumbers\bin\Debug\004_Ternary_RangesOfNumbers.exe
+d:\.NET Pract\001_C# Starter\004_Conditions\Condition\004_Ternary_RangesOfNumbers\bin\Debug\004_Ternary_RangesOfNumbers.pdb
+d:\.NET Pract\001_C# Starter\004_Conditions\Condition\004_Ternary_RangesOfNumbers\obj\Debug\004_Ternary_RangesOfNumbers.csprojResolveAssemblyReference.cache
+d:\.NET Pract\001_C# Starter\004_Conditions\Condition\004_Ternary_RangesOfNumbers\obj\Debug\004_Ternary_RangesOfNumbers.exe
+d:\.NET Pract\001_C# Starter\004_Conditions\Condition\004_Ternary_RangesOfNumbers\obj\Debug\004_Ternary_RangesOfNumbers.pdb

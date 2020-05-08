@@ -1,0 +1,6 @@
+D:\.NET Pract\003_C# Essential\009_Delegates_Lambda\000_Anonymous_Method\bin\Debug\000_Anonymous_Method.exe.config
+D:\.NET Pract\003_C# Essential\009_Delegates_Lambda\000_Anonymous_Method\bin\Debug\000_Anonymous_Method.exe
+D:\.NET Pract\003_C# Essential\009_Delegates_Lambda\000_Anonymous_Method\bin\Debug\000_Anonymous_Method.pdb
+D:\.NET Pract\003_C# Essential\009_Delegates_Lambda\000_Anonymous_Method\obj\Debug\000_Anonymous_Method.csprojResolveAssemblyReference.cache
+D:\.NET Pract\003_C# Essential\009_Delegates_Lambda\000_Anonymous_Method\obj\Debug\000_Anonymous_Method.exe
+D:\.NET Pract\003_C# Essential\009_Delegates_Lambda\000_Anonymous_Method\obj\Debug\000_Anonymous_Method.pdb

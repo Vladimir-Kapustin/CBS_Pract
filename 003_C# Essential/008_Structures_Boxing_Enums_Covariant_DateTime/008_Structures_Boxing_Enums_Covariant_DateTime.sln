@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "000_DateTime_TimeSpan", "000_DateTime_TimeSpan\000_DateTime_TimeSpan.csproj", "{A975DB52-11F8-490A-9C66-3443289092DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Enum", "002_Enum\002_Enum.csproj", "{49619A17-D759-4984-9C83-46B4CC5FA39A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Enums", "003_Enums\003_Enums.csproj", "{4E797138-1DEB-4E12-9DF2-1BD7B6609923}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A975DB52-11F8-490A-9C66-3443289092DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A975DB52-11F8-490A-9C66-3443289092DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A975DB52-11F8-490A-9C66-3443289092DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A975DB52-11F8-490A-9C66-3443289092DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49619A17-D759-4984-9C83-46B4CC5FA39A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49619A17-D759-4984-9C83-46B4CC5FA39A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49619A17-D759-4984-9C83-46B4CC5FA39A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49619A17-D759-4984-9C83-46B4CC5FA39A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E797138-1DEB-4E12-9DF2-1BD7B6609923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E797138-1DEB-4E12-9DF2-1BD7B6609923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E797138-1DEB-4E12-9DF2-1BD7B6609923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E797138-1DEB-4E12-9DF2-1BD7B6609923}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

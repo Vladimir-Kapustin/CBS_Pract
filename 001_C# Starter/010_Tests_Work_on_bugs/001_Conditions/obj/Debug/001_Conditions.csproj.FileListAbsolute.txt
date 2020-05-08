@@ -1,0 +1,7 @@
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Lessons\C# Starter (EN)\010_Tests_Work_on_bugs\001_Conditions\bin\Debug\001_Conditions.exe.config
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\010_Tests_Work_on_bugs\001_Conditions\bin\Debug\001_Conditions.exe.config
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\010_Tests_Work_on_bugs\001_Conditions\bin\Debug\001_Conditions.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\010_Tests_Work_on_bugs\001_Conditions\bin\Debug\001_Conditions.pdb
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\010_Tests_Work_on_bugs\001_Conditions\obj\Debug\001_Conditions.csprojResolveAssemblyReference.cache
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\010_Tests_Work_on_bugs\001_Conditions\obj\Debug\001_Conditions.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\010_Tests_Work_on_bugs\001_Conditions\obj\Debug\001_Conditions.pdb

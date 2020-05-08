@@ -1,0 +1,6 @@
+D:\.NET Pract\003_C# Essential\004_Abstraction_Interfaces_DI\003_Interfaces\bin\Debug\003_Interfaces.exe.config
+D:\.NET Pract\003_C# Essential\004_Abstraction_Interfaces_DI\003_Interfaces\obj\Debug\003_Interfaces.csprojResolveAssemblyReference.cache
+D:\.NET Pract\003_C# Essential\004_Abstraction_Interfaces_DI\003_Interfaces\bin\Debug\003_Interfaces.exe
+D:\.NET Pract\003_C# Essential\004_Abstraction_Interfaces_DI\003_Interfaces\bin\Debug\003_Interfaces.pdb
+D:\.NET Pract\003_C# Essential\004_Abstraction_Interfaces_DI\003_Interfaces\obj\Debug\003_Interfaces.exe
+D:\.NET Pract\003_C# Essential\004_Abstraction_Interfaces_DI\003_Interfaces\obj\Debug\003_Interfaces.pdb

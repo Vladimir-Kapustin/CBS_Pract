@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "000_Method_Calculate", "000_Calculate\000_Method_Calculate.csproj", "{762ACAEE-089E-4214-9768-50485BA7B2A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Overload_Repayment", "002_Overload_Repayment\002_Overload_Repayment.csproj", "{5F6B1F88-0630-487F-BF83-C967E8BFDFED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Recursion_Factorial", "003_Recursion_Factorial\003_Recursion_Factorial.csproj", "{B9CAC617-9B7C-44D5-ACFE-DE88990C2E71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_MethodsRecursion_Calculator", "004_MethodsRecursion_Calculator\004_MethodsRecursion_Calculator.csproj", "{5ED2320E-5CC2-48B1-A7C4-8E28598485E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Task2_Correct", "002_Task2_Correct\002_Task2_Correct.csproj", "{B9CD5908-89ED-40B4-A1EF-8CBBBAC98FCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{762ACAEE-089E-4214-9768-50485BA7B2A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{762ACAEE-089E-4214-9768-50485BA7B2A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{762ACAEE-089E-4214-9768-50485BA7B2A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{762ACAEE-089E-4214-9768-50485BA7B2A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F6B1F88-0630-487F-BF83-C967E8BFDFED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F6B1F88-0630-487F-BF83-C967E8BFDFED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F6B1F88-0630-487F-BF83-C967E8BFDFED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F6B1F88-0630-487F-BF83-C967E8BFDFED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9CAC617-9B7C-44D5-ACFE-DE88990C2E71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9CAC617-9B7C-44D5-ACFE-DE88990C2E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9CAC617-9B7C-44D5-ACFE-DE88990C2E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9CAC617-9B7C-44D5-ACFE-DE88990C2E71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ED2320E-5CC2-48B1-A7C4-8E28598485E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ED2320E-5CC2-48B1-A7C4-8E28598485E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ED2320E-5CC2-48B1-A7C4-8E28598485E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ED2320E-5CC2-48B1-A7C4-8E28598485E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9CD5908-89ED-40B4-A1EF-8CBBBAC98FCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9CD5908-89ED-40B4-A1EF-8CBBBAC98FCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9CD5908-89ED-40B4-A1EF-8CBBBAC98FCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9CD5908-89ED-40B4-A1EF-8CBBBAC98FCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

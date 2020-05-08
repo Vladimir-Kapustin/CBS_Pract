@@ -1,0 +1,7 @@
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Trainer Csharp Essential\Less2_Task5\bin\Debug\Less2_Task5.exe.config
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Trainer Csharp Essential\Less2_Task5\bin\Debug\Less2_Task5.exe
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Trainer Csharp Essential\Less2_Task5\bin\Debug\Less2_Task5.pdb
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Trainer Csharp Essential\Less2_Task5\obj\Debug\Less2_Task5.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Trainer Csharp Essential\Less2_Task5\obj\Debug\Less2_Task5.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Trainer Csharp Essential\Less2_Task5\obj\Debug\Less2_Task5.exe
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Trainer Csharp Essential\Less2_Task5\obj\Debug\Less2_Task5.pdb

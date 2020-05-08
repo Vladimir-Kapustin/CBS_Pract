@@ -1,0 +1,12 @@
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\005_Logic\Logic\002_AND-ShortCircuitAND_PowerOfTwoCheck\bin\Debug\002_AND-ShortCircuitAND_PowerOfTwoCheck.exe.config
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\005_Logic\Logic\002_AND-ShortCircuitAND_PowerOfTwoCheck\bin\Debug\002_AND-ShortCircuitAND_PowerOfTwoCheck.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\005_Logic\Logic\002_AND-ShortCircuitAND_PowerOfTwoCheck\bin\Debug\002_AND-ShortCircuitAND_PowerOfTwoCheck.pdb
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\005_Logic\Logic\002_AND-ShortCircuitAND_PowerOfTwoCheck\obj\Debug\002_AND-ShortCircuitAND_PowerOfTwoCheck.csprojResolveAssemblyReference.cache
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\005_Logic\Logic\002_AND-ShortCircuitAND_PowerOfTwoCheck\obj\Debug\002_AND-ShortCircuitAND_PowerOfTwoCheck.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\005_Logic\Logic\002_AND-ShortCircuitAND_PowerOfTwoCheck\obj\Debug\002_AND-ShortCircuitAND_PowerOfTwoCheck.pdb
+d:\.NET Pract\001_C# Starter\005_Logic\002_AND-ShortCircuitAND_PowerOfTwoCheck\bin\Debug\002_AND-ShortCircuitAND_PowerOfTwoCheck.exe.config
+d:\.NET Pract\001_C# Starter\005_Logic\002_AND-ShortCircuitAND_PowerOfTwoCheck\obj\Debug\002_AND-ShortCircuitAND_PowerOfTwoCheck.exe
+d:\.NET Pract\001_C# Starter\005_Logic\002_AND-ShortCircuitAND_PowerOfTwoCheck\obj\Debug\002_AND-ShortCircuitAND_PowerOfTwoCheck.pdb
+d:\CBS_Pract\001_C# Starter\005_Logic\002_AND-ShortCircuitAND_PowerOfTwoCheck\bin\Debug\002_AND-ShortCircuitAND_PowerOfTwoCheck.exe.config
+d:\CBS_Pract\001_C# Starter\005_Logic\002_AND-ShortCircuitAND_PowerOfTwoCheck\obj\Debug\002_AND-ShortCircuitAND_PowerOfTwoCheck.exe
+d:\CBS_Pract\001_C# Starter\005_Logic\002_AND-ShortCircuitAND_PowerOfTwoCheck\obj\Debug\002_AND-ShortCircuitAND_PowerOfTwoCheck.pdb

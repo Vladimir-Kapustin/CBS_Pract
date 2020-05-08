@@ -1,0 +1,15 @@
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\006_Loops\002_While_SumOfValuesAndOdds\bin\Debug\002_While_SumOfValuesAndOdds.exe.config
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\006_Loops\002_While_SumOfValuesAndOdds\bin\Debug\002_While_SumOfValuesAndOdds.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\006_Loops\002_While_SumOfValuesAndOdds\bin\Debug\002_While_SumOfValuesAndOdds.pdb
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\006_Loops\002_While_SumOfValuesAndOdds\obj\Debug\002_While_SumOfValuesAndOdds.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\006_Loops\002_While_SumOfValuesAndOdds\obj\Debug\002_While_SumOfValuesAndOdds.pdb
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\006_Loops\002_While_SumOfValuesAndOdds\obj\Debug\002_While_SumOfValuesAndOdds.csprojResolveAssemblyReference.cache
+d:\.NET Pract\001_C# Starter\006_Loops\002_While_SumOfValuesAndOdds\bin\Debug\002_While_SumOfValuesAndOdds.exe.config
+d:\.NET Pract\001_C# Starter\006_Loops\002_While_SumOfValuesAndOdds\obj\Debug\002_While_SumOfValuesAndOdds.exe
+d:\.NET Pract\001_C# Starter\006_Loops\002_While_SumOfValuesAndOdds\obj\Debug\002_While_SumOfValuesAndOdds.pdb
+d:\.NET Pract\001_C# Starter\006_Loops\002_While_SumOfValuesAndOdds\bin\Debug\002_While_SumOfValuesAndOdds.exe
+d:\.NET Pract\001_C# Starter\006_Loops\002_While_SumOfValuesAndOdds\bin\Debug\002_While_SumOfValuesAndOdds.pdb
+d:\.NET Pract\001_C# Starter\006_Loops\002_While_SumOfValuesAndOdds\obj\Debug\002_While_SumOfValuesAndOdds.csprojResolveAssemblyReference.cache
+d:\CBS_Pract\001_C# Starter\006_Loops\002_While_SumOfValuesAndOdds\bin\Debug\002_While_SumOfValuesAndOdds.exe.config
+d:\CBS_Pract\001_C# Starter\006_Loops\002_While_SumOfValuesAndOdds\obj\Debug\002_While_SumOfValuesAndOdds.exe
+d:\CBS_Pract\001_C# Starter\006_Loops\002_While_SumOfValuesAndOdds\obj\Debug\002_While_SumOfValuesAndOdds.pdb

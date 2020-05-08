@@ -1,0 +1,5 @@
+D:\.NET Pract\001_C# Starter\003_Variables_And_Data_Types\Variables_And_Data_Types\005_NamingOfVariables\bin\Debug\005_NamingOfVariables.exe.config
+D:\.NET Pract\001_C# Starter\003_Variables_And_Data_Types\Variables_And_Data_Types\005_NamingOfVariables\bin\Debug\005_NamingOfVariables.exe
+D:\.NET Pract\001_C# Starter\003_Variables_And_Data_Types\Variables_And_Data_Types\005_NamingOfVariables\bin\Debug\005_NamingOfVariables.pdb
+D:\.NET Pract\001_C# Starter\003_Variables_And_Data_Types\Variables_And_Data_Types\005_NamingOfVariables\obj\Debug\005_NamingOfVariables.exe
+D:\.NET Pract\001_C# Starter\003_Variables_And_Data_Types\Variables_And_Data_Types\005_NamingOfVariables\obj\Debug\005_NamingOfVariables.pdb

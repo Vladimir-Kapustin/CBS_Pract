@@ -1,0 +1,9 @@
+D:\CBS_Pract\VariousTasks\001_C#_Starter_2020_Selected\009_Arrays\Task4\bin\Debug\Task4.exe.config
+D:\CBS_Pract\VariousTasks\001_C#_Starter_2020_Selected\009_Arrays\Task4\bin\Debug\Task4.exe
+D:\CBS_Pract\VariousTasks\001_C#_Starter_2020_Selected\009_Arrays\Task4\bin\Debug\Task4.pdb
+D:\CBS_Pract\VariousTasks\001_C#_Starter_2020_Selected\009_Arrays\Task4\obj\Debug\Task4.csprojResolveAssemblyReference.cache
+D:\CBS_Pract\VariousTasks\001_C#_Starter_2020_Selected\009_Arrays\Task4\obj\Debug\Task4.exe
+D:\CBS_Pract\VariousTasks\001_C#_Starter_2020_Selected\009_Arrays\Task4\obj\Debug\Task4.pdb
+d:\CBS_Pract\VariousTasks\001_C#_Starter\2020_Selected\009_Arrays\Task4\bin\Debug\Task4.exe.config
+d:\CBS_Pract\VariousTasks\001_C#_Starter\2020_Selected\009_Arrays\Task4\obj\Debug\Task4.exe
+d:\CBS_Pract\VariousTasks\001_C#_Starter\2020_Selected\009_Arrays\Task4\obj\Debug\Task4.pdb

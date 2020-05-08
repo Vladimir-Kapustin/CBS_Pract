@@ -1,0 +1,12 @@
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\003_Variables_And_Data_Types\Variables_And_Data_Types\004_ArithmeticalMean\bin\Debug\004_ArithmeticalMean.exe.config
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\003_Variables_And_Data_Types\Variables_And_Data_Types\004_ArithmeticalMean\bin\Debug\004_ArithmeticalMean.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\003_Variables_And_Data_Types\Variables_And_Data_Types\004_ArithmeticalMean\bin\Debug\004_ArithmeticalMean.pdb
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\003_Variables_And_Data_Types\Variables_And_Data_Types\004_ArithmeticalMean\obj\Debug\004_ArithmeticalMean.csprojResolveAssemblyReference.cache
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\003_Variables_And_Data_Types\Variables_And_Data_Types\004_ArithmeticalMean\obj\Debug\004_ArithmeticalMean.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\003_Variables_And_Data_Types\Variables_And_Data_Types\004_ArithmeticalMean\obj\Debug\004_ArithmeticalMean.pdb
+d:\.NET Pract\001_C# Starter\003_Variables_And_Data_Types\Variables_And_Data_Types\004_ArithmeticalMean\bin\Debug\004_ArithmeticalMean.exe.config
+d:\.NET Pract\001_C# Starter\003_Variables_And_Data_Types\Variables_And_Data_Types\004_ArithmeticalMean\obj\Debug\004_ArithmeticalMean.exe
+d:\.NET Pract\001_C# Starter\003_Variables_And_Data_Types\Variables_And_Data_Types\004_ArithmeticalMean\obj\Debug\004_ArithmeticalMean.pdb
+d:\.NET Pract\001_C# Starter\003_Variables_And_Data_Types\Variables_And_Data_Types\004_ArithmeticalMean\bin\Debug\004_ArithmeticalMean.exe
+d:\.NET Pract\001_C# Starter\003_Variables_And_Data_Types\Variables_And_Data_Types\004_ArithmeticalMean\bin\Debug\004_ArithmeticalMean.pdb
+d:\.NET Pract\001_C# Starter\003_Variables_And_Data_Types\Variables_And_Data_Types\004_ArithmeticalMean\obj\Debug\004_ArithmeticalMean.csprojResolveAssemblyReference.cache

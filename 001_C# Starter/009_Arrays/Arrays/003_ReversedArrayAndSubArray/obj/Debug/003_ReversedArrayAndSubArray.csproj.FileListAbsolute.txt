@@ -1,0 +1,13 @@
+F:\Courses .NET\CBS\Fourth - Online\C# Starter\Practice\008_Arrays\Arrays\003_ReversedArrayAndSubArray\bin\Debug\003_ReversedArrayAndSubArray.exe.config
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\008_Arrays\Arrays\003_ReversedArrayAndSubArray\bin\Debug\003_ReversedArrayAndSubArray.exe.config
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\008_Arrays\Arrays\003_ReversedArrayAndSubArray\bin\Debug\003_ReversedArrayAndSubArray.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\008_Arrays\Arrays\003_ReversedArrayAndSubArray\bin\Debug\003_ReversedArrayAndSubArray.pdb
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\008_Arrays\Arrays\003_ReversedArrayAndSubArray\obj\Debug\003_ReversedArrayAndSubArray.csprojResolveAssemblyReference.cache
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\008_Arrays\Arrays\003_ReversedArrayAndSubArray\obj\Debug\003_ReversedArrayAndSubArray.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\008_Arrays\Arrays\003_ReversedArrayAndSubArray\obj\Debug\003_ReversedArrayAndSubArray.pdb
+d:\.NET Pract\001_C# Starter\009_Arrays\Arrays\003_ReversedArrayAndSubArray\bin\Debug\003_ReversedArrayAndSubArray.exe.config
+d:\.NET Pract\001_C# Starter\009_Arrays\Arrays\003_ReversedArrayAndSubArray\obj\Debug\003_ReversedArrayAndSubArray.exe
+d:\.NET Pract\001_C# Starter\009_Arrays\Arrays\003_ReversedArrayAndSubArray\obj\Debug\003_ReversedArrayAndSubArray.pdb
+d:\.NET Pract\001_C# Starter\009_Arrays\Arrays\003_ReversedArrayAndSubArray\bin\Debug\003_ReversedArrayAndSubArray.exe
+d:\.NET Pract\001_C# Starter\009_Arrays\Arrays\003_ReversedArrayAndSubArray\bin\Debug\003_ReversedArrayAndSubArray.pdb
+d:\.NET Pract\001_C# Starter\009_Arrays\Arrays\003_ReversedArrayAndSubArray\obj\Debug\003_ReversedArrayAndSubArray.csprojResolveAssemblyReference.cache

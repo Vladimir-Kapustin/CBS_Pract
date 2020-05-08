@@ -1,0 +1,2 @@
+D:\.NET Pract\003_C# Essential\005_Arrays(Indexers)\004_Indexers_Store\bin\Debug\004_Indexers_Store.exe.config
+d:\Repos\CBS_Pract\003_C# Essential\005_Arrays(Indexers)\004_Indexers_Store\bin\Debug\004_Indexers_Store.exe.config

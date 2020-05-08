@@ -1,0 +1,1 @@
+D:\.NET Pract\003_C# Essential\014_Collections_Enumerator_yield\000_Alternative_Additional_Task\bin\Debug\000_Alternative_Additional_Task.exe.config

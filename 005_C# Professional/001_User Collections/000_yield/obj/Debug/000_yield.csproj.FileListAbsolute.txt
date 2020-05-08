@@ -1,0 +1,6 @@
+D:\.NET Pract\005_C# Professional\001_User Collections\000_yield\bin\Debug\000_yield.exe.config
+d:\.NET Pract\005_C# Professional\001_User Collections\000_yield\obj\Debug\000_yield.csprojResolveAssemblyReference.cache
+d:\.NET Pract\005_C# Professional\001_User Collections\000_yield\bin\Debug\000_yield.exe
+d:\.NET Pract\005_C# Professional\001_User Collections\000_yield\bin\Debug\000_yield.pdb
+d:\.NET Pract\005_C# Professional\001_User Collections\000_yield\obj\Debug\000_yield.exe
+d:\.NET Pract\005_C# Professional\001_User Collections\000_yield\obj\Debug\000_yield.pdb

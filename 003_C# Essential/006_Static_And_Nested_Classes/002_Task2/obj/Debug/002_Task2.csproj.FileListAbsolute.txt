@@ -1,0 +1,15 @@
+D:\.NET Pract\003_C# Essential\006_StaticClasses\002_Task2\bin\Debug\002_Task2.exe.config
+D:\.NET Pract\003_C# Essential\006_StaticClasses\002_Task2\bin\Debug\002_Task2.exe
+D:\.NET Pract\003_C# Essential\006_StaticClasses\002_Task2\bin\Debug\002_Task2.pdb
+D:\.NET Pract\003_C# Essential\006_StaticClasses\002_Task2\obj\Debug\002_Task2.csprojResolveAssemblyReference.cache
+D:\.NET Pract\003_C# Essential\006_StaticClasses\002_Task2\obj\Debug\002_Task2.exe
+D:\.NET Pract\003_C# Essential\006_StaticClasses\002_Task2\obj\Debug\002_Task2.pdb
+d:\Repos\CBS_Pract\003_C# Essential\006_Static_And_Nested_Classes\002_Task2\bin\Debug\002_Task2.exe.config
+d:\Repos\CBS_Pract\003_C# Essential\006_Static_And_Nested_Classes\002_Task2\obj\Debug\002_Task2.exe
+d:\Repos\CBS_Pract\003_C# Essential\006_Static_And_Nested_Classes\002_Task2\obj\Debug\002_Task2.pdb
+d:\CBS_Pract\003_C# Essential\006_Static_And_Nested_Classes\002_Task2\bin\Debug\002_Task2.exe.config
+d:\CBS_Pract\003_C# Essential\006_Static_And_Nested_Classes\002_Task2\obj\Debug\002_Task2.exe
+d:\CBS_Pract\003_C# Essential\006_Static_And_Nested_Classes\002_Task2\obj\Debug\002_Task2.pdb
+d:\CBS_Pract\003_C# Essential\006_Static_And_Nested_Classes\002_Task2\bin\Debug\002_Task2.exe
+d:\CBS_Pract\003_C# Essential\006_Static_And_Nested_Classes\002_Task2\bin\Debug\002_Task2.pdb
+d:\CBS_Pract\003_C# Essential\006_Static_And_Nested_Classes\002_Task2\obj\Debug\002_Task2.csprojResolveAssemblyReference.cache

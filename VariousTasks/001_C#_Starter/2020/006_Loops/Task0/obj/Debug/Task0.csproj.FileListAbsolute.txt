@@ -1,0 +1,5 @@
+D:\CBS_Pract\VariousTasks\001_C#_Starter_2020_Selected\006_Loops\Task0\bin\Debug\Task0.exe.config
+D:\CBS_Pract\VariousTasks\001_C#_Starter_2020_Selected\006_Loops\Task0\bin\Debug\Task0.exe
+D:\CBS_Pract\VariousTasks\001_C#_Starter_2020_Selected\006_Loops\Task0\bin\Debug\Task0.pdb
+D:\CBS_Pract\VariousTasks\001_C#_Starter_2020_Selected\006_Loops\Task0\obj\Debug\Task0.exe
+D:\CBS_Pract\VariousTasks\001_C#_Starter_2020_Selected\006_Loops\Task0\obj\Debug\Task0.pdb

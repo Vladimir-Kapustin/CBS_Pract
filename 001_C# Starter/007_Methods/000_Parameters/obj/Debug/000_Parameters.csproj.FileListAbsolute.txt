@@ -1,0 +1,12 @@
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\007_Methods\000_Parameters\bin\Debug\000_Parameters.exe.config
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\007_Methods\000_Parameters\bin\Debug\000_Parameters.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\007_Methods\000_Parameters\bin\Debug\000_Parameters.pdb
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\007_Methods\000_Parameters\obj\Debug\000_Parameters.csprojResolveAssemblyReference.cache
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\007_Methods\000_Parameters\obj\Debug\000_Parameters.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\007_Methods\000_Parameters\obj\Debug\000_Parameters.pdb
+d:\.NET Pract\001_C# Starter\007_Methods\000_Parameters\bin\Debug\000_Parameters.exe.config
+d:\.NET Pract\001_C# Starter\007_Methods\000_Parameters\obj\Debug\000_Parameters.exe
+d:\.NET Pract\001_C# Starter\007_Methods\000_Parameters\obj\Debug\000_Parameters.pdb
+d:\CBS_Pract\001_C# Starter\007_Methods\000_Parameters\bin\Debug\000_Parameters.exe.config
+d:\CBS_Pract\001_C# Starter\007_Methods\000_Parameters\obj\Debug\000_Parameters.exe
+d:\CBS_Pract\001_C# Starter\007_Methods\000_Parameters\obj\Debug\000_Parameters.pdb

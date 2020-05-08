@@ -1,0 +1,14 @@
+D:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VarioustTasks\Task2\bin\Debug\Task2.exe.config
+D:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VarioustTasks\Task2\bin\Debug\Task2.exe
+D:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VarioustTasks\Task2\bin\Debug\Task2.pdb
+D:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VarioustTasks\Task2\obj\Debug\Task2.exe
+D:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VarioustTasks\Task2\obj\Debug\Task2.pdb
+d:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VariousTasks\Task2\bin\Debug\Task2.exe.config
+d:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VariousTasks\Task2\bin\Debug\Task2.exe
+d:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VariousTasks\Task2\bin\Debug\Task2.pdb
+d:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VariousTasks\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache
+d:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VariousTasks\Task2\obj\Debug\Task2.exe
+d:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VariousTasks\Task2\obj\Debug\Task2.pdb
+d:\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VariousTasks\Task2\bin\Debug\Task2.exe.config
+d:\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VariousTasks\Task2\obj\Debug\Task2.exe
+d:\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VariousTasks\Task2\obj\Debug\Task2.pdb

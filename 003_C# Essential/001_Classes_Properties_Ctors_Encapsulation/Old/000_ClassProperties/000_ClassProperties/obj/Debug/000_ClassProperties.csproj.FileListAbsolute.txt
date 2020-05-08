@@ -1,0 +1,18 @@
+D:\Courses .NET\CBS\Fourth - Online\003_C# Essential\Practice\001_Classes_Properties_Ctors_Incapsulation\000_ClassProperties\000_ClassProperties\bin\Debug\000_ClassProperties.exe.config
+D:\Courses .NET\CBS\Fourth - Online\003_C# Essential\Practice\001_Classes_Properties_Ctors_Incapsulation\000_ClassProperties\000_ClassProperties\bin\Debug\000_ClassProperties.exe
+D:\Courses .NET\CBS\Fourth - Online\003_C# Essential\Practice\001_Classes_Properties_Ctors_Incapsulation\000_ClassProperties\000_ClassProperties\bin\Debug\000_ClassProperties.pdb
+D:\Courses .NET\CBS\Fourth - Online\003_C# Essential\Practice\001_Classes_Properties_Ctors_Incapsulation\000_ClassProperties\000_ClassProperties\obj\Debug\000_ClassProperties.csprojResolveAssemblyReference.cache
+D:\Courses .NET\CBS\Fourth - Online\003_C# Essential\Practice\001_Classes_Properties_Ctors_Incapsulation\000_ClassProperties\000_ClassProperties\obj\Debug\000_ClassProperties.exe
+D:\Courses .NET\CBS\Fourth - Online\003_C# Essential\Practice\001_Classes_Properties_Ctors_Incapsulation\000_ClassProperties\000_ClassProperties\obj\Debug\000_ClassProperties.pdb
+d:\.NET Pract\003_C# Essential\001_Classes_Properties_Ctors_Encapsulation\000_ClassProperties\000_ClassProperties\bin\Debug\000_ClassProperties.exe.config
+d:\.NET Pract\003_C# Essential\001_Classes_Properties_Ctors_Encapsulation\000_ClassProperties\000_ClassProperties\obj\Debug\000_ClassProperties.exe
+d:\.NET Pract\003_C# Essential\001_Classes_Properties_Ctors_Encapsulation\000_ClassProperties\000_ClassProperties\obj\Debug\000_ClassProperties.pdb
+d:\.NET Pract\003_C# Essential\001_Classes_Properties_Ctors_Encapsulation\000_ClassProperties\000_ClassProperties\bin\Debug\000_ClassProperties.exe
+d:\.NET Pract\003_C# Essential\001_Classes_Properties_Ctors_Encapsulation\000_ClassProperties\000_ClassProperties\bin\Debug\000_ClassProperties.pdb
+d:\.NET Pract\003_C# Essential\001_Classes_Properties_Ctors_Encapsulation\000_ClassProperties\000_ClassProperties\obj\Debug\000_ClassProperties.csprojResolveAssemblyReference.cache
+d:\.NET Pract\003_C# Essential\001_Classes_Properties_Ctors_Encapsulation\Old\000_ClassProperties\000_ClassProperties\bin\Debug\000_ClassProperties.exe.config
+d:\.NET Pract\003_C# Essential\001_Classes_Properties_Ctors_Encapsulation\Old\000_ClassProperties\000_ClassProperties\obj\Debug\000_ClassProperties.exe
+d:\.NET Pract\003_C# Essential\001_Classes_Properties_Ctors_Encapsulation\Old\000_ClassProperties\000_ClassProperties\obj\Debug\000_ClassProperties.pdb
+d:\CBS_Pract\003_C# Essential\001_Classes_Properties_Ctors_Encapsulation\Old\000_ClassProperties\000_ClassProperties\bin\Debug\000_ClassProperties.exe.config
+d:\CBS_Pract\003_C# Essential\001_Classes_Properties_Ctors_Encapsulation\Old\000_ClassProperties\000_ClassProperties\obj\Debug\000_ClassProperties.exe
+d:\CBS_Pract\003_C# Essential\001_Classes_Properties_Ctors_Encapsulation\Old\000_ClassProperties\000_ClassProperties\obj\Debug\000_ClassProperties.pdb

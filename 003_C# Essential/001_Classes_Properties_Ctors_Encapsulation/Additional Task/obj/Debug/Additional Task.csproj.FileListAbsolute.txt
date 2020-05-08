@@ -1,0 +1,2 @@
+D:\.NET Pract\003_C# Essential\001_Classes_Properties_Ctors_Encapsulation\Additional Task\bin\Debug\Additional Task.exe.config
+d:\CBS_Pract\003_C# Essential\001_Classes_Properties_Ctors_Encapsulation\Additional Task\bin\Debug\Additional Task.exe.config

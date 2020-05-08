@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "000_ArithmeticOperations", "000_ArithmeticOperations\000_ArithmeticOperations.csproj", "{1F2FA6A5-106B-4CF5-9417-266EDE64CABA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_ComplexArithmeticOperations", "001_ComplexArithmeticOperations\001_ComplexArithmeticOperations.csproj", "{44BF2974-7790-4602-847A-6EEF672E25C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_AreaOfCircle", "002_SquareOfCircle\003_AreaOfCircle.csproj", "{0A786F24-7127-4291-A58C-14AFE4A893DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_VolumeAndAreaOfCylinder", "003_VolumeAndAreaOfCylinder\004_VolumeAndAreaOfCylinder.csproj", "{98FD1A43-A638-4DD0-B988-6E460F057466}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_ArithmeticalMean", "004_ArithmeticalMean\002_ArithmeticalMean.csproj", "{1A8C11F3-5448-443F-8F46-DC858EC04778}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_NamingOfVariables", "005_NamingOfVariables\005_NamingOfVariables.csproj", "{1A14DF4C-4C12-418B-83D6-11242A39E9F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F2FA6A5-106B-4CF5-9417-266EDE64CABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F2FA6A5-106B-4CF5-9417-266EDE64CABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F2FA6A5-106B-4CF5-9417-266EDE64CABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F2FA6A5-106B-4CF5-9417-266EDE64CABA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44BF2974-7790-4602-847A-6EEF672E25C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44BF2974-7790-4602-847A-6EEF672E25C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44BF2974-7790-4602-847A-6EEF672E25C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44BF2974-7790-4602-847A-6EEF672E25C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A786F24-7127-4291-A58C-14AFE4A893DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A786F24-7127-4291-A58C-14AFE4A893DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A786F24-7127-4291-A58C-14AFE4A893DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A786F24-7127-4291-A58C-14AFE4A893DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98FD1A43-A638-4DD0-B988-6E460F057466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98FD1A43-A638-4DD0-B988-6E460F057466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98FD1A43-A638-4DD0-B988-6E460F057466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98FD1A43-A638-4DD0-B988-6E460F057466}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A8C11F3-5448-443F-8F46-DC858EC04778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A8C11F3-5448-443F-8F46-DC858EC04778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A8C11F3-5448-443F-8F46-DC858EC04778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A8C11F3-5448-443F-8F46-DC858EC04778}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A14DF4C-4C12-418B-83D6-11242A39E9F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A14DF4C-4C12-418B-83D6-11242A39E9F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A14DF4C-4C12-418B-83D6-11242A39E9F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A14DF4C-4C12-418B-83D6-11242A39E9F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+D:\.NET Pract\005_C# Professional\001_User Collections\Task3_Collection\bin\Debug\Task3_Collection.exe.config
+d:\.NET Pract\005_C# Professional\001_User Collections\Task3_Collection\obj\Debug\Task3_Collection.csprojResolveAssemblyReference.cache
+d:\.NET Pract\005_C# Professional\001_User Collections\Task3_Collection\bin\Debug\Task3_Collection.exe
+d:\.NET Pract\005_C# Professional\001_User Collections\Task3_Collection\bin\Debug\Task3_Collection.pdb
+d:\.NET Pract\005_C# Professional\001_User Collections\Task3_Collection\obj\Debug\Task3_Collection.exe
+d:\.NET Pract\005_C# Professional\001_User Collections\Task3_Collection\obj\Debug\Task3_Collection.pdb

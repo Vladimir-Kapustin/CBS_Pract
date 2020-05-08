@@ -1,0 +1,16 @@
+D:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VarioustTasks\000_Exercise\bin\Debug\000_Exercise.exe.config
+d:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VarioustTasks\000_Exercise\bin\Debug\000_Exercise.exe
+d:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VarioustTasks\000_Exercise\bin\Debug\000_Exercise.pdb
+d:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VarioustTasks\000_Exercise\obj\Debug\000_Exercise.exe
+d:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VarioustTasks\000_Exercise\obj\Debug\000_Exercise.pdb
+d:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VariousTasks\000_Exercise\bin\Debug\000_Exercise.exe.config
+d:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VariousTasks\000_Exercise\bin\Debug\000_Exercise.exe
+d:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VariousTasks\000_Exercise\bin\Debug\000_Exercise.pdb
+d:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VariousTasks\000_Exercise\obj\Debug\000_Exercise.exe
+d:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VariousTasks\000_Exercise\obj\Debug\000_Exercise.pdb
+d:\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VariousTasks\000_Exercise\bin\Debug\000_Exercise.exe.config
+d:\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VariousTasks\000_Exercise\obj\Debug\000_Exercise.exe
+d:\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VariousTasks\000_Exercise\obj\Debug\000_Exercise.pdb
+d:\CBS_Pract\VariousTasks\003_C# Essential\000_Exercise\bin\Debug\000_Exercise.exe.config
+d:\CBS_Pract\VariousTasks\003_C# Essential\000_Exercise\obj\Debug\000_Exercise.exe
+d:\CBS_Pract\VariousTasks\003_C# Essential\000_Exercise\obj\Debug\000_Exercise.pdb

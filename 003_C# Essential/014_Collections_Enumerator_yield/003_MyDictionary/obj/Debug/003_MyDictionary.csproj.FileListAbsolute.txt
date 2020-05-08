@@ -1,0 +1,6 @@
+D:\.NET Pract\003_C# Essential\014_Collections_Enumerator_yield\003_MyDictionary\bin\Debug\003_MyDictionary.exe.config
+d:\.NET Pract\003_C# Essential\014_Collections_Enumerator_yield\003_MyDictionary\bin\Debug\003_MyDictionary.exe
+d:\.NET Pract\003_C# Essential\014_Collections_Enumerator_yield\003_MyDictionary\bin\Debug\003_MyDictionary.pdb
+d:\.NET Pract\003_C# Essential\014_Collections_Enumerator_yield\003_MyDictionary\obj\Debug\003_MyDictionary.csprojResolveAssemblyReference.cache
+d:\.NET Pract\003_C# Essential\014_Collections_Enumerator_yield\003_MyDictionary\obj\Debug\003_MyDictionary.exe
+d:\.NET Pract\003_C# Essential\014_Collections_Enumerator_yield\003_MyDictionary\obj\Debug\003_MyDictionary.pdb

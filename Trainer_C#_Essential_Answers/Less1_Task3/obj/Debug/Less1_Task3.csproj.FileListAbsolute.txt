@@ -1,0 +1,2 @@
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Trainer Csharp Essential\Less1_Task3\bin\Debug\Less1_Task3.exe.config
+d:\CBS_Pract\Trainer_C#_Essential\Less1_Task3\bin\Debug\Less1_Task3.exe.config

@@ -1,0 +1,6 @@
+D:\.NET Pract\005_C# Professional\001_User Collections\Task2_Enumerators\bin\Debug\Task2_Enumerators.exe.config
+D:\.NET Pract\005_C# Professional\001_User Collections\Task2_Enumerators\bin\Debug\Task2_Enumerators.exe
+D:\.NET Pract\005_C# Professional\001_User Collections\Task2_Enumerators\bin\Debug\Task2_Enumerators.pdb
+D:\.NET Pract\005_C# Professional\001_User Collections\Task2_Enumerators\obj\Debug\Task2_Enumerators.csprojResolveAssemblyReference.cache
+D:\.NET Pract\005_C# Professional\001_User Collections\Task2_Enumerators\obj\Debug\Task2_Enumerators.exe
+D:\.NET Pract\005_C# Professional\001_User Collections\Task2_Enumerators\obj\Debug\Task2_Enumerators.pdb

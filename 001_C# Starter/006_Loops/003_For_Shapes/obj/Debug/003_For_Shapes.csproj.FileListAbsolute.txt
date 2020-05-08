@@ -1,0 +1,6 @@
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\006_Loops\003_For_Shapes\bin\Debug\003_For_Shapes.exe.config
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\006_Loops\003_For_Shapes\bin\Debug\003_For_Shapes.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\006_Loops\003_For_Shapes\bin\Debug\003_For_Shapes.pdb
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\006_Loops\003_For_Shapes\obj\Debug\003_For_Shapes.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\006_Loops\003_For_Shapes\obj\Debug\003_For_Shapes.pdb
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\006_Loops\003_For_Shapes\obj\Debug\003_For_Shapes.csprojResolveAssemblyReference.cache

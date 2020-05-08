@@ -1,0 +1,6 @@
+D:\.NET Pract\003_C# Essential\004_Abstraction_Interfaces_DI\000_AbstractClass\bin\Debug\000_AbstractClass.exe.config
+D:\.NET Pract\003_C# Essential\004_Abstraction_Interfaces_DI\000_AbstractClass\obj\Debug\000_AbstractClass.csprojResolveAssemblyReference.cache
+D:\.NET Pract\003_C# Essential\004_Abstraction_Interfaces_DI\000_AbstractClass\bin\Debug\000_AbstractClass.exe
+D:\.NET Pract\003_C# Essential\004_Abstraction_Interfaces_DI\000_AbstractClass\bin\Debug\000_AbstractClass.pdb
+D:\.NET Pract\003_C# Essential\004_Abstraction_Interfaces_DI\000_AbstractClass\obj\Debug\000_AbstractClass.exe
+D:\.NET Pract\003_C# Essential\004_Abstraction_Interfaces_DI\000_AbstractClass\obj\Debug\000_AbstractClass.pdb

@@ -1,0 +1,3 @@
+d:\.NET Pract\001_C# Starter\003_Variables_And_Data_Types\Variables_And_Data_Types\004_ArithmeticalMean\bin\Debug\004_ArithmeticalMean.exe.config
+d:\.NET Pract\001_C# Starter\003_Variables_And_Data_Types\Variables_And_Data_Types\004_ArithmeticalMean\obj\Debug\004_ArithmeticalMean.exe
+d:\.NET Pract\001_C# Starter\003_Variables_And_Data_Types\Variables_And_Data_Types\004_ArithmeticalMean\obj\Debug\004_ArithmeticalMean.pdb

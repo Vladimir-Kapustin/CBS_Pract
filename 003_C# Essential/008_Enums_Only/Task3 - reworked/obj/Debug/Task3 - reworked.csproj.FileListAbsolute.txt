@@ -1,0 +1,6 @@
+D:\.NET Pract\003_C# Essential\008_Enums_Only\Task3 - reworked\bin\Debug\Task3 - reworked.exe.config
+d:\.NET Pract\003_C# Essential\008_Enums_Only\Task3 - reworked\bin\Debug\Task3 - reworked.exe
+d:\.NET Pract\003_C# Essential\008_Enums_Only\Task3 - reworked\bin\Debug\Task3 - reworked.pdb
+d:\.NET Pract\003_C# Essential\008_Enums_Only\Task3 - reworked\obj\Debug\Task3 - reworked.csprojResolveAssemblyReference.cache
+d:\.NET Pract\003_C# Essential\008_Enums_Only\Task3 - reworked\obj\Debug\Task3 - reworked.exe
+d:\.NET Pract\003_C# Essential\008_Enums_Only\Task3 - reworked\obj\Debug\Task3 - reworked.pdb

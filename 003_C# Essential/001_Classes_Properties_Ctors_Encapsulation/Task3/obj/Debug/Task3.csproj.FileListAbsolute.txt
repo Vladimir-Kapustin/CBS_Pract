@@ -1,0 +1,9 @@
+D:\.NET Pract\003_C# Essential\001_Classes_Properties_Ctors_Encapsulation\Task3\bin\Debug\Task3.exe.config
+d:\.NET Pract\003_C# Essential\001_Classes_Properties_Ctors_Encapsulation\Task3\bin\Debug\Task3.exe
+d:\.NET Pract\003_C# Essential\001_Classes_Properties_Ctors_Encapsulation\Task3\bin\Debug\Task3.pdb
+d:\.NET Pract\003_C# Essential\001_Classes_Properties_Ctors_Encapsulation\Task3\obj\Debug\Task3.csprojResolveAssemblyReference.cache
+d:\.NET Pract\003_C# Essential\001_Classes_Properties_Ctors_Encapsulation\Task3\obj\Debug\Task3.exe
+d:\.NET Pract\003_C# Essential\001_Classes_Properties_Ctors_Encapsulation\Task3\obj\Debug\Task3.pdb
+d:\CBS_Pract\003_C# Essential\001_Classes_Properties_Ctors_Encapsulation\Task3\bin\Debug\Task3.exe.config
+d:\CBS_Pract\003_C# Essential\001_Classes_Properties_Ctors_Encapsulation\Task3\obj\Debug\Task3.exe
+d:\CBS_Pract\003_C# Essential\001_Classes_Properties_Ctors_Encapsulation\Task3\obj\Debug\Task3.pdb

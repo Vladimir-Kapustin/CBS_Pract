@@ -1,0 +1,6 @@
+D:\.NET Pract\003_C# Essential\016_Operators_Object_Prototype_ICloneable_Conversion\Task3\bin\Debug\Task3.exe.config
+D:\.NET Pract\003_C# Essential\016_Operators_Object_Prototype_ICloneable_Conversion\Task3\bin\Debug\Task3.exe
+D:\.NET Pract\003_C# Essential\016_Operators_Object_Prototype_ICloneable_Conversion\Task3\bin\Debug\Task3.pdb
+D:\.NET Pract\003_C# Essential\016_Operators_Object_Prototype_ICloneable_Conversion\Task3\obj\Debug\Task3.csprojResolveAssemblyReference.cache
+D:\.NET Pract\003_C# Essential\016_Operators_Object_Prototype_ICloneable_Conversion\Task3\obj\Debug\Task3.exe
+D:\.NET Pract\003_C# Essential\016_Operators_Object_Prototype_ICloneable_Conversion\Task3\obj\Debug\Task3.pdb

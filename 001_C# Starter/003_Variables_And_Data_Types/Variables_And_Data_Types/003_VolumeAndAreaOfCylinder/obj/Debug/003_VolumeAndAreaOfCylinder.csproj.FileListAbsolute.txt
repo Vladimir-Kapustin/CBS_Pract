@@ -1,0 +1,8 @@
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\003_Variables_And_Data_Types\Variables_And_Data_Types\003_VolumeAndAreaOfCylinder\bin\Debug\003_VolumeAndAreaOfCylinder.exe.config
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\003_Variables_And_Data_Types\Variables_And_Data_Types\003_VolumeAndAreaOfCylinder\bin\Debug\003_VolumeAndAreaOfCylinder.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\003_Variables_And_Data_Types\Variables_And_Data_Types\003_VolumeAndAreaOfCylinder\bin\Debug\003_VolumeAndAreaOfCylinder.pdb
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\003_Variables_And_Data_Types\Variables_And_Data_Types\003_VolumeAndAreaOfCylinder\obj\Debug\003_VolumeAndAreaOfCylinder.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\003_Variables_And_Data_Types\Variables_And_Data_Types\003_VolumeAndAreaOfCylinder\obj\Debug\003_VolumeAndAreaOfCylinder.pdb
+d:\.NET Pract\001_C# Starter\003_Variables_And_Data_Types\Variables_And_Data_Types\003_VolumeAndAreaOfCylinder\bin\Debug\003_VolumeAndAreaOfCylinder.exe.config
+d:\.NET Pract\001_C# Starter\003_Variables_And_Data_Types\Variables_And_Data_Types\003_VolumeAndAreaOfCylinder\obj\Debug\003_VolumeAndAreaOfCylinder.exe
+d:\.NET Pract\001_C# Starter\003_Variables_And_Data_Types\Variables_And_Data_Types\003_VolumeAndAreaOfCylinder\obj\Debug\003_VolumeAndAreaOfCylinder.pdb

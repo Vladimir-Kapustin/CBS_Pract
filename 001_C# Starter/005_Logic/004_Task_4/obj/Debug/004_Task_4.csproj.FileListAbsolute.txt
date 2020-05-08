@@ -1,0 +1,9 @@
+D:\.NET Pract\001_C# Starter\005_Logic\004_Task_4\bin\Debug\004_Task_4.exe.config
+D:\.NET Pract\001_C# Starter\005_Logic\004_Task_4\bin\Debug\004_Task_4.exe
+D:\.NET Pract\001_C# Starter\005_Logic\004_Task_4\bin\Debug\004_Task_4.pdb
+D:\.NET Pract\001_C# Starter\005_Logic\004_Task_4\obj\Debug\004_Task_4.csprojResolveAssemblyReference.cache
+D:\.NET Pract\001_C# Starter\005_Logic\004_Task_4\obj\Debug\004_Task_4.exe
+D:\.NET Pract\001_C# Starter\005_Logic\004_Task_4\obj\Debug\004_Task_4.pdb
+d:\CBS_Pract\001_C# Starter\005_Logic\004_Task_4\bin\Debug\004_Task_4.exe.config
+d:\CBS_Pract\001_C# Starter\005_Logic\004_Task_4\obj\Debug\004_Task_4.exe
+d:\CBS_Pract\001_C# Starter\005_Logic\004_Task_4\obj\Debug\004_Task_4.pdb

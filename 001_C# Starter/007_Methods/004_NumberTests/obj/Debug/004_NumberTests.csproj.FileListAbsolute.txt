@@ -1,0 +1,12 @@
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\007_Methods\004_NumberTests\bin\Debug\004_NumberTests.exe.config
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\007_Methods\004_NumberTests\bin\Debug\004_NumberTests.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\007_Methods\004_NumberTests\bin\Debug\004_NumberTests.pdb
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\007_Methods\004_NumberTests\obj\Debug\004_NumberTests.csprojResolveAssemblyReference.cache
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\007_Methods\004_NumberTests\obj\Debug\004_NumberTests.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\007_Methods\004_NumberTests\obj\Debug\004_NumberTests.pdb
+d:\.NET Pract\001_C# Starter\007_Methods\004_NumberTests\bin\Debug\004_NumberTests.exe.config
+d:\.NET Pract\001_C# Starter\007_Methods\004_NumberTests\obj\Debug\004_NumberTests.exe
+d:\.NET Pract\001_C# Starter\007_Methods\004_NumberTests\obj\Debug\004_NumberTests.pdb
+d:\.NET Pract\001_C# Starter\007_Methods\004_NumberTests\bin\Debug\004_NumberTests.exe
+d:\.NET Pract\001_C# Starter\007_Methods\004_NumberTests\bin\Debug\004_NumberTests.pdb
+d:\.NET Pract\001_C# Starter\007_Methods\004_NumberTests\obj\Debug\004_NumberTests.csprojResolveAssemblyReference.cache

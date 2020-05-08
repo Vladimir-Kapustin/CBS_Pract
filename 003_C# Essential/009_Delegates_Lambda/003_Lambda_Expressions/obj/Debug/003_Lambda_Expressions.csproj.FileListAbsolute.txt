@@ -1,0 +1,6 @@
+D:\.NET Pract\003_C# Essential\009_Delegates_Lambda\003_Lambda_Expressions\bin\Debug\003_Lambda_Expressions.exe.config
+D:\.NET Pract\003_C# Essential\009_Delegates_Lambda\003_Lambda_Expressions\bin\Debug\003_Lambda_Expressions.exe
+D:\.NET Pract\003_C# Essential\009_Delegates_Lambda\003_Lambda_Expressions\bin\Debug\003_Lambda_Expressions.pdb
+D:\.NET Pract\003_C# Essential\009_Delegates_Lambda\003_Lambda_Expressions\obj\Debug\003_Lambda_Expressions.csprojResolveAssemblyReference.cache
+D:\.NET Pract\003_C# Essential\009_Delegates_Lambda\003_Lambda_Expressions\obj\Debug\003_Lambda_Expressions.exe
+D:\.NET Pract\003_C# Essential\009_Delegates_Lambda\003_Lambda_Expressions\obj\Debug\003_Lambda_Expressions.pdb

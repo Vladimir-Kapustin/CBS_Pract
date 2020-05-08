@@ -1,0 +1,6 @@
+D:\.NET Pract\001_C# Starter\009_Arrays\Arrays\003_ReversedArrAndSubArr_Shevchuk\bin\Debug\003_ReversedArrAndSubArr_Shevchuk.exe.config
+D:\.NET Pract\001_C# Starter\009_Arrays\Arrays\003_ReversedArrAndSubArr_Shevchuk\bin\Debug\003_ReversedArrAndSubArr_Shevchuk.exe
+D:\.NET Pract\001_C# Starter\009_Arrays\Arrays\003_ReversedArrAndSubArr_Shevchuk\bin\Debug\003_ReversedArrAndSubArr_Shevchuk.pdb
+D:\.NET Pract\001_C# Starter\009_Arrays\Arrays\003_ReversedArrAndSubArr_Shevchuk\obj\Debug\003_ReversedArrAndSubArr_Shevchuk.csprojResolveAssemblyReference.cache
+D:\.NET Pract\001_C# Starter\009_Arrays\Arrays\003_ReversedArrAndSubArr_Shevchuk\obj\Debug\003_ReversedArrAndSubArr_Shevchuk.exe
+D:\.NET Pract\001_C# Starter\009_Arrays\Arrays\003_ReversedArrAndSubArr_Shevchuk\obj\Debug\003_ReversedArrAndSubArr_Shevchuk.pdb

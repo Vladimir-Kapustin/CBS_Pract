@@ -1,0 +1,2 @@
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Trainer Csharp Starter\3_3 Conditions\bin\Debug\3_3 Conditions.exe.config
+d:\CBS_Pract\Trainer_C#_Starter\3_3 Conditions\bin\Debug\3_3 Conditions.exe.config

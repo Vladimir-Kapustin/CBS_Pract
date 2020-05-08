@@ -1,0 +1,5 @@
+D:\Repos\CBS_Practice_2020\C#_Starter\002_Machine_Mathematics\Machine_Mathematics\Task2\bin\Debug\Task2.exe.config
+D:\Repos\CBS_Practice_2020\C#_Starter\002_Machine_Mathematics\Machine_Mathematics\Task2\bin\Debug\Task2.exe
+D:\Repos\CBS_Practice_2020\C#_Starter\002_Machine_Mathematics\Machine_Mathematics\Task2\bin\Debug\Task2.pdb
+D:\Repos\CBS_Practice_2020\C#_Starter\002_Machine_Mathematics\Machine_Mathematics\Task2\obj\Debug\Task2.exe
+D:\Repos\CBS_Practice_2020\C#_Starter\002_Machine_Mathematics\Machine_Mathematics\Task2\obj\Debug\Task2.pdb

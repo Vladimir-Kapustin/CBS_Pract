@@ -1,0 +1,6 @@
+d:\CBS_Pract\001_C# Starter\005_Logic\002_AND-ShortCircuitAND_PowerOfTwoCheck\bin\Debug\002_AND-ShortCircuitAND_PowerOfTwoCheck.exe.config
+d:\CBS_Pract\001_C# Starter\005_Logic\002_AND-ShortCircuitAND_PowerOfTwoCheck\bin\Debug\002_AND-ShortCircuitAND_PowerOfTwoCheck.exe
+d:\CBS_Pract\001_C# Starter\005_Logic\002_AND-ShortCircuitAND_PowerOfTwoCheck\bin\Debug\002_AND-ShortCircuitAND_PowerOfTwoCheck.pdb
+d:\CBS_Pract\001_C# Starter\005_Logic\002_AND-ShortCircuitAND_PowerOfTwoCheck\obj\Debug\002_PowerOfTwoCheck_AND-ShortCircuitAND.csprojResolveAssemblyReference.cache
+d:\CBS_Pract\001_C# Starter\005_Logic\002_AND-ShortCircuitAND_PowerOfTwoCheck\obj\Debug\002_AND-ShortCircuitAND_PowerOfTwoCheck.exe
+d:\CBS_Pract\001_C# Starter\005_Logic\002_AND-ShortCircuitAND_PowerOfTwoCheck\obj\Debug\002_AND-ShortCircuitAND_PowerOfTwoCheck.pdb

@@ -1,0 +1,9 @@
+D:\CBS_Pract\VariousTasks\001_C#_Starter_2020_Selected\008_Methods\Task3\bin\Debug\Task3.exe.config
+D:\CBS_Pract\VariousTasks\001_C#_Starter_2020_Selected\008_Methods\Task3\bin\Debug\Task3.exe
+D:\CBS_Pract\VariousTasks\001_C#_Starter_2020_Selected\008_Methods\Task3\bin\Debug\Task3.pdb
+D:\CBS_Pract\VariousTasks\001_C#_Starter_2020_Selected\008_Methods\Task3\obj\Debug\Task3.csprojResolveAssemblyReference.cache
+D:\CBS_Pract\VariousTasks\001_C#_Starter_2020_Selected\008_Methods\Task3\obj\Debug\Task3.exe
+D:\CBS_Pract\VariousTasks\001_C#_Starter_2020_Selected\008_Methods\Task3\obj\Debug\Task3.pdb
+d:\CBS_Pract\VariousTasks\001_C#_Starter\2020\008_Methods\Task3\bin\Debug\Task3.exe.config
+d:\CBS_Pract\VariousTasks\001_C#_Starter\2020\008_Methods\Task3\obj\Debug\Task3.exe
+d:\CBS_Pract\VariousTasks\001_C#_Starter\2020\008_Methods\Task3\obj\Debug\Task3.pdb

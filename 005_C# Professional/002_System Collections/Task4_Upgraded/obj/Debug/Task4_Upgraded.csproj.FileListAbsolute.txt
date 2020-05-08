@@ -1,0 +1,6 @@
+D:\.NET Pract\005_C# Professional\002_System Collections\Task4_Upgraded\bin\Debug\Task4_Upgraded.exe.config
+D:\.NET Pract\005_C# Professional\002_System Collections\Task4_Upgraded\bin\Debug\Task4_Upgraded.exe
+D:\.NET Pract\005_C# Professional\002_System Collections\Task4_Upgraded\bin\Debug\Task4_Upgraded.pdb
+D:\.NET Pract\005_C# Professional\002_System Collections\Task4_Upgraded\obj\Debug\Task4_Upgraded.csprojResolveAssemblyReference.cache
+D:\.NET Pract\005_C# Professional\002_System Collections\Task4_Upgraded\obj\Debug\Task4_Upgraded.exe
+D:\.NET Pract\005_C# Professional\002_System Collections\Task4_Upgraded\obj\Debug\Task4_Upgraded.pdb

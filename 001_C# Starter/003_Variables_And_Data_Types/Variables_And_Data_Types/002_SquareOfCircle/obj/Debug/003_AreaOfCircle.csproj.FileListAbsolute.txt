@@ -1,0 +1,3 @@
+d:\.NET Pract\001_C# Starter\003_Variables_And_Data_Types\Variables_And_Data_Types\002_SquareOfCircle\bin\Debug\002_SquareOfCircle.exe.config
+d:\.NET Pract\001_C# Starter\003_Variables_And_Data_Types\Variables_And_Data_Types\002_SquareOfCircle\obj\Debug\002_SquareOfCircle.exe
+d:\.NET Pract\001_C# Starter\003_Variables_And_Data_Types\Variables_And_Data_Types\002_SquareOfCircle\obj\Debug\002_SquareOfCircle.pdb

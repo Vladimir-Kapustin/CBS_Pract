@@ -1,0 +1,6 @@
+D:\.NET Pract\003_C# Essential\008_Structures_Boxing_Enums_Covariant_DateTime\003_Enums\bin\Debug\003_Enums.exe.config
+D:\.NET Pract\003_C# Essential\008_Structures_Boxing_Enums_Covariant_DateTime\003_Enums\bin\Debug\003_Enums.exe
+D:\.NET Pract\003_C# Essential\008_Structures_Boxing_Enums_Covariant_DateTime\003_Enums\bin\Debug\003_Enums.pdb
+D:\.NET Pract\003_C# Essential\008_Structures_Boxing_Enums_Covariant_DateTime\003_Enums\obj\Debug\003_Enums.csprojResolveAssemblyReference.cache
+D:\.NET Pract\003_C# Essential\008_Structures_Boxing_Enums_Covariant_DateTime\003_Enums\obj\Debug\003_Enums.exe
+D:\.NET Pract\003_C# Essential\008_Structures_Boxing_Enums_Covariant_DateTime\003_Enums\obj\Debug\003_Enums.pdb

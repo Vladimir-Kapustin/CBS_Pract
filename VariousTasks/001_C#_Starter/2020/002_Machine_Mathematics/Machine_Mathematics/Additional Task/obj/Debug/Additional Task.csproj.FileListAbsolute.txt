@@ -1,0 +1,9 @@
+D:\Repos\CBS_Practice_2020\C#_Starter\002_Machine_Mathematics\Machine_Mathematics\Additional Task\bin\Debug\Additional Task.exe.config
+D:\Repos\CBS_Practice_2020\C#_Starter\002_Machine_Mathematics\Machine_Mathematics\Additional Task\bin\Debug\Additional Task.exe
+D:\Repos\CBS_Practice_2020\C#_Starter\002_Machine_Mathematics\Machine_Mathematics\Additional Task\bin\Debug\Additional Task.pdb
+D:\Repos\CBS_Practice_2020\C#_Starter\002_Machine_Mathematics\Machine_Mathematics\Additional Task\obj\Debug\Additional Task.csprojResolveAssemblyReference.cache
+D:\Repos\CBS_Practice_2020\C#_Starter\002_Machine_Mathematics\Machine_Mathematics\Additional Task\obj\Debug\Additional_Task.Form1.resources
+D:\Repos\CBS_Practice_2020\C#_Starter\002_Machine_Mathematics\Machine_Mathematics\Additional Task\obj\Debug\Additional_Task.Properties.Resources.resources
+D:\Repos\CBS_Practice_2020\C#_Starter\002_Machine_Mathematics\Machine_Mathematics\Additional Task\obj\Debug\Additional Task.csproj.GenerateResource.Cache
+D:\Repos\CBS_Practice_2020\C#_Starter\002_Machine_Mathematics\Machine_Mathematics\Additional Task\obj\Debug\Additional Task.exe
+D:\Repos\CBS_Practice_2020\C#_Starter\002_Machine_Mathematics\Machine_Mathematics\Additional Task\obj\Debug\Additional Task.pdb

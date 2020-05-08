@@ -1,0 +1,6 @@
+D:\.NET Pract\003_C# Essential\012_Events_MVP\002_MVPClassDiagram\bin\Debug\002_MVPClassDiagram.exe.config
+D:\.NET Pract\003_C# Essential\012_Events_MVP\002_MVPClassDiagram\bin\Debug\002_MVPClassDiagram.exe
+D:\.NET Pract\003_C# Essential\012_Events_MVP\002_MVPClassDiagram\bin\Debug\002_MVPClassDiagram.pdb
+D:\.NET Pract\003_C# Essential\012_Events_MVP\002_MVPClassDiagram\obj\Debug\002_MVPClassDiagram.csprojResolveAssemblyReference.cache
+D:\.NET Pract\003_C# Essential\012_Events_MVP\002_MVPClassDiagram\obj\Debug\002_MVPClassDiagram.exe
+D:\.NET Pract\003_C# Essential\012_Events_MVP\002_MVPClassDiagram\obj\Debug\002_MVPClassDiagram.pdb

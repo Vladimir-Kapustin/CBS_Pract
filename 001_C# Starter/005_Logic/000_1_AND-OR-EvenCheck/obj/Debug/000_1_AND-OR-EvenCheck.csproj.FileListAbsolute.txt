@@ -1,0 +1,15 @@
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\005_Logic\Logic\000_1_AND-OR-EvenCheck\bin\Debug\000_1_AND-OR-EvenCheck.exe.config
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\005_Logic\Logic\000_1_AND-OR-EvenCheck\bin\Debug\000_1_AND-OR-EvenCheck.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\005_Logic\Logic\000_1_AND-OR-EvenCheck\bin\Debug\000_1_AND-OR-EvenCheck.pdb
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\005_Logic\Logic\000_1_AND-OR-EvenCheck\obj\Debug\000_1_AND-OR-EvenCheck.csprojResolveAssemblyReference.cache
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\005_Logic\Logic\000_1_AND-OR-EvenCheck\obj\Debug\000_1_AND-OR-EvenCheck.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\005_Logic\Logic\000_1_AND-OR-EvenCheck\obj\Debug\000_1_AND-OR-EvenCheck.pdb
+d:\.NET Pract\001_C# Starter\005_Logic\000_1_AND-OR-EvenCheck\bin\Debug\000_1_AND-OR-EvenCheck.exe.config
+d:\.NET Pract\001_C# Starter\005_Logic\000_1_AND-OR-EvenCheck\obj\Debug\000_1_AND-OR-EvenCheck.exe
+d:\.NET Pract\001_C# Starter\005_Logic\000_1_AND-OR-EvenCheck\obj\Debug\000_1_AND-OR-EvenCheck.pdb
+d:\.NET Pract\001_C# Starter\005_Logic\000_1_AND-OR-EvenCheck\bin\Debug\000_1_AND-OR-EvenCheck.exe
+d:\.NET Pract\001_C# Starter\005_Logic\000_1_AND-OR-EvenCheck\bin\Debug\000_1_AND-OR-EvenCheck.pdb
+d:\.NET Pract\001_C# Starter\005_Logic\000_1_AND-OR-EvenCheck\obj\Debug\000_1_AND-OR-EvenCheck.csprojResolveAssemblyReference.cache
+d:\CBS_Pract\001_C# Starter\005_Logic\000_1_AND-OR-EvenCheck\bin\Debug\000_1_AND-OR-EvenCheck.exe.config
+d:\CBS_Pract\001_C# Starter\005_Logic\000_1_AND-OR-EvenCheck\obj\Debug\000_1_AND-OR-EvenCheck.exe
+d:\CBS_Pract\001_C# Starter\005_Logic\000_1_AND-OR-EvenCheck\obj\Debug\000_1_AND-OR-EvenCheck.pdb

@@ -1,0 +1,3 @@
+d:\Repos\CBS_Pract\003_C# Essential\005_Arrays(Indexers)\003_Indexers_Matrix\bin\Debug\003_Indexers_Matrix.exe.config
+d:\Repos\CBS_Pract\003_C# Essential\005_Arrays(Indexers)\003_Indexers_Matrix\obj\Debug\003_Indexers_Matrix.exe
+d:\Repos\CBS_Pract\003_C# Essential\005_Arrays(Indexers)\003_Indexers_Matrix\obj\Debug\003_Indexers_Matrix.pdb

@@ -1,0 +1,1 @@
+D:\.NET Pract\004_Algorithms And Data Structures\003_Stacks_And_Queues\001_Queue_Priorities\bin\Debug\001_Queue_Priorities.exe.config

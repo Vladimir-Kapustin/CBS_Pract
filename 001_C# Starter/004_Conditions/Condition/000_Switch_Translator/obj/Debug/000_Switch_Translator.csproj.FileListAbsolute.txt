@@ -1,0 +1,12 @@
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\004_Conditions\Condition\000_Switch_Translator\bin\Debug\000_Switch_Translator.exe.config
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\004_Conditions\Condition\000_Switch_Translator\bin\Debug\000_Switch_Translator.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\004_Conditions\Condition\000_Switch_Translator\bin\Debug\000_Switch_Translator.pdb
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\004_Conditions\Condition\000_Switch_Translator\obj\Debug\000_Switch_Translator.csprojResolveAssemblyReference.cache
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\004_Conditions\Condition\000_Switch_Translator\obj\Debug\000_Switch_Translator.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\004_Conditions\Condition\000_Switch_Translator\obj\Debug\000_Switch_Translator.pdb
+d:\.NET Pract\001_C# Starter\004_Conditions\Condition\000_Switch_Translator\bin\Debug\000_Switch_Translator.exe.config
+d:\.NET Pract\001_C# Starter\004_Conditions\Condition\000_Switch_Translator\obj\Debug\000_Switch_Translator.exe
+d:\.NET Pract\001_C# Starter\004_Conditions\Condition\000_Switch_Translator\obj\Debug\000_Switch_Translator.pdb
+d:\.NET Pract\001_C# Starter\004_Conditions\Condition\000_Switch_Translator\bin\Debug\000_Switch_Translator.exe
+d:\.NET Pract\001_C# Starter\004_Conditions\Condition\000_Switch_Translator\bin\Debug\000_Switch_Translator.pdb
+d:\.NET Pract\001_C# Starter\004_Conditions\Condition\000_Switch_Translator\obj\Debug\000_Switch_Translator.csprojResolveAssemblyReference.cache

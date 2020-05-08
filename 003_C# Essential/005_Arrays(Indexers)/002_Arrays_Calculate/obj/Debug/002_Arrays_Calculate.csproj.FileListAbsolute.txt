@@ -1,0 +1,12 @@
+D:\.NET Pract\003_C# Essential\005_Arrays(Indexers)\002_Arrays_Calculate\bin\Debug\002_Arrays_Calculate.exe.config
+D:\.NET Pract\003_C# Essential\005_Arrays(Indexers)\002_Arrays_Calculate\bin\Debug\002_Arrays_Calculate.exe
+D:\.NET Pract\003_C# Essential\005_Arrays(Indexers)\002_Arrays_Calculate\bin\Debug\002_Arrays_Calculate.pdb
+D:\.NET Pract\003_C# Essential\005_Arrays(Indexers)\002_Arrays_Calculate\obj\Debug\002_Arrays_Calculate.csprojResolveAssemblyReference.cache
+D:\.NET Pract\003_C# Essential\005_Arrays(Indexers)\002_Arrays_Calculate\obj\Debug\002_Arrays_Calculate.exe
+D:\.NET Pract\003_C# Essential\005_Arrays(Indexers)\002_Arrays_Calculate\obj\Debug\002_Arrays_Calculate.pdb
+d:\Repos\CBS_Pract\003_C# Essential\005_Arrays(Indexers)\002_Arrays_Calculate\bin\Debug\002_Arrays_Calculate.exe.config
+d:\Repos\CBS_Pract\003_C# Essential\005_Arrays(Indexers)\002_Arrays_Calculate\obj\Debug\002_Arrays_Calculate.exe
+d:\Repos\CBS_Pract\003_C# Essential\005_Arrays(Indexers)\002_Arrays_Calculate\obj\Debug\002_Arrays_Calculate.pdb
+d:\Repos\CBS_Pract\003_C# Essential\005_Arrays(Indexers)\002_Arrays_Calculate\bin\Debug\002_Arrays_Calculate.exe
+d:\Repos\CBS_Pract\003_C# Essential\005_Arrays(Indexers)\002_Arrays_Calculate\bin\Debug\002_Arrays_Calculate.pdb
+d:\Repos\CBS_Pract\003_C# Essential\005_Arrays(Indexers)\002_Arrays_Calculate\obj\Debug\002_Arrays_Calculate.csprojResolveAssemblyReference.cache

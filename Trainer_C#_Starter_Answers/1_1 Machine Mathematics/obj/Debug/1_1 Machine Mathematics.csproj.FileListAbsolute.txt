@@ -1,0 +1,2 @@
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Trainer Csharp Starter\1_1 Machine Mathematics\bin\Debug\1_1 Machine Mathematics.exe.config
+d:\CBS_Pract\Trainer_C#_Starter\1_1 Machine Mathematics\bin\Debug\1_1 Machine Mathematics.exe.config

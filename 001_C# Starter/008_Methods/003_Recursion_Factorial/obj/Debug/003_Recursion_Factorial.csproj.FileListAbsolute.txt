@@ -1,0 +1,12 @@
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\008_Methods\003_Recursion_Factorial\bin\Debug\003_Recursion_Factorial.exe.config
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\008_Methods\003_Recursion_Factorial\bin\Debug\003_Recursion_Factorial.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\008_Methods\003_Recursion_Factorial\bin\Debug\003_Recursion_Factorial.pdb
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\008_Methods\003_Recursion_Factorial\obj\Debug\003_Recursion_Factorial.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\008_Methods\003_Recursion_Factorial\obj\Debug\003_Recursion_Factorial.pdb
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\008_Methods\003_Recursion_Factorial\obj\Debug\003_Recursion_Factorial.csprojResolveAssemblyReference.cache
+d:\.NET Pract\001_C# Starter\008_Methods\003_Recursion_Factorial\bin\Debug\003_Recursion_Factorial.exe.config
+d:\.NET Pract\001_C# Starter\008_Methods\003_Recursion_Factorial\obj\Debug\003_Recursion_Factorial.exe
+d:\.NET Pract\001_C# Starter\008_Methods\003_Recursion_Factorial\obj\Debug\003_Recursion_Factorial.pdb
+d:\.NET Pract\001_C# Starter\008_Methods\003_Recursion_Factorial\bin\Debug\003_Recursion_Factorial.exe
+d:\.NET Pract\001_C# Starter\008_Methods\003_Recursion_Factorial\bin\Debug\003_Recursion_Factorial.pdb
+d:\.NET Pract\001_C# Starter\008_Methods\003_Recursion_Factorial\obj\Debug\003_Recursion_Factorial.csprojResolveAssemblyReference.cache

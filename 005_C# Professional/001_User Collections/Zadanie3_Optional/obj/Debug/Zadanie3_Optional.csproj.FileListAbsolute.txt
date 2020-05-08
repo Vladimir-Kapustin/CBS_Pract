@@ -1,0 +1,1 @@
+D:\.NET Pract\005_C# Professional\001_User Collections\Zadanie3_Optional\bin\Debug\Zadanie3_Optional.exe.config

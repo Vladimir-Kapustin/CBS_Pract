@@ -1,0 +1,9 @@
+D:\.NET Pract\003_C# Essential\005_Arrays(Indexers)\003_Indexers_Matrix\bin\Debug\003_Indexers_Matrix.exe.config
+D:\.NET Pract\003_C# Essential\005_Arrays(Indexers)\003_Indexers_Matrix\bin\Debug\003_Indexers_Matrix.exe
+D:\.NET Pract\003_C# Essential\005_Arrays(Indexers)\003_Indexers_Matrix\bin\Debug\003_Indexers_Matrix.pdb
+D:\.NET Pract\003_C# Essential\005_Arrays(Indexers)\003_Indexers_Matrix\obj\Debug\003_Indexers_Matrix.csprojResolveAssemblyReference.cache
+D:\.NET Pract\003_C# Essential\005_Arrays(Indexers)\003_Indexers_Matrix\obj\Debug\003_Indexers_Matrix.exe
+D:\.NET Pract\003_C# Essential\005_Arrays(Indexers)\003_Indexers_Matrix\obj\Debug\003_Indexers_Matrix.pdb
+d:\Repos\CBS_Pract\003_C# Essential\005_Arrays(Indexers)\003_Indexers_Matrix\bin\Debug\003_Indexers_Matrix.exe.config
+d:\Repos\CBS_Pract\003_C# Essential\005_Arrays(Indexers)\003_Indexers_Matrix\obj\Debug\003_Indexers_Matrix.exe
+d:\Repos\CBS_Pract\003_C# Essential\005_Arrays(Indexers)\003_Indexers_Matrix\obj\Debug\003_Indexers_Matrix.pdb

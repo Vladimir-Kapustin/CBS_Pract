@@ -1,0 +1,13 @@
+D:\.NET Pract\003_C# Essential\012_Events_MVP\004_MVP_Calculator\bin\Debug\004_MVP_Calculator.exe.config
+D:\.NET Pract\003_C# Essential\012_Events_MVP\004_MVP_Calculator\bin\Debug\004_MVP_Calculator.exe
+D:\.NET Pract\003_C# Essential\012_Events_MVP\004_MVP_Calculator\bin\Debug\004_MVP_Calculator.pdb
+D:\.NET Pract\003_C# Essential\012_Events_MVP\004_MVP_Calculator\obj\Debug\004_MVP_Calculator.csprojResolveAssemblyReference.cache
+D:\.NET Pract\003_C# Essential\012_Events_MVP\004_MVP_Calculator\obj\Debug\MainWindow.baml
+D:\.NET Pract\003_C# Essential\012_Events_MVP\004_MVP_Calculator\obj\Debug\MainWindow.g.cs
+D:\.NET Pract\003_C# Essential\012_Events_MVP\004_MVP_Calculator\obj\Debug\App.g.cs
+D:\.NET Pract\003_C# Essential\012_Events_MVP\004_MVP_Calculator\obj\Debug\004_MVP_Calculator_MarkupCompile.cache
+D:\.NET Pract\003_C# Essential\012_Events_MVP\004_MVP_Calculator\obj\Debug\004_MVP_Calculator.g.resources
+D:\.NET Pract\003_C# Essential\012_Events_MVP\004_MVP_Calculator\obj\Debug\_004_MVP_Calculator.Properties.Resources.resources
+D:\.NET Pract\003_C# Essential\012_Events_MVP\004_MVP_Calculator\obj\Debug\004_MVP_Calculator.csproj.GenerateResource.Cache
+D:\.NET Pract\003_C# Essential\012_Events_MVP\004_MVP_Calculator\obj\Debug\004_MVP_Calculator.exe
+D:\.NET Pract\003_C# Essential\012_Events_MVP\004_MVP_Calculator\obj\Debug\004_MVP_Calculator.pdb

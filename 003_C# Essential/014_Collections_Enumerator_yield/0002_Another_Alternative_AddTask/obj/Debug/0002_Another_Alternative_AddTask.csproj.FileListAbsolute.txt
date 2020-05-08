@@ -1,0 +1,6 @@
+D:\.NET Pract\003_C# Essential\014_Collections_Enumerator_yield\0002_Another_Alternative_AddTask\bin\Debug\0002_Another_Alternative_AddTask.exe.config
+D:\.NET Pract\003_C# Essential\014_Collections_Enumerator_yield\0002_Another_Alternative_AddTask\bin\Debug\0002_Another_Alternative_AddTask.exe
+D:\.NET Pract\003_C# Essential\014_Collections_Enumerator_yield\0002_Another_Alternative_AddTask\bin\Debug\0002_Another_Alternative_AddTask.pdb
+D:\.NET Pract\003_C# Essential\014_Collections_Enumerator_yield\0002_Another_Alternative_AddTask\obj\Debug\0002_Another_Alternative_AddTask.csprojResolveAssemblyReference.cache
+D:\.NET Pract\003_C# Essential\014_Collections_Enumerator_yield\0002_Another_Alternative_AddTask\obj\Debug\0002_Another_Alternative_AddTask.exe
+D:\.NET Pract\003_C# Essential\014_Collections_Enumerator_yield\0002_Another_Alternative_AddTask\obj\Debug\0002_Another_Alternative_AddTask.pdb

@@ -1,0 +1,3 @@
+D:\.NET Pract\003_C# Essential\009_Delegates_Lambda\002_Lambda_Operators\bin\Debug\002_Lambda_Operators.exe.config
+D:\.NET Pract\003_C# Essential\009_Delegates_Lambda\002_Lambda_Operators\obj\Debug\002_Lambda_Operators.exe
+D:\.NET Pract\003_C# Essential\009_Delegates_Lambda\002_Lambda_Operators\obj\Debug\002_Lambda_Operators.pdb

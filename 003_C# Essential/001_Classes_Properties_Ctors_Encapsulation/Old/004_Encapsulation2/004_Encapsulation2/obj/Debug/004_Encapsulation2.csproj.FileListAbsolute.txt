@@ -1,0 +1,12 @@
+D:\Courses .NET\CBS\Fourth - Online\003_C# Essential\Practice\001_Classes_Properties_Ctors_Encapsulation\004_Encapsulation2\004_Encapsulation2\bin\Debug\004_Encapsulation2.exe.config
+D:\Courses .NET\CBS\Fourth - Online\003_C# Essential\Practice\001_Classes_Properties_Ctors_Encapsulation\004_Encapsulation2\004_Encapsulation2\bin\Debug\004_Encapsulation2.exe
+D:\Courses .NET\CBS\Fourth - Online\003_C# Essential\Practice\001_Classes_Properties_Ctors_Encapsulation\004_Encapsulation2\004_Encapsulation2\bin\Debug\004_Encapsulation2.pdb
+D:\Courses .NET\CBS\Fourth - Online\003_C# Essential\Practice\001_Classes_Properties_Ctors_Encapsulation\004_Encapsulation2\004_Encapsulation2\obj\Debug\004_Encapsulation2.csprojResolveAssemblyReference.cache
+D:\Courses .NET\CBS\Fourth - Online\003_C# Essential\Practice\001_Classes_Properties_Ctors_Encapsulation\004_Encapsulation2\004_Encapsulation2\obj\Debug\004_Encapsulation2.exe
+D:\Courses .NET\CBS\Fourth - Online\003_C# Essential\Practice\001_Classes_Properties_Ctors_Encapsulation\004_Encapsulation2\004_Encapsulation2\obj\Debug\004_Encapsulation2.pdb
+d:\.NET Pract\003_C# Essential\001_Classes_Properties_Ctors_Encapsulation\Old\004_Encapsulation2\004_Encapsulation2\bin\Debug\004_Encapsulation2.exe.config
+d:\.NET Pract\003_C# Essential\001_Classes_Properties_Ctors_Encapsulation\Old\004_Encapsulation2\004_Encapsulation2\obj\Debug\004_Encapsulation2.exe
+d:\.NET Pract\003_C# Essential\001_Classes_Properties_Ctors_Encapsulation\Old\004_Encapsulation2\004_Encapsulation2\obj\Debug\004_Encapsulation2.pdb
+d:\CBS_Pract\003_C# Essential\001_Classes_Properties_Ctors_Encapsulation\Old\004_Encapsulation2\004_Encapsulation2\bin\Debug\004_Encapsulation2.exe.config
+d:\CBS_Pract\003_C# Essential\001_Classes_Properties_Ctors_Encapsulation\Old\004_Encapsulation2\004_Encapsulation2\obj\Debug\004_Encapsulation2.exe
+d:\CBS_Pract\003_C# Essential\001_Classes_Properties_Ctors_Encapsulation\Old\004_Encapsulation2\004_Encapsulation2\obj\Debug\004_Encapsulation2.pdb

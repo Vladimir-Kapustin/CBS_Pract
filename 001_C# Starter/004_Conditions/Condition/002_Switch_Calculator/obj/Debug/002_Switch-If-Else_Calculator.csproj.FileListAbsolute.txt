@@ -1,0 +1,9 @@
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\004_Conditions\Condition\002_Switch_Calculator\bin\Debug\002_Switch_Calculator.exe.config
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\004_Conditions\Condition\002_Switch_Calculator\obj\Debug\002_Switch_Calculator.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\004_Conditions\Condition\002_Switch_Calculator\obj\Debug\002_Switch_Calculator.pdb
+d:\.NET Pract\001_C# Starter\004_Conditions\Condition\002_Switch_Calculator\bin\Debug\002_Switch_Calculator.exe.config
+d:\.NET Pract\001_C# Starter\004_Conditions\Condition\002_Switch_Calculator\obj\Debug\002_Switch_Calculator.exe
+d:\.NET Pract\001_C# Starter\004_Conditions\Condition\002_Switch_Calculator\obj\Debug\002_Switch_Calculator.pdb
+d:\.NET Pract\001_C# Starter\004_Conditions\Condition\002_Switch_Calculator\bin\Debug\002_Switch_Calculator.exe
+d:\.NET Pract\001_C# Starter\004_Conditions\Condition\002_Switch_Calculator\bin\Debug\002_Switch_Calculator.pdb
+d:\.NET Pract\001_C# Starter\004_Conditions\Condition\002_Switch_Calculator\obj\Debug\002_Switch-If-Else_Calculator.csprojResolveAssemblyReference.cache

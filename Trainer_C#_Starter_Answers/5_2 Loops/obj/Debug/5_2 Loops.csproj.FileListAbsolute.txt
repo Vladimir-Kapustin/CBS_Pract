@@ -1,0 +1,6 @@
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Trainer Csharp Starter\5_2 Loops\bin\Debug\5_2 Loops.exe.config
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Trainer Csharp Starter\5_2 Loops\bin\Debug\5_2 Loops.exe
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Trainer Csharp Starter\5_2 Loops\bin\Debug\5_2 Loops.pdb
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Trainer Csharp Starter\5_2 Loops\obj\Debug\5_2 Loops.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Trainer Csharp Starter\5_2 Loops\obj\Debug\5_2 Loops.exe
+C:\Users\Vladimir\Documents\Visual Studio 2013\Projects\Trainer Csharp Starter\5_2 Loops\obj\Debug\5_2 Loops.pdb

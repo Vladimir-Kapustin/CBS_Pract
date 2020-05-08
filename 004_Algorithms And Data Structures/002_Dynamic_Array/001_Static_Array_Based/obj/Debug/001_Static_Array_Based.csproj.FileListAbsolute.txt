@@ -1,0 +1,6 @@
+D:\.NET Pract\004_Algorithms And Data Structures\002_Dynamic_Array\001_Static_Array_Based\bin\Debug\001_Static_Array_Based.exe.config
+D:\.NET Pract\004_Algorithms And Data Structures\002_Dynamic_Array\001_Static_Array_Based\bin\Debug\001_Static_Array_Based.exe
+D:\.NET Pract\004_Algorithms And Data Structures\002_Dynamic_Array\001_Static_Array_Based\bin\Debug\001_Static_Array_Based.pdb
+D:\.NET Pract\004_Algorithms And Data Structures\002_Dynamic_Array\001_Static_Array_Based\obj\Debug\001_Static_Array_Based.exe
+D:\.NET Pract\004_Algorithms And Data Structures\002_Dynamic_Array\001_Static_Array_Based\obj\Debug\001_Static_Array_Based.pdb
+D:\.NET Pract\004_Algorithms And Data Structures\002_Dynamic_Array\001_Static_Array_Based\obj\Debug\001_Static_Array_Based.csprojResolveAssemblyReference.cache

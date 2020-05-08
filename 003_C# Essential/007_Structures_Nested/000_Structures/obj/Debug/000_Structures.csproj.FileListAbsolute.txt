@@ -1,0 +1,6 @@
+D:\.NET Pract\003_C# Essential\007_Structures\000_Structures\bin\Debug\000_Structures.exe.config
+d:\.NET Pract\003_C# Essential\007_Structures\000_Structures\obj\Debug\000_Structures.csprojResolveAssemblyReference.cache
+d:\.NET Pract\003_C# Essential\007_Structures\000_Structures\bin\Debug\000_Structures.exe
+d:\.NET Pract\003_C# Essential\007_Structures\000_Structures\bin\Debug\000_Structures.pdb
+d:\.NET Pract\003_C# Essential\007_Structures\000_Structures\obj\Debug\000_Structures.exe
+d:\.NET Pract\003_C# Essential\007_Structures\000_Structures\obj\Debug\000_Structures.pdb

@@ -1,0 +1,18 @@
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\003_Variables_And_Data_Types\Variables_And_Data_Types\001_ComplexArithmeticOperations\bin\Debug\001_ComplexArithmeticOperations.exe.config
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\003_Variables_And_Data_Types\Variables_And_Data_Types\001_ComplexArithmeticOperations\bin\Debug\001_ComplexArithmeticOperations.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\003_Variables_And_Data_Types\Variables_And_Data_Types\001_ComplexArithmeticOperations\bin\Debug\001_ComplexArithmeticOperations.pdb
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\003_Variables_And_Data_Types\Variables_And_Data_Types\001_ComplexArithmeticOperations\obj\Debug\001_ComplexArithmeticOperations.csprojResolveAssemblyReference.cache
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\003_Variables_And_Data_Types\Variables_And_Data_Types\001_ComplexArithmeticOperations\obj\Debug\001_ComplexArithmeticOperations.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\003_Variables_And_Data_Types\Variables_And_Data_Types\001_ComplexArithmeticOperations\obj\Debug\001_ComplexArithmeticOperations.pdb
+d:\.NET Pract\001_C# Starter\003_Variables_And_Data_Types\Variables_And_Data_Types\001_ComplexArithmeticOperations\bin\Debug\001_ComplexArithmeticOperations.exe.config
+d:\.NET Pract\001_C# Starter\003_Variables_And_Data_Types\Variables_And_Data_Types\001_ComplexArithmeticOperations\obj\Debug\001_ComplexArithmeticOperations.exe
+d:\.NET Pract\001_C# Starter\003_Variables_And_Data_Types\Variables_And_Data_Types\001_ComplexArithmeticOperations\obj\Debug\001_ComplexArithmeticOperations.pdb
+d:\.NET Pract\001_C# Starter\003_Variables_And_Data_Types\Variables_And_Data_Types\001_ComplexArithmeticOperations\bin\Debug\001_ComplexArithmeticOperations.exe
+d:\.NET Pract\001_C# Starter\003_Variables_And_Data_Types\Variables_And_Data_Types\001_ComplexArithmeticOperations\bin\Debug\001_ComplexArithmeticOperations.pdb
+d:\.NET Pract\001_C# Starter\003_Variables_And_Data_Types\Variables_And_Data_Types\001_ComplexArithmeticOperations\obj\Debug\001_ComplexArithmeticOperations.csprojResolveAssemblyReference.cache
+d:\CBS_Pract\001_C# Starter\003_Variables_And_Data_Types\Variables_And_Data_Types\001_ComplexArithmeticOperations\bin\Debug\001_ComplexArithmeticOperations.exe.config
+d:\CBS_Pract\001_C# Starter\003_Variables_And_Data_Types\Variables_And_Data_Types\001_ComplexArithmeticOperations\obj\Debug\001_ComplexArithmeticOperations.exe
+d:\CBS_Pract\001_C# Starter\003_Variables_And_Data_Types\Variables_And_Data_Types\001_ComplexArithmeticOperations\obj\Debug\001_ComplexArithmeticOperations.pdb
+d:\CBS_Pract\001_C# Starter\003_Variables_And_Data_Types\Variables_And_Data_Types\001_ComplexArithmeticOperations\bin\Debug\001_ComplexArithmeticOperations.exe
+d:\CBS_Pract\001_C# Starter\003_Variables_And_Data_Types\Variables_And_Data_Types\001_ComplexArithmeticOperations\bin\Debug\001_ComplexArithmeticOperations.pdb
+d:\CBS_Pract\001_C# Starter\003_Variables_And_Data_Types\Variables_And_Data_Types\001_ComplexArithmeticOperations\obj\Debug\001_ComplexArithmeticOperations.csprojResolveAssemblyReference.cache

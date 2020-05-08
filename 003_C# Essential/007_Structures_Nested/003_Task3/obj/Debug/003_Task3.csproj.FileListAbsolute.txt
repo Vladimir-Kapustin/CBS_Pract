@@ -1,0 +1,6 @@
+D:\.NET Pract\003_C# Essential\007_Structures\003_Task3\bin\Debug\003_Task3.exe.config
+D:\.NET Pract\003_C# Essential\007_Structures\003_Task3\bin\Debug\003_Task3.exe
+D:\.NET Pract\003_C# Essential\007_Structures\003_Task3\bin\Debug\003_Task3.pdb
+D:\.NET Pract\003_C# Essential\007_Structures\003_Task3\obj\Debug\003_Task3.csprojResolveAssemblyReference.cache
+D:\.NET Pract\003_C# Essential\007_Structures\003_Task3\obj\Debug\003_Task3.exe
+D:\.NET Pract\003_C# Essential\007_Structures\003_Task3\obj\Debug\003_Task3.pdb

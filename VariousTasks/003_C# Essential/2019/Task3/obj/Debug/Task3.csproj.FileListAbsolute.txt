@@ -1,0 +1,10 @@
+D:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VarioustTasks\Task3\bin\Debug\Task3.exe.config
+D:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VarioustTasks\Task3\bin\Debug\Task3.exe
+D:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VarioustTasks\Task3\bin\Debug\Task3.pdb
+D:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VarioustTasks\Task3\obj\Debug\Task3.exe
+D:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VarioustTasks\Task3\obj\Debug\Task3.pdb
+d:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VariousTasks\Task3\bin\Debug\Task3.exe.config
+d:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VariousTasks\Task3\bin\Debug\Task3.exe
+d:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VariousTasks\Task3\bin\Debug\Task3.pdb
+d:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VariousTasks\Task3\obj\Debug\Task3.exe
+d:\Repos\CBS_Pract\003_C# Essential_Some_Examples_For_Repeating\VariousTasks\Task3\obj\Debug\Task3.pdb

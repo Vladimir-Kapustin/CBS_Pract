@@ -1,0 +1,6 @@
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\004_Conditions\Condition\002_Switch_Calculator\bin\Debug\002_Switch_Calculator.exe.config
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\004_Conditions\Condition\002_Switch_Calculator\bin\Debug\002_Switch_Calculator.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\004_Conditions\Condition\002_Switch_Calculator\bin\Debug\002_Switch_Calculator.pdb
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\004_Conditions\Condition\002_Switch_Calculator\obj\Debug\002_Switch_Calculator.exe
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\004_Conditions\Condition\002_Switch_Calculator\obj\Debug\002_Switch_Calculator.pdb
+F:\Courses .NET\CBS\Fourth - Online\001_C# Starter\Practice\004_Conditions\Condition\002_Switch_Calculator\obj\Debug\002_Switch_Calculator.csprojResolveAssemblyReference.cache

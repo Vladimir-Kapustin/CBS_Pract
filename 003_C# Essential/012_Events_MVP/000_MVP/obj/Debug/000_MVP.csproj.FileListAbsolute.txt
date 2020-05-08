@@ -1,0 +1,13 @@
+D:\.NET Pract\003_C# Essential\012_Events_MVP\000_MVP\bin\Debug\000_MVP.exe.config
+D:\.NET Pract\003_C# Essential\012_Events_MVP\000_MVP\bin\Debug\000_MVP.exe
+D:\.NET Pract\003_C# Essential\012_Events_MVP\000_MVP\bin\Debug\000_MVP.pdb
+D:\.NET Pract\003_C# Essential\012_Events_MVP\000_MVP\obj\Debug\000_MVP.csprojResolveAssemblyReference.cache
+D:\.NET Pract\003_C# Essential\012_Events_MVP\000_MVP\obj\Debug\MainWindow.baml
+D:\.NET Pract\003_C# Essential\012_Events_MVP\000_MVP\obj\Debug\MainWindow.g.cs
+D:\.NET Pract\003_C# Essential\012_Events_MVP\000_MVP\obj\Debug\App.g.cs
+D:\.NET Pract\003_C# Essential\012_Events_MVP\000_MVP\obj\Debug\000_MVP_MarkupCompile.cache
+D:\.NET Pract\003_C# Essential\012_Events_MVP\000_MVP\obj\Debug\000_MVP.g.resources
+D:\.NET Pract\003_C# Essential\012_Events_MVP\000_MVP\obj\Debug\_000_MVP.Properties.Resources.resources
+D:\.NET Pract\003_C# Essential\012_Events_MVP\000_MVP\obj\Debug\000_MVP.csproj.GenerateResource.Cache
+D:\.NET Pract\003_C# Essential\012_Events_MVP\000_MVP\obj\Debug\000_MVP.exe
+D:\.NET Pract\003_C# Essential\012_Events_MVP\000_MVP\obj\Debug\000_MVP.pdb

@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_ReversedPrintOfArray", "001_ReversedPrintOfArray\001_ReversedPrintOfArray.csproj", "{BA56FC31-1CA4-42E3-93D2-8146A931A1CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_MaxMinAverageOddElements", "002_MaxMinAverageOddElements\002_MaxMinAverageOddElements.csproj", "{421C01C0-8B20-41A0-8D17-97489B3F16B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_ReversedArrayAndSubArray", "003_ReversedArrayAndSubArray\003_ReversedArrayAndSubArray.csproj", "{36B200AD-C8F6-499B-AFE2-47F41A4FA525}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_InsertElementToArray", "004_InsertElementToArray\004_InsertElementToArray.csproj", "{F528C8E1-595D-438D-B314-CE2D8E11C8CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_ReversedArrAndSubArr_Shevchuk", "003_ReversedArrAndSubArr_Shevchuk\003_ReversedArrAndSubArr_Shevchuk.csproj", "{C5361012-87A1-4B60-8892-24571F93C78E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA56FC31-1CA4-42E3-93D2-8146A931A1CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA56FC31-1CA4-42E3-93D2-8146A931A1CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA56FC31-1CA4-42E3-93D2-8146A931A1CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA56FC31-1CA4-42E3-93D2-8146A931A1CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{421C01C0-8B20-41A0-8D17-97489B3F16B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{421C01C0-8B20-41A0-8D17-97489B3F16B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{421C01C0-8B20-41A0-8D17-97489B3F16B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{421C01C0-8B20-41A0-8D17-97489B3F16B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36B200AD-C8F6-499B-AFE2-47F41A4FA525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36B200AD-C8F6-499B-AFE2-47F41A4FA525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36B200AD-C8F6-499B-AFE2-47F41A4FA525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36B200AD-C8F6-499B-AFE2-47F41A4FA525}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F528C8E1-595D-438D-B314-CE2D8E11C8CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F528C8E1-595D-438D-B314-CE2D8E11C8CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F528C8E1-595D-438D-B314-CE2D8E11C8CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F528C8E1-595D-438D-B314-CE2D8E11C8CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5361012-87A1-4B60-8892-24571F93C78E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5361012-87A1-4B60-8892-24571F93C78E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5361012-87A1-4B60-8892-24571F93C78E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5361012-87A1-4B60-8892-24571F93C78E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
