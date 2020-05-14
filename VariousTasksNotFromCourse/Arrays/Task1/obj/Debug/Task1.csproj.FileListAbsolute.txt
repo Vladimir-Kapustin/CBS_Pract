@@ -1,0 +1,9 @@
+c:\users\vladimir\documents\visual studio 2013\Projects\Arrays\Task1\bin\Debug\Task1.exe.config
+C:\Users\Vladimir\documents\visual studio 2013\Projects\Arrays\Task1\bin\Debug\Task1.exe
+C:\Users\Vladimir\documents\visual studio 2013\Projects\Arrays\Task1\bin\Debug\Task1.pdb
+C:\Users\Vladimir\documents\visual studio 2013\Projects\Arrays\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\documents\visual studio 2013\Projects\Arrays\Task1\obj\Debug\Task1.exe
+C:\Users\Vladimir\documents\visual studio 2013\Projects\Arrays\Task1\obj\Debug\Task1.pdb
+D:\CBS_Pract\VariousTasksNotFromCourse\Arrays\Task1\bin\Debug\Task1.exe.config
+D:\CBS_Pract\VariousTasksNotFromCourse\Arrays\Task1\obj\Debug\Task1.exe
+D:\CBS_Pract\VariousTasksNotFromCourse\Arrays\Task1\obj\Debug\Task1.pdb
