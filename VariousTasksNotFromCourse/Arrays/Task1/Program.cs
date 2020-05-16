@@ -16,26 +16,32 @@ namespace Task1						//Задан упорядоченный по возраст
 			int[] array = new int[rand.Next(100)];
 			Console.WriteLine("Массив имеет: {0} элементов", array.Length);
 
-			for (int i = 0; i < array.Length; i++)
+			for (int i = 0; i < array.Length; i++)					//комментирую, чтоб не читать потом долго код...
 			{
 				element = rand.Next(100);
 				previous = i - 1;
+				next = previous + 1;
 
-				if (i == 0 || element >= array[previous])
+				while (element < array[previous] && previous >= 0)	//находим позицию для текущего элемента, в которой все элементы на позицию выше и далее - больше элемента, а все элементы на позицию ниже и далее - меньше.
+				{
+					previous--;
+				}
+
+				for (int j = i; j > previous; j--)
+				{
+					array[j] = array[j - 1];
+				}
+				
+				next = array[previous + 1];
+				array[previous + 1] = temp;
+
+				if (i > 0 || element >= array[previous])	// Если элемент равен предыдущему - ставим его на текущую позицию. Проверка if i > 0 - это, чтоб previous не посчитался на "-1", если мы только в начале находимся.
 				{
 					array[i] = element;
 				}
 				else
 				{
-					while (element < array[previous] && previous >= 0)
-					{
-						previous--;
-					}
-
-					temp = array[previous];
-					array[previous] = element;
-					next = array[previous + 1];
-					array[previous + 1] = temp;
+					
 				}
 			}
 		}
