@@ -7,7 +7,7 @@ using SnakeConsoleApp.Enums;
 
 namespace SnakeConsoleApp.Helpers
 {
-	class ColorHelper
+	public class ColorHelper
 	{
 
 	}

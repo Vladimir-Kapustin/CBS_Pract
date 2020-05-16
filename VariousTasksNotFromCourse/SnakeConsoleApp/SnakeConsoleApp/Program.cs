@@ -12,6 +12,11 @@ namespace SnakeConsoleApp
 	{
 		static void Main(string[] args)
 		{
+
+			Point point = new Point(5, 5, 'x');
+			point.DrawPoint();
+		
+
 			LineInstaller line = new LineInstaller();
 			line.DrawShapes();
 

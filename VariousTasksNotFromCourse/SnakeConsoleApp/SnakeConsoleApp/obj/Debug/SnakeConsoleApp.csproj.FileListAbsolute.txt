@@ -1,1 +1,2 @@
 D:\CBS_Pract\VariousTasksNotFromCourse\SnakeConsoleApp\SnakeConsoleApp\bin\Debug\SnakeConsoleApp.exe.config
+D:\CBS_Pract\VariousTasksNotFromCourse\SnakeConsoleApp\SnakeConsoleApp\obj\Debug\SnakeConsoleApp.csprojResolveAssemblyReference.cache

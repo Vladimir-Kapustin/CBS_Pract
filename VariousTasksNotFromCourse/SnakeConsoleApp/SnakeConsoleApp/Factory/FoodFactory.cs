@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SnakeConsoleApp.Factory
 {
-	class FoodFactory
+	public class FoodFactory
 	{
 	}
 }

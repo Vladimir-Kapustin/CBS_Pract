@@ -7,13 +7,13 @@ using SnakeConsoleApp.Enums;
 
 namespace SnakeConsoleApp
 {
-	class Point
+	public class Point
 	{
-		int _left;
+		int _left;		//это чтобы не получилось конструкции (ниже в конструкторе) типа left = left, т.о. получается как бы немного неочевидно что чему приравнивается. Конечно эту проблему можно решить с помощью this. В JetBrains, кто исеользует Resharper - они говорят: пишите так, лучше так... так что тоже можно
 		int _top;
 		char _symbol;
 
-		public char Sympol
+		public char Symbol
 		{
 			get { return _symbol; }
 			set { _symbol = value; }
@@ -47,14 +47,14 @@ namespace SnakeConsoleApp
 
 		internal void ClearPoint()
 		{
-			MyProperty = ' ';
+			Symbol = ' ';
 			DrawPoint();
 		}
 
 		public void DrawPoint()
 		{
 			Console.SetCursorPosition(_left, _top);
-			Console.Write(MyProperty);
+			Console.Write(Symbol);
 		}
 	
 	}

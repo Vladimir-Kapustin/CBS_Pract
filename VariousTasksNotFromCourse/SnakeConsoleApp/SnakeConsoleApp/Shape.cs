@@ -7,7 +7,7 @@ using SnakeConsoleApp.Enums;
 
 namespace SnakeConsoleApp
 {
-	class Shape
+	public class Shape
 	{
 	}
 }

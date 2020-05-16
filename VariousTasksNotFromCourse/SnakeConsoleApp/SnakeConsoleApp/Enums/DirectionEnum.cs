@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace SnakeConsoleApp.Enums
 {
-	class DirectionEnum
+	public enum DirectionEnum
 	{
 		Right,
-		ltft,
+		Left,
 		Up,
-		Down,
+		Down
 	}
 }
