@@ -3,15 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using SnakeConsoleApp.Enums;
 
-namespace SnakeConsoleApp
+namespace SnakeConsoleApp.Enums
 {
-	public class Shape
+	public enum DirectionEnum
 	{
-		public void DrawLine()
-		{
-
-		}
+		Right,
+		Left, 
+		Up,
+		Down
 	}
 }

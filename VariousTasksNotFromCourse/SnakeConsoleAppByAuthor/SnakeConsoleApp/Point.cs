@@ -1,20 +1,17 @@
-﻿using System;
+﻿using SnakeConsoleApp.Enums;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using SnakeConsoleApp.Enums;
 
 namespace SnakeConsoleApp
 {
 	public class Point
 	{
-		int _left;		//это чтобы не получилось конструкции (ниже в конструкторе) типа left = left, т.о. получается как бы немного неочевидно что чему приравнивается. Конечно эту проблему можно решить с помощью this. В JetBrains, кто исеользует Resharper - они говорят: пишите так, лучше так... так что тоже можно
+		int _left;
 		int _top;
 		char _symbol;
-		private int p1;
-		private int p2;
-		private string p3;
 
 		public char Symbol
 		{
@@ -22,19 +19,19 @@ namespace SnakeConsoleApp
 			set { _symbol = value; }
 		}
 
+
+		public Point(Point snakeTail)
+		{
+			_left = snakeTail._left;
+			_top = snakeTail._top;
+			_symbol = snakeTail._symbol;
+		}
+
 		public Point(int left, int top, char symbol)
 		{
 			_left = left;
 			_top = top;
 			_symbol = symbol;
-		}
-
-		public Point(int p1, int p2, string p3)
-		{
-			// TODO: Complete member initialization
-			this.p1 = p1;
-			this.p2 = p2;
-			this.p3 = p3;
 		}
 
 		public void SetDirection(int i, DirectionEnum direction)
@@ -56,17 +53,21 @@ namespace SnakeConsoleApp
 			}
 		}
 
-		internal void ClearPoint()
+		public void ClearPoint()
 		{
-			Symbol = ' ';
+			_symbol = ' ';
 			DrawPoint();
 		}
 
 		public void DrawPoint()
 		{
 			Console.SetCursorPosition(_left, _top);
-			Console.Write(Symbol);
+			Console.Write(_symbol);
 		}
-	
+
+		public bool ComparePoints(Point food)
+		{
+			return food._left == _left && food._top == _top;
+		}
 	}
 }

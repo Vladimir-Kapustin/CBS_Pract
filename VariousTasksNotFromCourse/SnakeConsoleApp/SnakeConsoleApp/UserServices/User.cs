@@ -3,15 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using SnakeConsoleApp.Enums;
 
-namespace SnakeConsoleApp
+namespace SnakeConsoleApp.UserServices
 {
-	public class Shape
+	class User
 	{
-		public void DrawLine()
-		{
-
-		}
+		public object Name { get; set; }
 	}
 }

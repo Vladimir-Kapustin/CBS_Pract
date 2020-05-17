@@ -12,7 +12,7 @@ namespace SnakeConsoleApp.Lines
 		{
 			for (int i = left; i < length; i++)
 			{
-				Console.SetCursorPosition(i,)
+				Console.SetCursorPosition(i, top);
 					Console.WriteLine(symbol);
 			}
 		}
