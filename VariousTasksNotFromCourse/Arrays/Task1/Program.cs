@@ -11,7 +11,7 @@ namespace Task1						//Задан упорядоченный по возраст
 		static void Main(string[] args)
 		{
 			Random rand = new Random();
-			int element, newPosition;
+			int element, insertPosition;
 
 			int[] array = new int[rand.Next(100)];
 			Console.WriteLine("Массив имеет: {0} элементов", array.Length);
@@ -19,31 +19,41 @@ namespace Task1						//Задан упорядоченный по возраст
 			for (int i = 0; i < array.Length; i++)							//комментирую, чтоб не читать потом долго код... Заполняем массив случайными числами так, чтобы при добавлении каждого нового элемента, он уже был отсортирован.
 			{
 				element = rand.Next(100);
-				newPosition = i - 1;
 
-				if (i==0)													//при первой итерации нечего сортировать, поэтому просто вносим элемент, а затем пропускаем всю остальную итерацию.
+				if (i == 0)													//при первой итерации нечего сортировать, поэтому просто вносим элемент, а затем пропускаем всю остальную итерацию.
 				{
 					array[i] = element;
 					continue;
 				}
 
-				while (element < array[newPosition] && newPosition >= 0)	//находим позицию для текущего элемента, при которой весь массив будет упорядочен по возрастанию.
-				{
-					newPosition--;
-				}
+				insertPosition = i - 1;
 
-				for (int j = i; j > newPosition; j--)						//сдвигаем элементы вправо, начиная с элемента на последней позиции до элемента, который находится на необходимой позицией, для освобождения этой позиции для нового элемента.
-				{
-					array[j] = array[j - 1];
-				}
 
-				array[newPosition] = element;								//добавляем элемент на необходимую позицию.
+				if (element < array[insertPosition])
+				{
+					while (element < array[insertPosition] && insertPosition > 0)	//находим позицию для текущего элемента, при которой весь массив будет упорядочен по возрастанию.
+					{
+						insertPosition--;
+					}
+
+					for (int j = i; j > insertPosition; j--)						//сдвигаем элементы вправо, начиная с элемента на последней позиции до элемента, который находится на необходимой позицией, для освобождения этой позиции для нового элемента.
+					{
+						array[j] = array[j - 1];
+					}
+
+					array[insertPosition] = element;								//добавляем элемент на необходимую позицию. 
+				}
+				else
+				{
+					array[i] = element;
+				}
 			}
 
 			for (int i = 0; i < array.Length; i++)							//выводим массив
 			{
 				Console.WriteLine(array[i]);
 			}
+
 
 
 		}

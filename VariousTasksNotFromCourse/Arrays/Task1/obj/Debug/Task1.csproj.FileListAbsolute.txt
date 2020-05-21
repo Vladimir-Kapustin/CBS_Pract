@@ -7,3 +7,6 @@ C:\Users\Vladimir\documents\visual studio 2013\Projects\Arrays\Task1\obj\Debug\T
 D:\CBS_Pract\VariousTasksNotFromCourse\Arrays\Task1\bin\Debug\Task1.exe.config
 D:\CBS_Pract\VariousTasksNotFromCourse\Arrays\Task1\obj\Debug\Task1.exe
 D:\CBS_Pract\VariousTasksNotFromCourse\Arrays\Task1\obj\Debug\Task1.pdb
+D:\CBS_Pract\VariousTasksNotFromCourse\Arrays\Task1\bin\Debug\Task1.exe
+D:\CBS_Pract\VariousTasksNotFromCourse\Arrays\Task1\bin\Debug\Task1.pdb
+D:\CBS_Pract\VariousTasksNotFromCourse\Arrays\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
