@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "dgSpecHash": "MPbgL0pPhhI0cwrgXJUjcrmn6B2et+AjhURyVvjHNgSjY416ZUnZOIqfeCInhAwM+25HaqgTzNBe/4iHMFha4w==",
+  "success": false,
+  "projectFilePath": "D:\\CBS_Pract\\VariousTasksNotFromCourse\\JS_NoNeedAnyMore_Blazor-RevolutionInWebDev_28.05.20\\BlazorAppExample\\BlazorAppExample.WebAssembly\\BlazorAppExample.WebAssembly.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.AspNetCore.Components.WebAssembly. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.AspNetCore.Components.WebAssembly",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package System.Net.Http.Json. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "System.Net.Http.Json",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.AspNetCore.Components.WebAssembly.DevServer. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.AspNetCore.Components.WebAssembly.DevServer",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.AspNetCore.Components.WebAssembly.Build. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.AspNetCore.Components.WebAssembly.Build",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.1"
+      ]
+    }
+  ]
+}

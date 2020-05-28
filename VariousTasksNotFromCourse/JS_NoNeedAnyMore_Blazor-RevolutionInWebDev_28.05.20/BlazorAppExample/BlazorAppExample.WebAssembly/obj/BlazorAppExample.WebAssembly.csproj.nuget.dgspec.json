@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\CBS_Pract\\VariousTasksNotFromCourse\\JS_NoNeedAnyMore_Blazor-RevolutionInWebDev_28.05.20\\BlazorAppExample\\BlazorAppExample.WebAssembly\\BlazorAppExample.WebAssembly.csproj": {}
+  },
+  "projects": {
+    "D:\\CBS_Pract\\VariousTasksNotFromCourse\\JS_NoNeedAnyMore_Blazor-RevolutionInWebDev_28.05.20\\BlazorAppExample\\BlazorAppExample.WebAssembly\\BlazorAppExample.WebAssembly.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CBS_Pract\\VariousTasksNotFromCourse\\JS_NoNeedAnyMore_Blazor-RevolutionInWebDev_28.05.20\\BlazorAppExample\\BlazorAppExample.WebAssembly\\BlazorAppExample.WebAssembly.csproj",
+        "projectName": "BlazorAppExample.WebAssembly",
+        "projectPath": "D:\\CBS_Pract\\VariousTasksNotFromCourse\\JS_NoNeedAnyMore_Blazor-RevolutionInWebDev_28.05.20\\BlazorAppExample\\BlazorAppExample.WebAssembly\\BlazorAppExample.WebAssembly.csproj",
+        "packagesPath": "C:\\Users\\Vladimir\\.nuget\\packages\\",
+        "outputPath": "D:\\CBS_Pract\\VariousTasksNotFromCourse\\JS_NoNeedAnyMore_Blazor-RevolutionInWebDev_28.05.20\\BlazorAppExample\\BlazorAppExample.WebAssembly\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Vladimir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.Build": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
