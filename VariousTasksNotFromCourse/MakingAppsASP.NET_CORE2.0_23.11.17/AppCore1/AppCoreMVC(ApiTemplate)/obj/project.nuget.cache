@@ -1,0 +1,36 @@
+{
+  "version": 2,
+  "dgSpecHash": "PglQicPPhmQ+BiXl9KJKvWMAhk78OQJ0kT6M+K/IYfRB4uq5Ku5QgmtfpLXcLzjGW7+s3LqjotCNoebV3M8x7Q==",
+  "success": false,
+  "projectFilePath": "D:\\CBS_Pract\\VariousTasksNotFromCourse\\AppCore1\\AppCoreMVC(ApiTemplate)\\AppCoreMVC(ApiTemplate).csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.AspNetCore.App. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.AspNetCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.AspNetCore.Razor.Design. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.AspNetCore.Razor.Design",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    },
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.NETCore.App. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "Microsoft.NETCore.App",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v2.1"
+      ]
+    }
+  ]
+}
