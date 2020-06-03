@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\CBS_Pract\\VariousTasksNotFromCourse\\MakingAppsASP.NET_CORE2.0_23.11.17\\AppCore(AspNetCore1.1)\\AppCore\\AppCore.csproj": {}
+  },
+  "projects": {
+    "D:\\CBS_Pract\\VariousTasksNotFromCourse\\MakingAppsASP.NET_CORE2.0_23.11.17\\AppCore(AspNetCore1.1)\\AppCore\\AppCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CBS_Pract\\VariousTasksNotFromCourse\\MakingAppsASP.NET_CORE2.0_23.11.17\\AppCore(AspNetCore1.1)\\AppCore\\AppCore.csproj",
+        "projectName": "AppCore",
+        "projectPath": "D:\\CBS_Pract\\VariousTasksNotFromCourse\\MakingAppsASP.NET_CORE2.0_23.11.17\\AppCore(AspNetCore1.1)\\AppCore\\AppCore.csproj",
+        "packagesPath": "C:\\Users\\Vladimir\\.nuget\\packages\\",
+        "outputPath": "D:\\CBS_Pract\\VariousTasksNotFromCourse\\MakingAppsASP.NET_CORE2.0_23.11.17\\AppCore(AspNetCore1.1)\\AppCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Vladimir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp1.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        },
+        "frameworks": {
+          "netcoreapp1.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp1.1": {
+          "dependencies": {
+            "Microsoft.ApplicationInsights.AspNetCore": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[1.1.7, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[1.1.2, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
