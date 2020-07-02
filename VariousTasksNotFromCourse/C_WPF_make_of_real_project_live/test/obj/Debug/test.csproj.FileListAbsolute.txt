@@ -1,0 +1,15 @@
+D:\CBS_Pract\VariousTasksNotFromCourse\C_WPF_make_of_real_project_live\test\bin\Debug\test.exe.config
+D:\CBS_Pract\VariousTasksNotFromCourse\C_WPF_make_of_real_project_live\test\bin\Debug\test.exe
+D:\CBS_Pract\VariousTasksNotFromCourse\C_WPF_make_of_real_project_live\test\bin\Debug\test.pdb
+D:\CBS_Pract\VariousTasksNotFromCourse\C_WPF_make_of_real_project_live\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\CBS_Pract\VariousTasksNotFromCourse\C_WPF_make_of_real_project_live\test\obj\Debug\MainWindow.g.cs
+D:\CBS_Pract\VariousTasksNotFromCourse\C_WPF_make_of_real_project_live\test\obj\Debug\App.g.cs
+D:\CBS_Pract\VariousTasksNotFromCourse\C_WPF_make_of_real_project_live\test\obj\Debug\test_MarkupCompile.cache
+D:\CBS_Pract\VariousTasksNotFromCourse\C_WPF_make_of_real_project_live\test\obj\Debug\test_MarkupCompile.lref
+D:\CBS_Pract\VariousTasksNotFromCourse\C_WPF_make_of_real_project_live\test\obj\Debug\MainWindow.baml
+D:\CBS_Pract\VariousTasksNotFromCourse\C_WPF_make_of_real_project_live\test\obj\Debug\test.g.resources
+D:\CBS_Pract\VariousTasksNotFromCourse\C_WPF_make_of_real_project_live\test\obj\Debug\test.Properties.Resources.resources
+D:\CBS_Pract\VariousTasksNotFromCourse\C_WPF_make_of_real_project_live\test\obj\Debug\test.csproj.GenerateResource.cache
+D:\CBS_Pract\VariousTasksNotFromCourse\C_WPF_make_of_real_project_live\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\CBS_Pract\VariousTasksNotFromCourse\C_WPF_make_of_real_project_live\test\obj\Debug\test.exe
+D:\CBS_Pract\VariousTasksNotFromCourse\C_WPF_make_of_real_project_live\test\obj\Debug\test.pdb
