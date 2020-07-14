@@ -1,0 +1,42 @@
+﻿p {
+    border: 5px solid black;
+    font-weight: bold;
+}
+
+.solid-border {
+    border-style: solid;
+}
+
+.dashed-border {
+    border-style: dashed;
+}
+
+.dotted-border {
+    border-style: dotted;
+}
+
+.double-border {
+    border-style: double;
+}
+
+.groove-border {
+    border-style: groove;
+    border-color: darkcyan; /*this color is like in task origin; all next colors changed using browser link and web essentials*/
+}
+
+.ridge-border {
+    border-style: ridge;
+    border-color: rgb(139, 38, 0);
+}
+
+.inset-border {
+    border-style: inset;
+    border-color: rgb(9, 27, 241);
+    font-weight: normal;
+}
+
+.outset-border {
+    border-style: outset;
+    border-color: rgb(9, 139, 0);
+    font-weight: normal;
+}

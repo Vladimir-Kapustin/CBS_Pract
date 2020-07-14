@@ -1,2 +1,28 @@
-﻿body {
+﻿a {
+    color: black;
+}
+
+.italic-links {
+    font-style:italic;
+}
+
+.bold-links {
+    font-weight: bold;
+}
+
+.bold-italic-underline-links {
+    font-weight: bold;
+    font-style:italic;
+}
+
+.bold-italic-links {
+    font-weight: bold;
+    font-style:italic;
+    text-decoration: none;
+}
+
+.bold-italic-links:hover {
+    font-weight: bold;
+    font-style:italic;
+    text-decoration: underline;
 }
