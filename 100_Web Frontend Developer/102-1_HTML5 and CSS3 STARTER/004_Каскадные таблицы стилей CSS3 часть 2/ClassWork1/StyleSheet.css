@@ -24,6 +24,7 @@ p:first-child {
     text-align: center;
     font-size: 20px;
     word-spacing: 20px;
+    font-style: italic;
 }
 
 span {
@@ -33,46 +34,68 @@ span {
 }
 
 p:nth-child(2) {
-    font-size: 15px;
+    font-size: 16px;
     letter-spacing: 3px;
     color: brown;
+    font-weight: 100;
 }
 
 p:nth-of-type(3) {
-    font-size: 20px;
+    font-size: 19px;
     line-height: 25px;
+    font-weight: lighter;
+    font-style: oblique;
 }
 
 p:nth-of-type(4) {
     font-family: berkshireswash;
     font-size: 25px;
     line-height: 25px;
+    font-weight: 100;
+    color: black;
 }
 
 p:nth-of-type(5) {
     font-family: grenzegotisch;
-    font-size: 25px;
+    font-size: 26px;
     line-height: 25px;
     color: darkorange;
+    font-weight: 900;
+    font-style: italic;
 }
 
 p:nth-of-type(6) {
     font-family: rowdies;
-    font-size: 25px;
-    line-height: 25px;
+    font-size: 27px;
+    line-height: 20px;
     color: lawngreen;
+    font-weight: 100;
+    font-stretch: condensed;
+    text-shadow: -3px -3px 3px black;
 }
 
 p:nth-of-type(7) {
-    font-size: 25px;
+    font-size: 28px;
     line-height: 25px;
     color: blue;
     text-shadow: 3px 3px 3px orange;
-}
-
-p:nth-last-child(1) {
-    font-size: 18px;
-    color: blueviolet;
-    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
     font-style: italic;
 }
+
+p:last-of-type {
+    font-size: 34px;
+    color: #808080;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 100;
+    text-shadow: -3px 3px 4px lawngreen;
+}
+
+/*
+p:nth-last-child(1)  -   doesn`t work
+p:last-child    -   doesn`t work
+p:nth-child(8)  -   works
+p:nth-of-type(8)    -   works
+p:last-of-type   -   works
+*/
