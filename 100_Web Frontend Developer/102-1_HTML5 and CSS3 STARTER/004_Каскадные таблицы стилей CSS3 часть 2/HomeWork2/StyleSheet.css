@@ -1,0 +1,30 @@
+﻿@font-face {
+    font-family: BerkshireSwash;
+    src: url(fonts/BerkshireSwash-Regular.ttf);
+}
+
+@font-face {
+    font-family: GrenzeGotisch;
+    src: url(fonts/GrenzeGotisch-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: Rowdies;
+    src: url(fonts/Rowdies-Regular.ttf);
+}
+
+body {
+    font-size: 25px;
+    font-family: GrenzeGotisch;
+    font-weight: bold;
+    padding: 0;
+    margin: 0;
+    color: royalblue;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+p {
+    text-shadow: -3px -3px 8px red;
+}
