@@ -25,6 +25,56 @@ body {
     box-sizing: border-box;
 }
 
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    -moz-text-decoration-color: red;
+    text-decoration-color: red;
+    -moz-text-decoration-style: wavy;
+    text-decoration-style: wavy;
+}
+
 p {
-    text-shadow: -3px -3px 8px red;
+    text-shadow: -3px -3px 8px darkviolet;
+    margin: 0 15% 9px;
+    
+}
+
+p:nth-child(3) {
+    font-family: Rowdies;
+    color: #3f3f3f;
+}
+
+p:nth-child(2)::first-letter {
+    color: greenyellow;
+    font-size: 76px;
+}
+
+p:nth-child(3)::first-line {
+    color: red;
+}
+
+table {
+    caption-side: top;
+    width: 70%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    border-top-width: 4px;
+    border-top-color: ActiveCaption;
+}
+
+th:empty {
+    background-color:red;
+}
+
+td:empty {
+    background-color:red;
+}
+
+th {
+    
+}
+
+td {
+    text-align: center;
 }
