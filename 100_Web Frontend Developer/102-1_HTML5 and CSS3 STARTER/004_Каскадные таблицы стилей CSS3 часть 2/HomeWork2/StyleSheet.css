@@ -37,44 +37,156 @@ h1 {
 p {
     text-shadow: -3px -3px 8px darkviolet;
     margin: 0 15% 9px;
-    
 }
 
-p:nth-child(3) {
-    font-family: Rowdies;
-    color: #3f3f3f;
-}
+    p:nth-child(3) {
+        font-family: Rowdies;
+        color: #3f3f3f;
+    }
 
-p:nth-child(2)::first-letter {
-    color: greenyellow;
-    font-size: 76px;
-}
+    p:nth-child(2)::first-letter {
+        color: greenyellow;
+        font-size: 76px;
+    }
 
-p:nth-child(3)::first-line {
-    color: red;
-}
+    p:nth-child(3)::first-line {
+        color: red;
+        font-size: 58px;
+    }
 
 table {
     caption-side: top;
     width: 70%;
-    margin: 0 auto;
+    margin: 30px auto;
     border-collapse: collapse;
-    border-top-width: 4px;
-    border-top-color: ActiveCaption;
+    border-top: #8ba3ed 8px solid;
+    border-bottom: #8399d9 6px solid;
+    background-color: #dfe6f8;
 }
 
-th:empty {
-    background-color:red;
+td:empty, th:empty {
+    background-color: #fcacac;
 }
 
-td:empty {
-    background-color:red;
+th, td {
+    border-left: #92A1CF 1px solid;
+    border-right: #92A1CF 1px solid;
+    font-weight: normal;
+    font-family: Arial;
 }
 
 th {
-    
+    font-size: 14px;
+    color: #00009C;
+    border-bottom: #92A1CF 1px solid;
 }
 
 td {
     text-align: center;
+    font-size: 15px;
+    color: #2A52BE;
+}
+
+tr {
+    height: 30px;
+}
+
+tr:hover {
+    background-color: #CCCCFF;
+    -moz-transition: .2s linear;
+    -o-transition: .2s linear;
+    -webkit-transition: .2s linear;
+    transition: .2s linear;
+}
+
+ul {
+    margin: 0 15%;
+    list-style: inside square;
+}
+
+li {
+    border: #818386 solid 1px;
+    border-left-width: 10px;
+    border-radius: 8px;
+    font: normal 100 20px Arial;
+    color: #00009C;
+    padding: 10px;
+    width: 240px;
+    margin: 10px 0;
+    box-shadow: 3px 3px 5px #2A52BE;
+}
+
+li:first-child {
+    width: 550px;
+    border-left-color: green;
+}
+
+li:nth-of-type(2) {
+    border-left-color: Highlight;
+    background: url(img/accessibility-24px.svg) 100% 50% no-repeat;
+    padding-right: 15%;
+}
+
+li:nth-of-type(3) {
+    border-left-color: gold;
+    width: 450px;
+}
+
+li:nth-of-type(4) {
+    border-left-color: red;
+}
+
+li::selection, span::selection {
+    background-color: green;
+    color: yellow;
+}
+
+li:first-child::after {
+    text-decoration: underline;
+    content: "содержание псевдоэлемента '::after'";
+}
+
+li:nth-of-type(3)::before {
+    text-decoration: underline;
+    content: url(img/account_balance-black-18dp.svg);
+
+}
+
+li:nth-of-type(4)::before {
+    content: "";
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin-right: 29px;
+    background: red;
+}
+
+
+li:hover {
+    background-color: #f7baba;
+    -moz-transition: .5s linear;
+    -o-transition: .5s linear;
+    -webkit-transition: .5s linear;
+    transition: .5s linear;
+}
+
+li:nth-of-type(4):hover {
+    list-style-type: circle;
+}
+
+a {
+    margin: 15%;
+}
+
+a:link {
+    color:plum;
+}
+
+a:visited {
+    color:brown;
+    background: #92A1CF;
+}
+
+a:active {
+    color: aqua;
 }
