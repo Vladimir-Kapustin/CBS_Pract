@@ -1,0 +1,48 @@
+﻿body {
+    margin: 10px 10px 10px 3px;
+}
+
+#header1, #header2, #header3, #col1, #col2, #col3 {
+    width: 30%;
+    text-align: center;
+    border: 1px solid darkblue;
+    margin: 5px;
+    font-family: Arial;
+    font-weight: 700;
+    font-size: 30px;
+    float: left;
+    padding: 20px 0;
+}
+
+#header1, #header2, #header3 {
+    color: white;
+}
+
+#col1, #col2, #col3 {
+    height: 800px;
+}
+
+#header1 {
+    background: brown;
+}
+
+#header2 {
+    background: darkgreen;
+}
+
+#header3 {
+    background: darkblue;
+}
+
+#col1 {
+    background: orange;
+    clear: left;
+}
+
+#col2 {
+    background: lightgreen;
+}
+
+#col3 {
+    background: lightblue;
+}
