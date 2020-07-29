@@ -1,0 +1,37 @@
+﻿body {
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    color: white;
+    text-align: center;
+}
+
+.elem1 {
+    background: red;
+    position: relative;
+}
+
+.elem2 {
+    background: blue;
+    position: relative;
+}
+
+.elem3 {
+    background: green;
+    position: relative;
+    top: 50px;
+    left: 90px;
+}
+
+.elem4 {
+    background: gold;
+    position: relative;
+}
+
+.elem5 {
+    background: purple;
+    position: relative;
+}

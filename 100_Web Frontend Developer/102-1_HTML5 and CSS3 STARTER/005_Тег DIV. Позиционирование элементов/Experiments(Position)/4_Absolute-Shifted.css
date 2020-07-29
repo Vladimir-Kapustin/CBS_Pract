@@ -1,0 +1,45 @@
+﻿body {
+}
+
+div {
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    color: white;
+    text-align: center;
+}
+
+.elem1 {
+    background: red;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+.elem2 {
+    background: blue;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.elem3 {
+    background: green;
+    position: absolute;
+    top: 50px;
+    left: 90px;
+}
+
+.elem4 {
+    background: gold;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+}
+
+.elem5 {
+    background: purple;
+    position: absolute;
+    top: 40px;
+    left: 40px;
+}
