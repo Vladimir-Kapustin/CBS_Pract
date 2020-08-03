@@ -1,0 +1,40 @@
+﻿body {
+    margin: 0 auto;
+    font-family: Arial;
+    font-weight: 600;
+}
+
+header {
+    background: #64CACB;
+    width: 100%;
+    height: 90px;
+    padding: 2px;
+}
+
+#id1 {
+    background: #FB9693;
+    width: 100%;
+    height: 60px;
+    padding: 2px;
+}
+
+#id2 {
+    background: #9CCA9C;
+    width: 30%;
+    height: 700px;
+    float: left;
+    padding: 2px;
+}
+
+article {
+    background: #CCCFD0;
+    height: 700px;
+    padding: 2px;
+}
+
+footer {
+    background: #0466FC;
+    width: 100%;
+    height: 70px;
+    padding: 2px;
+}
