@@ -12,7 +12,6 @@
 label {
     display: inline-block;
     position: relative;
-    float: left;
     width: 41%;
     text-align: right;
     padding: 4px 20px 5px 0;
@@ -23,25 +22,30 @@ label {
     font-weight: 600;
 }
 
+.content {
+    margin: 5px 0;
+}
+
 input {
-    display: inline-block;
     position: relative;
     top: -6px;
 }
 
-p.header {
-    display: inline-block;
+.header {
+    display: inline;
     position: relative;
     font-weight: 600;
     margin: 0;
-    top: -10px;
+    top: -15px;
     left: 50px;
+    color: #023361;
     background-color: white;
     padding: 0 20px;
 }
 
-.form {
-    border-top: 2px solid #cfcfcf;
+.someform {
+    border-top: 1px solid #cfcfcf;
+    padding-top: 7px;
     padding-bottom: 30px;
 }
 
@@ -49,4 +53,6 @@ select {
     width: 176px;
     height: 22px;
     text-align: center;
+    position: relative;
+    top: -5px;
 }

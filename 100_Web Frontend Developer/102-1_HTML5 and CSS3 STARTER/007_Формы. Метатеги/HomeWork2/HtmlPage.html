@@ -1,38 +1,42 @@
 ﻿<!DOCTYPE html>
 <html>
 <head>
-    <title>HomeWork1</title>
+    <title>HomeWork2</title>
     <link href="StyleSheet.css" rel="stylesheet" />
 </head>
 <body>
     <div class="container">
         <form action="" method="get">
-            <div class="form">
-                <p class="header">Personal Information</p>
-                <p>
-                    <label for="firstName" accesskey="f" class="boldLabel">*First name:</label>
+            <div class="someform">
+                <div class="header">
+                    Personal Information
+                </div>
+                <div class="content">
+                    <label class="boldLabel" for="firstName" accesskey="f">*First name:</label>
                     <input type="text" name="firstName" id="firstName" required />
-                </p>
-                <p>
+                </div>
+                <div class="content">
                     <label for="middleName">Middle name:</label>
                     <input type="text" name="middleName" id="middleName" />
-                </p>
-                <p>
-                    <label for="lastName" class="boldLabel">*Last name:</label>
+                </div>
+                <div class="content">
+                    <label class="boldLabel" for="lastName">*Last name:</label>
                     <input type="text" name="lastName" id="lastName" required />
-                </p>
+                </div>
             </div>
-            <div class="form">
-                <p class="header">Address</p>
-                <p>
-                    <label for="address" accesskey="f" >Address:</label>
+            <div class="someform">
+                <div class="header">
+                    Address
+                </div>
+                <div class="content">
+                    <label for="address" accesskey="f">Address:</label>
                     <input type="text" name="address" id="address" />
-                </p>
-                <p>
+                </div>
+                <div class="content">
                     <label for="cityortown">City or Town:</label>
                     <input type="text" name="cityortown" id="cityortown" />
-                </p>
-                <p>
+                </div>
+                <div class="content">
                     <label for="state">State:</label>
                     <select type="text" name="state" id="state">
                         <option selected disabled>Choose a State</option>
@@ -40,11 +44,11 @@
                         <option>Washington</option>
                         <option>...</option>
                     </select>
-                </p>
-                <p>
+                </div>
+                <div class="content">
                     <label for="lastName" class="boldLabel">*Zip code:</label>
                     <input type="text" name="lastName" id="lastName" required />
-                </p>
+                </div>
             </div>
         </form>
     </div>
