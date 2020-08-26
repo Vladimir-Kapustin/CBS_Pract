@@ -1,0 +1,99 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>HomeWork4</title>
+    <script>
+        //Немного улучшено - что, если увеличить ширину? То, чтобы стороны треугольников и ромба соответственно растягивались и пропорционально - добавляем в условия множитель в виде отношения ширины к высоте, чтобы увеличить расстояния между точками сторон фигур пропорционально изменению ширины.
+
+        var width = 40, height = 10;
+
+        //Rectangle
+        for (var i = 0; i < height; i++) {
+            for (var j = 0; j < width; j++) {
+                if (i == 0 || i == height - 1 || j == 0 || j == width-1) {
+                    document.write("*");
+                } else {
+                    document.write("&nbsp&nbsp");
+                }
+            }
+            document.write("<br/>");
+        }
+        document.write("<br/>");
+
+        //Right triangle
+        width = 30;
+        for (var i = 0; i < height; i++) {
+            for (var j = 0; j < width; j++) {
+                if (i == height-1 || j == 0 || j == i*(width/height)) {
+                    document.write("*");
+                } else {
+                    document.write("&nbsp&nbsp");
+                }
+            }
+            document.write("<br/>");
+        }
+        document.write("<br/>");
+
+        //Equilateral triangle
+        for (var i = 0; i < height; i++) {
+            for (var j = width-1; j > 0 ; j--) {
+                if (i == height - 1 || j == i * (width / height)) {
+                    document.write("*");
+                } else {
+                    document.write("&nbsp&nbsp");
+                }
+            }
+            for (var j = 0; j < width; j++) {
+                if (i == height - 1 || j == i * (width / height)) {
+                    document.write("*");
+                } else {
+                    document.write("&nbsp&nbsp");
+                }
+            }
+            document.write("<br/>");
+        }
+        document.write("<br/>");
+
+        //Rhombus
+        for (var i = 0; i < height; i++) {
+            for (var j = width - 1; j > 0 ; j--) {
+                if (j == i * (width / height)) {
+                    document.write("*");
+                } else {
+                    document.write("&nbsp&nbsp");
+                }
+            }
+            for (var j = 0; j < width; j++) {
+                if (j == i * (width / height)) {
+                    document.write("*");
+                } else {
+                    document.write("&nbsp&nbsp");
+                }
+            }
+            document.write("<br/>");
+        }
+        for (var i = 1; i < height; i++) {
+            for (var j = 0; j < width; j++) {
+                if (j == i * (width / height)) {
+                    document.write("*");
+                } else {
+                    document.write("&nbsp&nbsp");
+                }
+            }
+            for (var j = width - 2; j > 0 ; j--) {
+                if (j == i * (width / height)) {
+                    document.write("*");
+                } else {
+                    document.write("&nbsp&nbsp");
+                }
+            }
+            document.write("<br/>");
+        }
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

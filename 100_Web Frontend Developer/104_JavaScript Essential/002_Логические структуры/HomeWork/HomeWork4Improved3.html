@@ -1,0 +1,99 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>HomeWork4</title>
+    <script>
+        //Последнее улучшение. Из-за предыдущих манипуляций ромб потерял свои крайние точки и сместилась нижняя часть. Исправляем это просто регулируя диапазоны циклов, кое-где удаляя вычитание единицы, а кое-где заменяя знак < на знак <=, а также заменяя вычитание 2 вычитанием 1. Можно было бы ещё так же побаловаться с изменением высоты, ещё можно было добавить ввод пользователем ширины и высоты, а также изменение размеров фигур клавишами курсора. Но не стал. Как-нибудь на досуге - будет хорошая возможность поупражняться. Вот действительно какая проблема осталась нерешённой - когда ширину ставишь не кратную 10 (т.е. 25 например), то уменьшается количество точек на сторонах, а ромб вообще кривой становится. Это тоже можно решить как-нибудь на досуге - и так сделал гораздо выше необходимого...
+
+        var width = 40, height = 10;
+
+        //Rectangle
+        for (var i = 0; i < height; i++) {
+            for (var j = 0; j < width; j++) {
+                if (i == 0 || i == height - 1 || j == 0 || j == width - 1) {
+                    document.write("*");
+                } else {
+                    document.write("&nbsp&nbsp");
+                }
+            }
+            document.write("<br/>");
+        }
+        document.write("<br/>");
+
+        //Right triangle
+        width = 40;
+        for (var i = 0; i < height; i++) {
+            for (var j = 0; j < (width - (width / height)) ; j++) {
+                if (i == height - 1 || j == 0 || j == i * (width / height)) {
+                    document.write("*");
+                } else {
+                    document.write("&nbsp&nbsp");
+                }
+            }
+            document.write("<br/>");
+        }
+        document.write("<br/>");
+
+        //Equilateral triangle
+        for (var i = 0; i < height; i++) {
+            for (var j = (width - (width / height)) - 1; j > 0 ; j--) {
+                if (i == height - 1 || j == i * (width / height)) {
+                    document.write("*");
+                } else {
+                    document.write("&nbsp&nbsp");
+                }
+            }
+            for (var j = 0; j < (width - (width / height)) ; j++) {
+                if (i == height - 1 || j == i * (width / height)) {
+                    document.write("*");
+                } else {
+                    document.write("&nbsp&nbsp");
+                }
+            }
+            document.write("<br/>");
+        }
+        document.write("<br/>");
+
+        //Rhombus
+        for (var i = 0; i < height; i++) {
+            for (var j = (width - (width / height)); j > 0 ; j--) {
+                if (j == i * (width / height)) {                                            
+                    document.write("*");
+                } else {
+                    document.write("&nbsp&nbsp");
+                }
+            }
+            for (var j = 0; j <= (width - (width / height)) ; j++) {
+                if (j == i * (width / height)) {
+                    document.write("*");
+                } else {
+                    document.write("&nbsp&nbsp");
+                }
+            }
+            document.write("<br/>");
+        }
+        for (var i = 1; i < height; i++) {
+            for (var j = 0; j <= (width - (width / height)) ; j++) {
+                if (j == i * (width / height)) {
+                    document.write("*");
+                } else {
+                    document.write("&nbsp&nbsp");
+                }
+            }
+            for (var j = (width - (width / height)) - 1; j > 0 ; j--) {
+                if (j == i * (width / height)) {
+                    document.write("*");
+                } else {
+                    document.write("&nbsp&nbsp");
+                }
+            }
+            document.write("<br/>");
+        }
+
+    </script>
+</head>
+<body>
+
+</body>
+</html>

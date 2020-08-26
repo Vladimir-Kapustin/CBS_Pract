@@ -1,0 +1,28 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>HomeWork3</title>
+    <script>
+        var destinationPoints = parseInt(prompt("Введите количество пунктов доставки", ""));
+        var factorial = 1, counter = 0;
+
+        do {
+
+            counter++;
+            factorial *= counter;
+            if (counter == destinationPoints) {
+                break;
+            }
+
+        } while (counter > 0);
+
+        document.write("Количество возможных маршрутов: " + factorial);
+
+    </script>
+</head>
+<body>
+</body>
+</html>
+
+
