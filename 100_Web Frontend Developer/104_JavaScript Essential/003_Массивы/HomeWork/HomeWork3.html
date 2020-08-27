@@ -1,0 +1,52 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+
+    <script type="text/javascript">
+
+        var mainArr = [[], [], [], [], []];
+
+        mainArr[0] = [-3, 56, 78, 98, 4];
+        mainArr[1] = [56, 7, 123, 9, 4];
+        mainArr[2] = [23, 45, -65, 7, 5];
+        mainArr[3] = [123, 45, 87, 5, 45];
+        mainArr[4] = [312, 54, 78, 45, -5];
+
+        for (var i = 0; i < mainArr.length; i++) {
+            for (var j = 0; j < mainArr[i].length; j++) {
+                document.write(mainArr[i][j] + " ");
+            }
+            document.write("<br/>");
+        }
+        document.write("<br/>");
+
+
+        for (var i = 0; i < mainArr.length; i++) {
+            for (var j = 0; j < mainArr[i].length; j++) {
+                if (i==j) {
+                    if (mainArr[i][j] < 0) {
+                        mainArr[i][j] = 0;
+                    } else {
+                        mainArr[i][j] = 1;
+                    }
+                }
+            }
+        }
+
+        for (var i = 0; i < mainArr.length; i++) {
+            for (var j = 0; j < mainArr[i].length; j++) {
+                document.write(mainArr[i][j] + " ");
+            }
+            document.write("<br/>");
+        }
+        document.write("<br/>");
+
+    </script>
+
+</head>
+<body>
+
+</body>
+</html>
